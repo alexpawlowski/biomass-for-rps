@@ -1,0 +1,325 @@
+Plant.Name.x,Plant.Code,State.x,Sector.Name,Prime.Movers,Fuel.Types,Primary.Technology,Utility.ID,Utility.Name,Plant.Name.y,Street.Address,City,State.y,Zip,County,Latitude,Longitude
+ABEC Bidart-Old River LLC,58699,CA,IPP Non-CHP,IC,OBG,Other Waste Biomass,58628,ABEC Bidart-Old River LLC,ABEC Bidart-Old River LLC,20400 Old River Rd,Bakersfield,CA,93311,Kern,35.169722,-119.10555600000001
+AgriReNew,59181,IA,IPP CHP,GT,OBG,Other Waste Biomass,58986,AgriReNew,AgriReNew,26618 20th Ave,Stockton,IA,52769,Scott,41.691944,-90.866389
+Agrilectric Power Partners Ltd,10593,LA,IPP Non-CHP,ST,AB,Other Waste Biomass,135,Agrilectric Power Partners Ltd,Agrilectric Power Partners Ltd,3063 Hwy. 397,Lake Charles,LA,70615,Calcasieu,30.2012,-93.1269
+Akron Recycle Energy Plant,54265,OH,Commercial CHP,ST,WDS,Wood/Wood Waste Biomass,58835,Akron Energy Systems LLC,Akron Recycle Energy Plant,226 Opportunity Parkway,Akron,OH,44307,Summit,41.073336,-81.530642
+Akron WRF,58980,OH,Commercial CHP,IC,OBG,Other Waste Biomass,222,City of Akron,Akron WRF,2460 Akron Peninsula Rd,Akron,OH,44313,Summit,41.153333,-81.568889
+Alabama Pine Pulp,54429,AL,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,57356,Alabama River Cellulose LLC,Alabama Pine Pulp,2373 Lena Landegger Hwy. Co Rd,Perdue Hill,AL,36470,Monroe,31.5825,-87.4889
+Alabama River Pulp,10216,AL,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,57356,Alabama River Cellulose LLC,Alabama River Pulp,2373 Lena Landegger Hwy.Co. Rd,Perdue Hill,AL,36470,Monroe,31.5825,-87.4889
+Allendale Biomass,58706,SC,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,57170,"EDF Renewable Asset Holdings, Inc.",Allendale Biomass,307 Airport Loop,Fairfax,SC,29810,Allendale,32.995,-81.281944
+Altavista Power Station,10773,VA,Electric Utility,ST,WDS,Wood/Wood Waste Biomass,19876,Virginia Electric & Power Co,Altavista Power Station,104 Wood Lane,Altavista,VA,24517,Campbell,37.118674,-79.273551
+Ampersand Chowchilla Biomass LLC,56706,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,55953,Ampersand Chowchilla Biomass LLC,Ampersand Chowchilla Biomass LLC,16457 Avenue 24 1/2,Chowchilla,CA,93610,Madera,37.106668,-120.248504
+Androscoggin Mill,54085,ME,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,55738,Verso Paper Androscoggin LLC,Androscoggin Mill,Riley Road,Jay,ME,04239,Franklin,44.506273,-70.239474
+Ashdown,54104,AR,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,5262,Domtar Industries Inc,Ashdown,285 Hwy. 71 South,Ashdown,AR,71822,Little River,33.6417,-94.1083
+Athens Energy,60457,ME,IPP Non-CHP,OT,WDS,Wood/Wood Waste Biomass,60242,"Athens Energy, LLC",Athens Energy,164 Harmony Rd.,Athens,ME,04912,Somerset,44.945514,-69.660705
+Back River Waste Water Treatment,59026,MD,IPP Non-CHP,"IC, PV","OBG, SUN",Multiple,58870,City Council of Baltimore City,Back River Waste Water Treatment,8201 Eastern Ave,Baltimore,MD,21224,Baltimore City,39.299722,-76.494167
+Bay Front,3982,WI,Electric Utility,ST,"NG, WDS",Multiple,13781,Northern States Power Co - Minnesota,Bay Front,122 N. 14th Ave West,Ashland,WI,54806,Ashland,46.587222,-90.9017
+Bayville Central Facility,54569,NJ,Commercial CHP,"IC, PV","DFO, OBG, SUN",Multiple,13943,Ocean County Utilities Auth,Bayville Central Facility,501 Hickory Lane,Bayville,NJ,08721,Ocean,39.909424,-74.178041
+Benson Power Biomass Plant,55867,MN,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,6306,"Benson Power, LLC.",Benson Power Biomass Plant,900 Industry Drive,Benson,MN,56215,Swift,45.322401,-95.629506
+Big Sky Dairy Digester,57393,ID,IPP Non-CHP,IC,OBG,Other Waste Biomass,56718,DF-AP #1 LLC,Big Sky Dairy Digester,2395 S. 1500 E,Gooding,ID,83330,Gooding,42.8656,-114.7914
+Big Valley Power LLC,10288,CA,Industrial Non-CHP,ST,WDS,Wood/Wood Waste Biomass,56497,Big Valley Power (BVP) LLC,Big Valley Power LLC,554 925 Highway 299 East,Bieber,CA,96009,Lassen,41.1325,-121.137222
+BioTown Ag,59774,IN,Industrial CHP,IC,OBG,Other Waste Biomass,59539,BioTown Ag,BioTown Ag,402 W 100 North,Reynolds,IN,47980,White,40.765611,-86.879682
+Biomass One LP,10869,OR,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,1745,Biomass One LP,Biomass One LP,2350 Avenue G,White City,OR,97503,Jackson,42.436111,-122.849958
+"Biomass to Energy Facility, Kauai",59035,HI,IPP Non-CHP,"IC, ST","AB, DFO",Multiple,58873,Green Energy Team LLC,"Biomass to Energy Facility, Kauai",5031 Ku'ia Road,Koloa,HI,96756,Kauai,21.965278,-159.460556
+Blue Lake Power LLC,10764,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,56120,Blue Lake Power LLC,Blue Lake Power LLC,"200 Taylor Way, P.O. Box 1158",Blue Lake,CA,95525,Humboldt,40.8786,-123.9942
+Blue Mountain Biogas,58130,UT,IPP Non-CHP,IC,OBG,Other Waste Biomass,58081,Blue Mountain Biogas LLC,Blue Mountain Biogas,12665 South Pioche Road,Milford,UT,84751,Beaver,38.173889,-113.297222
+Boise Cascade International Falls,10486,MN,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,1991,Boise White Paper LLC,Boise Cascade International Falls,400 Second Street,International Falls,MN,56649,Koochiching,48.6067,-93.4066
+"Bos Dairy, LLC",57625,IN,Industrial Non-CHP,IC,OBG,Other Waste Biomass,56953,"Bos Dairy, LLC","Bos Dairy, LLC",10777 West 700 North,Fair Oaks,IN,47943,Jasper,41.1153,-87.2328
+Bowater Newsprint Calhoun Operation,50956,TN,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,23931,Resolute Forest Products,Bowater Newsprint Calhoun Operation,5020 Hwy 11 South,Calhoun,TN,37309,McMinn,35.2964,-84.7569
+Bridgewater Dairy Anaerobic Digester,57173,OH,Industrial Non-CHP,IC,OBG,Other Waste Biomass,56498,Weaver Bridgewater Dairy,Bridgewater Dairy Anaerobic Digester,14587 County Rd 8 50,Montpelier,OH,43543,Williams,41.6292,-84.6694
+Bridgewater Power LP,10290,NH,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,2226,Bridgewater Power Co LP,Bridgewater Power LP,Route #3,Bridgewater,NH,03217,Grafton,43.7155,-71.6585
+Brunswick Cellulose,10605,GA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,50003,Brunswick Cellulose LLC,Brunswick Cellulose,W 9th Street,Brunswick,GA,31520,Glynn,31.175406,-81.521637
+Buckeye Florida LP,50466,FL,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,2522,Buckeye Florida Ltd Partners,Buckeye Florida LP,One Buckeye Drive,Perry,FL,32347,Taylor,30.0688,-83.5253
+Bucksport Generation LLC,50243,ME,IPP CHP,"GT, ST","NG, WDS",Multiple,9303,Bucksport Generation LLC,Bucksport Generation LLC,River Road,Bucksport,ME,04416,Hancock,44.5738,-68.8046
+Buena Vista Biomass Power,58472,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,58460,Buena Vista Biomass LLC,Buena Vista Biomass Power,4655 Coal Mine Rd,Ione,CA,95640,Amador,38.277778,-120.913611
+Burgess BioPower,58054,NH,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,57430,"Berlin Station, LLC",Burgess BioPower,One Community Street,Berlin,NH,03570,Coos,44.471944,-71.175278
+Burney Forest Products,10652,CA,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,2565,North American Energy Services,Burney Forest Products,35586-B Highway 299 East,Burney,CA,96013,Shasta,40.879719,-121.720342
+Burney Mountain Power,54219,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,59479,"Covanta Energy Americas, Inc.",Burney Mountain Power,Hwy 299 East Energy Drive,Burney,CA,96013,Shasta,40.909483,-121.640368
+CPI USA NC Roxboro,10379,NC,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,58210,CPI USA NC Roxboro LLC,CPI USA NC Roxboro,331 Allie Clay Rd.,Roxboro,NC,27573,Person,36.435,-78.9619
+CPI USA NC Southport,10378,NC,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,58209,CPI USA NC Southport LLC,CPI USA NC Southport,1281 Powerhouse Dr. S.E.,Southport,NC,28461,Brunswick,33.944384,-78.011824
+Cadillac Renewable Energy,54415,MI,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,55600,Cadillac Renewable Energy LLC,Cadillac Renewable Energy,1525 Miltner St.,Cadilliac,MI,49601,Wexford,44.26169,-85.435224
+Caltech Central,57460,CA,IPP Non-CHP,FC,OBG,Other Waste Biomass,56778,Bloom Energy 2009 PPA,Caltech Central,1124 E California St,Pasadena,CA,91106,Los Angeles,34.1358,-118.1267
+Campbell Industrial Park,56329,HI,Electric Utility,GT,OBL,Other Waste Biomass,19547,Hawaiian Electric Co Inc,Campbell Industrial Park,91-196 Hanua Street,Kapolei,HI,96707,Honolulu,21.3025,-158.101667
+Cargill B6 Biofactory,57343,ID,IPP CHP,IC,OBG,Other Waste Biomass,60524,"Pico Energy, LLC",Cargill B6 Biofactory,3350 S. 2400 E.,Jerome,ID,83338,Gooding,42.7167,-114.6167
+Cargill Dry Creek Biofactory,57344,ID,Industrial CHP,IC,OBG,Other Waste Biomass,58992,"AgPower DCD, LLC",Cargill Dry Creek Biofactory,2952 N 4200 E,Hansen,ID,83344,Twin Falls,42.424937,-114.229225
+Cargill Kettle Butte Biofactory,57345,ID,IPP CHP,IC,OBG,Other Waste Biomass,60582,Kettle Butte Dairy LLC,Cargill Kettle Butte Biofactory,20 N 2100 E,Roberts,ID,83444,Jefferson,43.631944,-112.279722
+Central District Wastewater Treat Plant,54623,FL,Commercial CHP,IC,OBG,Other Waste Biomass,12411,Miami Dade Water & Sewer Dept,Central District Wastewater Treat Plant,3989 Rickenbacker cswy,Miami,FL,33131,Miami Dade,25.748565,-80.152791
+Central Valley Ag Power,58978,CA,IPP Non-CHP,IC,OBG,Other Waste Biomass,58839,Central Valley Ag Power LLC,Central Valley Ag Power,5509 Langworth Rd,Oakdale,CA,95361,Stanislaus,37.719722,-120.898611
+City of Hayward WWTP,58525,CA,IPP CHP,"IC, PV","OBG, SUN",Multiple,58500,City of Hayward,City of Hayward WWTP,3700 Enterprise Avenue,Hayward,CA,94545,Alameda,37.633526,-122.139717
+City of Tulare Water Facility,59395,CA,Commercial CHP,"FC, IC, PV","OBG, SUN",Multiple,59173,City of Tulare Water Pollution Control,City of Tulare Water Facility,1875 South West Street,Tulare,CA,93274,Tulare,36.185,-119.375
+Clean Fuel Dane Community Digester,59559,WI,IPP CHP,IC,OBG,Other Waste Biomass,59878,Clean Fuel Partners Dane,Clean Fuel Dane Community Digester,6321 Cuba Valley Road,Vienna,WI,53529,Dane,43.217222,-89.479167
+Clearwater Paper APP CB,50638,AR,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,56225,Clearwater Paper Corporation,Clearwater Paper APP CB,5082 Hwy 4 North,Arkansas City,AR,71630,Desha,33.7061,-91.2371
+Clearwater Paper IPP Lewiston,50637,ID,Industrial CHP,ST,"BLQ, NG",Multiple,56225,Clearwater Paper Corporation,Clearwater Paper IPP Lewiston,803 Mill Rd,Lewiston,ID,83501,Nez Perce,46.423056,-116.976389
+Clewiston Sugar House,50482,FL,Industrial CHP,ST,AB,Other Waste Biomass,19365,United States Sugar Corp,Clewiston Sugar House,1731 South WC Owen Avenue,Clewiston,FL,33440,Hendry,26.7351,-80.9377
+Co-Gen II LLC,50993,OR,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,3930,Co-Gen II,Co-Gen II LLC,1991 Pruner Road,Riddle,OR,97469,Douglas,42.961126,-123.359138
+Co-Gen LLC,50921,OR,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,3770,Co-Generation Co,Co-Gen LLC,457 Front Street,Prairie City,OR,97869,Grant,44.458696,-118.720601
+Collins Pine Project,10661,CA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,3953,Collins Pine Co,Collins Pine Project,500 Main Street,Chester,CA,96020,Plumas,40.303422,-121.244431
+Collinwood BioEnergy Facility,58439,OH,Industrial Non-CHP,IC,OBG,Other Waste Biomass,58435,Collinwood BioEnergy,Collinwood BioEnergy Facility,13550 Aspinwall Avenue,Cleveland,OH,44110,Cuyahoga,41.555556,-81.589167
+Columbia Flooring Melbourne,56182,AR,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,49831,Unilin Flooring NC LLC-Columbia Flooring,Columbia Flooring Melbourne,Highway 9 Spur,Melbourne,AR,72556,Izard,36.060514,-91.919802
+Columbus MS,50184,MS,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,20492,International Paper Columbus Mill,Columbus MS,4335 Carson Road,Columbus,MS,39703,Lowndes,33.3602,-88.46
+Consumer Products (Camas) LLC,57759,WA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,59936,Georgia-Pacific Consumer Prod. (Camas) LLC,Consumer Products (Camas) LLC,401 NE Adams St,Camas,WA,98607,Clark,45.584722,-122.4056
+Cosmo Specialty Fibers Plant,50185,WA,Industrial CHP,ST,WDL,Wood/Wood Waste Biomass,20547,Cosmo Specialty Fibers,Cosmo Specialty Fibers Plant,1701 First St,Cosmopolis,WA,98537,Grays Harbor,46.954071,-123.761086
+Covanta Delano Energy,10840,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,56099,Covanta Delano Inc,Covanta Delano Energy,31500 Pond Road,Delano,CA,93215,Kern,35.7144,-119.2337
+Covanta Mendota,10837,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,55989,Covanta Mendota LP,Covanta Mendota,400 Guillen Parkway,Mendota,CA,93640,Fresno,36.755896,-120.365422
+Covington Facility,50900,VA,Industrial CHP,ST,"BIT, BLQ, WDS",Multiple,20508,WestRock Corp,Covington Facility,104 East Riverside St,Covington,VA,24426,Covington City,37.799722,-79.9947
+Cox Waste to Energy,54850,KY,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,4413,Cox Interior Inc,Cox Waste to Energy,1001 New Columbia Rd,Campbellsville,KY,42718,Taylor,37.3208,-85.3611
+Craven County Wood Energy LP,10525,NC,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,3837,CMS Generation Operating Co II,Craven County Wood Energy LP,201 Executive Parkway,New Bern,NC,28562,Craven,35.130193,-77.167883
+DC Water CHP,59012,DC,IPP CHP,GT,OBG,Other Waste Biomass,58862,DC Water,DC Water CHP,5000 Overlook Ave SW,Washington,DC,20032,District of Columbia,38.820556,-77.018333
+DG Whitefield LLC,10839,NH,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,55840,EWP RENEWABLE CORP.,DG Whitefield LLC,260 Airport Road,Whitefield,NH,03598,Coos,44.358047,-71.5449
+Dairyland WTE Plant,59810,WI,IPP Non-CHP,IC,OBG,Other Waste Biomass,58303,Energy Systems Group LLC,Dairyland WTE Plant,2647 Mercier Road,New Franken,WI,54229,Brown,44.540115,-87.805587
+Darrington,57969,WA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,57344,Hampton Lumber Mills - Washington Inc,Darrington,46921 Sauk Prairie Rd,Darrington,WA,98241,Snohomish,48.269737,-121.599979
+Davenport Water Pollution Control Plant,55035,IA,Commercial CHP,IC,OBG,Other Waste Biomass,29729,Davenport City of,Davenport Water Pollution Control Plant,2606 South Concord Street,Davenport,IA,52802,Scott,41.4928,-90.6275
+DeRidder Mill,10488,LA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,1924,Boise Packaging & Newsprint LLC,DeRidder Mill,4200 Hwy 190 W.,DeRidder,LA,70634,Beauregard,30.8606,-93.3756
+Deer Island Treatment Plant,10823,MA,Commercial CHP,"GT, HY, PV, ST, WT","DFO, OBG, SUN, WAT, WND",Multiple,11427,Massachusetts Wtr RAuth-Deer I,Deer Island Treatment Plant,190 Tafts Avenue,Winthrop,MA,02152,Suffolk,42.353333,-70.962778
+Des Moines Wastewater Reclamation Fac,50932,IA,Commercial CHP,IC,OBG,Other Waste Biomass,5089,Des Moines Metro WRF,Des Moines Wastewater Reclamation Fac,3000 Vandalia Rd,Des Moines,IA,50317,Polk,41.573415,-93.557743
+Desert View Power,10300,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,3998,Desert View Power Inc,Desert View Power,62-300 Gene Welmas Drive,Mecca,CA,92254,Riverside,33.586,-116.0873
+Dillard Complex,50396,OR,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,16294,Roseburg Forest Products Co,Dillard Complex,10525 Old Highway 99 South,Dillard,OR,97432,Douglas,43.0895,-123.4156
+Dinuba Energy,60100,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,59849,Dinuba Energy,Dinuba Energy,6929 Ave 430,Reedley,CA,93654,Tulare,36.571485,-119.419176
+Domtar - Woodland Mill,10613,ME,Industrial CHP,"HY, ST","BLQ, WAT",Multiple,5232,Woodland Pulp LLC,Domtar - Woodland Mill,144 Main Street,Baileyville,ME,04694,Washington,45.1554,-67.4012
+Domtar Kingsport Mill,10252,TN,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,55849,Domtar Paper Co LLC Kingsport Mill,Domtar Kingsport Mill,100 Clinchfield Street,Kingsport,TN,37660,Sullivan,36.5489,-82.5667
+Domtar Paper Co LLC Plymouth NC,50189,NC,Industrial CHP,ST,"BLQ, WDS",Wood/Wood Waste Biomass,55903,Domtar Paper Company LLC,Domtar Paper Co LLC Plymouth NC,NC Hwy 149 N,Plymouth,NC,27962,Martin,35.8628,-76.7831
+Dorchester Biomass,58707,SC,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,57170,"EDF Renewable Asset Holdings, Inc.",Dorchester Biomass,609 7 Mile Road,Harleyville,SC,29448,Dorchester,33.238611,-80.450278
+Double A Digester,57425,ID,IPP CHP,IC,OBG,Other Waste Biomass,56753,AgPower Jerome LLC,Double A Digester,305 County Line Road,Jerome,ID,83338,Jerome,42.853942,-114.471911
+Durham AWTF,60263,OR,Commercial CHP,IC,OBG,Other Waste Biomass,60047,Clean Water Services,Durham AWTF,16060 SW 85th Ave,Tigard,OR,97224,Washington,45.400524,-122.765822
+Eagle Valley Clean Energy LLC Biomass,58574,CO,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,58535,Eagle Valley Clean Energy LLC,Eagle Valley Clean Energy LLC Biomass,10775 US Highway 6,Gypsum,CO,81637,Eagle,39.648056,-106.943056
+East Millinocket Mill,55830,ME,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,57207,"HC-50 MAIN STREET, LLC",East Millinocket Mill,50 Main Street,Millinocket,ME,04462,Penobscot,45.6219,-68.5756
+Eastern Correctional Institute,10693,MD,Commercial CHP,"IC, ST","DFO, WDS",Multiple,11704,Maryland Environmental Service,Eastern Correctional Institute,30420 Revells Neck Road,Westover,MD,21890,Somerset,38.159,-75.704
+El Nido Facility,56707,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,55952,Merced Power LLC,El Nido Facility,30 W Sandy Mush Rd,El Nido,CA,95340,Merced,37.1867,-120.4903
+Encina Water Pollution Control,10026,CA,Commercial Non-CHP,IC,OBG,Other Waste Biomass,5901,Encina Joint Powers Authority,Encina Water Pollution Control,6200 Avenida Encinas,Carlsbad,CA,92011,San Diego,33.1165,-117.3215
+Enderlin,54908,ND,Industrial CHP,ST,AB,Other Waste Biomass,772,Archer Daniels Midland Co,Enderlin,5525 136th Ave. SE,Enderlin,ND,58027,Ransom,46.6144,-97.5765
+Enterprise Sugar Factory,51008,LA,Industrial CHP,ST,AB,Other Waste Biomass,11415,"M.A. Patout & Son Limited, LLC",Enterprise Sugar Factory,3512 J Patout Burns Rd,Jeanerette,LA,70544,Iberia,29.903611,-91.725556
+Escanaba Mill,10208,MI,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,55867,Verso Escanaba LLC,Escanaba Mill,7100 County 426 M-5 Road,Escanaba,MI,49829,Delta,45.8044,-87.0891
+Evergreen BioPower LLC,56781,OR,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,55968,Evergreen BioPower LLC,Evergreen BioPower LLC,141 14th St,Lyons,OR,97358,Linn,44.770792,-122.611974
+Evergreen Community Power,58023,PA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,57400,"Evergreen Community Power, LLC",Evergreen Community Power,802 South Street,Reading,PA,19602,Berks,40.325556,-75.922778
+Expera Specialty Solutions - Mosinee Mill,50614,WI,Industrial CHP,"HY, ST","BLQ, WAT",Multiple,13008,Expera Mosinee LLC,Expera Specialty Solutions - Mosinee Mill,100 Main St,Mosinee,WI,54455,Marathon,44.7881,-89.6917
+FCPC Renewable Generation,59931,WI,IPP CHP,IC,OBG,Other Waste Biomass,59688,"FCPC Renewable Generation, LLC",FCPC Renewable Generation,2011 W Potawatomi Circle,Milwaukee,WI,53233,Milwaukee,43.030016,-87.940914
+Fairhaven Power,10052,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,54788,DG Fairhaven Power LLC,Fairhaven Power,97 Bay Street,Samoa,CA,95564,Humboldt,40.7995,-124.2028
+Fernandina Beach Mill,10202,FL,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,9686,RockTenn-Jackson Fenandina,Fernandina Beach Mill,North 8th Street,Fernandina Beach,FL,32034,Nassau,30.681823,-81.455413
+Fernandina Plant,10562,FL,Industrial CHP,ST,"OBS, WDS",Multiple,15726,Rayonier Advanced Materials,Fernandina Plant,Foot of Gum Street,Fernandina Beach,FL,32034,Nassau,30.6612,-81.473
+Finch Paper,10511,NY,Industrial CHP,ST,WDL,Wood/Wood Waste Biomass,56174,Finch Paper LLC,Finch Paper,1 Glen Street,Glen Falls,NY,12801,Warren,43.3084,-73.6376
+Flambeau River Papers,50620,WI,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,54876,Flambeau River Papers,Flambeau River Papers,200 North First Avenue,Park Falls,WI,54552,Price,45.9356,-90.4472
+Flint River Operations,50465,GA,Industrial CHP,ST,"BLQ, WDS",Wood/Wood Waste Biomass,20542,Weyerhaeuser Co,Flint River Operations,2449 Stagecoach Road,Oglethorpe,GA,31068,Macon,32.2544,-84.0667
+Florence Mill,50806,SC,Industrial CHP,ST,"BLQ, WDS",Wood/Wood Waste Biomass,18162,WestRock-Florence,Florence Mill,Paper Mill Road,Florence,SC,29506,Florence,34.1497,-79.5606
+Florida Power Development,10333,FL,IPP Non-CHP,ST,OBS,Other Waste Biomass,3303,Florida Power Development,Florida Power Development,10311 Cement Plant Road,Brooksville,FL,34601,Hernando,28.5819,-82.4311
+Fourche Creek Wastewater,10050,AR,Commercial CHP,IC,OBG,Other Waste Biomass,11079,Little Rock Wastewater Utility,Fourche Creek Wastewater,9500 Birdwood Dr.,Little Rock,AR,72206,Pulaski,34.6968,-92.165
+"Fremont Community Digester, LLC",59785,MI,IPP CHP,IC,OBG,Other Waste Biomass,60954,Amherst Consulting LLC,"Fremont Community Digester, LLC",1634 Locust Street,Newaygo,MI,49412,Newaygo,43.45965,-85.9761
+French Island,4005,WI,Electric Utility,"GT, ST","DFO, WDS",Multiple,13781,Northern States Power Co - Minnesota,French Island,200 S Bainbridge St,La Cross,WI,54601,La Crosse,43.8292,-91.2597
+GL Dairy Biogas,58219,WI,IPP Non-CHP,IC,OBG,Other Waste Biomass,58186,GL Dairy Biogas LLC,GL Dairy Biogas,Schneider Road,Springfield,WI,53562,Dane,43.124444,-89.545
+Gainesville Renewable Energy Center,57241,FL,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,56611,Gainesville Renewable Energy Center LLC,Gainesville Renewable Energy Center,11201 NW 13th Street,Gainsville,FL,32653,Alachua,29.7675,-82.396388
+Gas Utilization Facility,50492,CA,Commercial CHP,"HY, IC","OBG, WAT",Multiple,16764,City of San Diego,Gas Utilization Facility,1902 Gatchell Road,San Diego,CA,92106,San Diego,32.679172,-117.246698
+Gaylord Container Bogalusa,54427,LA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,7043,Temple-Inland Corp,Gaylord Container Bogalusa,401 Avenue U,Bogalusa,LA,70427,Washington,30.7811,-89.8575
+Genesee Power Station LP,54751,MI,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,3836,CMS Generation Operating LLC,Genesee Power Station LP,5310 N Dort Hwy,Flint,MI,48505,Genesee,43.08511,-83.669386
+Georgia-Pacific Big Island,50479,VA,Industrial CHP,"HY, ST","WAT, WDS",Multiple,7167,GP Big Island LLC,Georgia-Pacific Big Island,9363 Lee Jackson Highway,Big Island,VA,24526,Bedford,37.534,-79.357
+Georgia-Pacific Brewton Mill,54789,AL,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,55932,Georgia-Pacific Brewton LLC,Georgia-Pacific Brewton Mill,Highway 31 South,Brewton,AL,36426,Escambia,31.077,-87.1116
+Georgia-Pacific Cedar Springs,54101,GA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,7172,Georgia-Pacific Cedar Springs LLC,Georgia-Pacific Cedar Springs,GA Hwy 273 W,Cedar Springs,GA,31732,Early,31.166,-85.0951
+Georgia-Pacific Consr Prods LP-Naheola,10699,AL,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,7136,Georgia-Pacific Consr Prods LP-Naheola,Georgia-Pacific Consr Prods LP-Naheola,7530 Highway 114,Pennington,AL,36916,Choctaw,32.2268,-88.0252
+Georgia-Pacific Corp - Nekoosa Mill,50395,WI,Industrial CHP,"HY, ST","BLQ, NG, WAT",Multiple,5033,Domtar Industries Inc,Georgia-Pacific Corp - Nekoosa Mill,301 Point Basse Ave,Nekoosa,WI,54457,Wood,44.3142,-89.8964
+Georgia-Pacific Crossett LLC,10606,AR,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,4580,Georgia-Pacific LLC,Georgia-Pacific Crossett LLC,100 Suppply Rd,Crossett,AR,71635,Ashley,33.1421,-91.975
+Georgia-Pacific Monticello Paper,10610,MS,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,7166,Georgia-Pacific Monticello LLC,Georgia-Pacific Monticello Paper,604 N.A. Sandifer Road,Monticello,MS,39654,Lawrence,31.6285,-90.0809
+Georgia-Pacific Palatka Operations,10611,FL,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,50128,Georgia-Pacific Consr Ops LLC-Palatka,Georgia-Pacific Palatka Operations,"County Rd #216,",Palatka,FL,32177,Putnam,29.6807,-81.6809
+Georgia-Pacific Port Hudson,10612,LA,Industrial CHP,ST,"BLQ, PC",Multiple,50129,Georgia-Pacific Cons Op LLC Port Hudson,Georgia-Pacific Port Hudson,1000 W Mount Pleasant Rd,Zachary,LA,70791,East Baton Rouge,30.6547,-91.28
+Georgia-Pacific Toledo Mill,58109,OR,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,57492,Georgia-Pacific Toledo LLC,Georgia-Pacific Toledo Mill,1400 SE Butler Bridge Road,Toledo,OR,97391,Lincoln,44.611944,-123.931944
+Georgia-Pacific Wauna Mill,56192,OR,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,49842,Georgia-Pacific Consr Prods LP-Wauna,Georgia-Pacific Wauna Mill,92326 Taylorville Road,Clatskanie,OR,97016,Clatsop,46.153955,-123.40658
+Gettysburg Energy & Nutrient Rec Facility,58565,PA,IPP Non-CHP,ST,OBS,Other Waste Biomass,58527,Gettysburg Energy and Nutrient Rec Facility LLC,Gettysburg Energy & Nutrient Rec Facility,3917 Oxford Road,York Springs,PA,17372,Adams,39.950278,-77.125278
+Grayling Generating Station,10822,MI,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,3836,CMS Generation Operating LLC,Grayling Generating Station,4400 W 4 Mile Rd,Grayling,MI,49738,Crawford,44.604921,-84.690578
+Green Cow Power,60721,IN,Industrial Non-CHP,IC,OBG,Other Waste Biomass,60441,Green Cow Power LLC,Green Cow Power,24130 County Rd. 40,Goshen,IN,46526,Elkhart,41.536735,-85.927204
+GreenWhey Energy Inc,58747,WI,IPP CHP,IC,OBG,Other Waste Biomass,58660,GreenWhey Holdings,GreenWhey Energy Inc,465 Western Blvd,Turtle Lake,WI,54889,Polk,45.390278,-92.1625
+HL Power,10777,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,56866,HL Power Company,HL Power,735-025 Wendel Road,Wendel,CA,96136,Lassen,40.368338,-120.264848
+Halifax County Biomass,58560,VA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,58524,South Boston Energy LLC,Halifax County Biomass,1225 Plywood Trail,South Boston,VA,24592,Halifax,36.701389,-78.873333
+Harvest Power Orlando,59151,FL,Commercial CHP,IC,OBG,Other Waste Biomass,58969,Harvest Power Orlando LLC,Harvest Power Orlando,2010 South Service Lane,Lake Buena Vista,FL,32830,Orange,28.376111,-81.590556
+"Hidden View Dairy, LLC",59260,IN,Industrial Non-CHP,IC,OBG,Other Waste Biomass,59093,"Hidden View Dairy, LLC","Hidden View Dairy, LLC",1498 West SR 14,Rensselaer,IN,47978,Jasper,41.032778,-87.0725
+Hillman Power LLC,10346,MI,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,8641,Hillman Power Co,Hillman Power LLC,750 Progress Street,Hillman,MI,49746,Montmorency,45.0688,-83.8932
+Hoge Lumber,10739,OH,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,8696,Hoge Lumber Co,Hoge Lumber,701 South Main Street,New Knoxville,OH,45871,Auglaize,40.488484,-84.3183
+Holsum Elm Dairy,58663,WI,Industrial CHP,IC,OBG,Other Waste Biomass,58605,Holsum Elm Dairy,Holsum Elm Dairy,N6206 Elm Rd,Hilbert,WI,54129,Calumet,44.115,-88.217222
+Hometown Bio Energy LLC,58563,MN,IPP CHP,IC,OBG,Other Waste Biomass,58526,Hometown Bio Energy LLC,Hometown Bio Energy LLC,31889 356th Street,Le Sueur,MN,56058,Le Sueur,44.435556,-93.906389
+Hopewell Mill,50813,VA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,18147,RockTenn-Hopewell,Hopewell Mill,910 Industrial St.,Hopewell,VA,23860,Hopewell City,37.2914,-77.2816
+Hopewell Power Station,10771,VA,Electric Utility,ST,WDS,Wood/Wood Waste Biomass,19876,Virginia Electric & Power Co,Hopewell Power Station,107 Terminal Street,Hopewell,VA,23860,Hopewell City,37.297834,-77.282982
+Howard F Curren Advncd Wastewater Plant,54347,FL,Commercial Non-CHP,IC,OBG,Other Waste Biomass,18483,Tampa Wastewater Department,Howard F Curren Advncd Wastewater Plant,2700 Maritime Blvd,Tampa,FL,33605,Hillsborough,27.9389,-82.4389
+IP Springfield Oregon,50191,OR,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,56289,International Paper Corporation,IP Springfield Oregon,801 42nd Street,Springfield,OR,97478,Lane,44.0569,-122.9555
+Indeck Energy-Alexandria,58595,NH,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,58550,"Indeck Energy-Alexandria, LLC",Indeck Energy-Alexandria,151 Smith River Road,Alexandria,NH,03222,Grafton,43.560833,-71.780556
+Indeck Jonesboro Energy Center,10765,ME,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,56402,Covanta Maine LLC,Indeck Jonesboro Energy Center,Route 1A,Jonesboro,ME,04648,Washington,44.6781,-67.5477
+Indeck West Enfield Energy Center,10766,ME,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,56402,Covanta Maine LLC,Indeck West Enfield Energy Center,Route 2,West Enfield,ME,04493,Penobscot,45.2537,-68.62792
+Ingredion Winston Salem,54618,NC,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,4417,Ingredion Inc - Winston Salem,Ingredion Winston Salem,4501 Overdale Road,Winston-Salem,NC,27107,Forsyth,36.033761,-80.227404
+Inland Paperboard Packaging Rome,10426,GA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,23632,Inland Paperboard - Rome Mill,Inland Paperboard Packaging Rome,238 Mays Bridge Rd,Rome,GA,30165,Floyd,34.2528,-85.3275
+International Paper - Orange,10425,TX,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,54745,International Paper - Orange,International Paper - Orange,1750 Inland Rd,Orange,TX,77632,Orange,30.2178,-93.7422
+International Paper Augusta Mill,54358,GA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,9353,International Paper Co-Augusta,International Paper Augusta Mill,4278 Mike Padgett Highway,Augusta,GA,30906,Richmond,33.328259,-81.953078
+International Paper Co. - New Bern Mill,50188,NC,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,20511,International Paper Co. - New Bern Mill,International Paper Co. - New Bern Mill,1785 Weyerhaeuser Rd.,New Bern,NC,28563,Craven,35.212,-77.1144
+International Paper Eastover Facility,52151,SC,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,9424,International Paper Co-Eastovr,International Paper Eastover Facility,4001 McCord's Ferry Rd,Eastover,SC,29044,Richland,33.8872,-80.6397
+International Paper Franklin Mill,52152,VA,Industrial CHP,"GT, ST","BLQ, NG",Multiple,9348,International Paper,International Paper Franklin Mill,34040 Union Camp Dr.,Franklin,VA,23851,Isle of Wight,36.6803,-76.9128
+International Paper Georgetown Mill,54087,SC,Industrial CHP,ST,"BLQ, WDS",Wood/Wood Waste Biomass,9390,International Paper Co-GT Mill,International Paper Georgetown Mill,700 South Kaminski Street,Georgetown,SC,29440,Georgetown,33.360185,-79.302573
+International Paper Pensacola,50250,FL,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,9401,International Paper Co-Pensacola,International Paper Pensacola,375 Muscogee Road,Cantonment,FL,32533,Escambia,30.5966,-87.3264
+International Paper Prattville Mill,52140,AL,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,8009,International Paper Co,International Paper Prattville Mill,100 Jensen Road,Prattville,AL,36067,Autauga,32.4187,-86.4718
+International Paper Red River Mill,58108,LA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,57481,Red River Mill Intl Paper Company,International Paper Red River Mill,4537 Highway 480,Campti,LA,71411,Natchitoches,31.903333,-93.173889
+International Paper Riegelwood Mill,54656,NC,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,9210,International Paper Co-Riegelwood,International Paper Riegelwood Mill,865 John L Riegel Road,Riegelwood,NC,28456,Columbus,34.3533,-78.2137
+International Paper Riverdale Mill,54096,AL,Industrial CHP,"CA, CT, ST","BLQ, NG",Multiple,9393,International Paper Co-Riverdl,International Paper Riverdale Mill,601 County Rd 78,Selma,AL,36703,Dallas,32.426016,-86.870912
+International Paper Savanna Mill,50398,GA,Industrial CHP,ST,"BLQ, NG",Multiple,30002,International Paper Co,International Paper Savanna Mill,West Lathrop,Savannah,GA,31402,Chatham,32.100354,-81.124248
+International Paper Texarkana Mill,54097,TX,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,9385,International Paper Co,International Paper Texarkana Mill,9978 FM 3129,Queen City,TX,75572,Cass,33.2553,-94.0696
+International Paper Valliant OK,50192,OK,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,56164,International Paper - Valliant,International Paper Valliant OK,890 IP Lane,Valliant,OK,74764,McCurtain,33.9961,-95.1114
+International Paper Vicksburg Mill,54100,MS,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,9382,International Paper Co-Vicksbg,International Paper Vicksburg Mill,Higway 3 North,Vicksburg,MS,39181,Warren,32.5292,-90.7742
+Interstate Paper LLC Riceboro,54281,GA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,9394,Interstate Paper LLC,Interstate Paper LLC Riceboro,2366 Interstate Paper Road,Riceboro,GA,31323,Liberty,31.741629,-81.407856
+J C McNeil,589,VT,Electric Utility,ST,WDS,Wood/Wood Waste Biomass,2548,City of Burlington Electric - (VT),J C McNeil,111 Intervale Road,Burlington,VT,05401,Chittenden,44.4917,-73.208056
+"JC-Biomethane, LLC",59704,OR,IPP CHP,GT,OBG,Other Waste Biomass,59473,"JC-Biomethane, LLC","JC-Biomethane, LLC",92757 Highway 99 S,Junction City,OR,97448,Lane,44.183526,-123.200454
+John H Warden,1772,MI,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,56133,L'Anse Warden Electric Company LLC,John H Warden,157 S Main St,L'Anse,MI,49946,Baraga,46.7553,-88.4558
+Johnsonburg Mill,54638,PA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,56137,Domtar LLC,Johnsonburg Mill,100 Center Street,Johnsonburg,PA,15845,Elk,41.491466,-78.675759
+Kaiser Ontario,58132,CA,IPP Non-CHP,FC,OBG,Other Waste Biomass,56778,Bloom Energy 2009 PPA,Kaiser Ontario,2295 South Vineyard Ave,Ontario,CA,91761,San Bernardino,34.0325,-117.608889
+KapStone Kraft Paper Corp,50254,NC,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,55771,KapStone Kraft Paper Corp,KapStone Kraft Paper Corp,100 Gaston Road,Roanoke Rapids,NC,27870,Halifax,36.4769,-77.6414
+Kapstone,7737,SC,Electric Utility,ST,WDS,Wood/Wood Waste Biomass,17539,South Carolina Electric&Gas Company,Kapstone,5600 Virginia Avenue,Charleston,SC,29423,Charleston,32.9,-79.9667
+Kaukauna Paper Mill,54098,WI,Industrial CHP,ST,"BIT, BLQ",Multiple,54738,Thilmany LLC,Kaukauna Paper Mill,600 Thilmany Road,Kaukauna,WI,54130,Outagamie,44.2826,-88.2534
+Kentucky Mills,55429,KY,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,55839,Domtar Paper Company LLC,Kentucky Mills,"PO Box 130, Hwy 1406",Hawesville,KY,42348,Hancock,37.8948,-86.6854
+Kettle Falls Generating Station,550,WA,Electric Utility,"GT, ST","NG, WDS",Multiple,20169,Avista Corp,Kettle Falls Generating Station,1151 Hyw. 395 N.,Kettle Falls,WA,99141,Stevens,48.620336,-118.111059
+Kishwaukee CHP Plant,58177,IL,IPP CHP,IC,OBG,Other Waste Biomass,58129,Rock River Water Reclamation District,Kishwaukee CHP Plant,3333 Kishwaukee Street,Rockford,IL,61109,Winnebago,42.221944,-89.093333
+Koda Biomass Plant,57119,MN,IPP CHP,ST,AB,Other Waste Biomass,56413,Koda Energy LLC,Koda Biomass Plant,975 3rd Avenue West,Shakopee,MN,55379,Scott,44.7956,-93.5386
+Leaf River Cellulose LLC,10233,MS,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,50133,Leaf River Cellulose LLC,Leaf River Cellulose LLC,134 Buck Creek Road,NA,MS,39462,Perry,31.2434,-89.0456
+"Lignetics of Maine, LLC.",55034,ME,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,56383,"Lignetics of Maine, LLC.","Lignetics of Maine, LLC.",30 Norton Hill Road,Strong,ME,04983,Franklin,44.8061,-70.2186
+Longview Fibre,54562,WA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,11169,Longview Fibre Co,Longview Fibre,300 Fibre Way,Longview,WA,98632,Cowlitz,46.103887,-122.918429
+Lumberton,10382,NC,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,59593,NC Renewable Power - Lumberton LLC,Lumberton,1866 Hestertown Road,Lumberton,NC,28359,Robeson,34.59,-78.9968
+M L Hibbard,1897,MN,Commercial CHP,ST,WDS,Wood/Wood Waste Biomass,12647,"ALLETE, Inc.",M L Hibbard,4913 Main Street,Duluth,MN,55807,St Louis,46.735331,-92.151711
+MCLB Landfill Gas to Energy,59335,GA,IPP CHP,IC,OBG,Other Waste Biomass,59135,Inst and Envir Div Marine Logistics Base,MCLB Landfill Gas to Energy,814 Radford Blvd,Albany,GA,31704,Dougherty,31.546111,-84.0675
+MMSD South Shore Wastewater,55525,WI,Commercial CHP,IC,OBG,Other Waste Biomass,12619,Milwaukee Metro Sewerage Dist,MMSD South Shore Wastewater,8500 S 5th Ave,Oak Creek,WI,53154,Milwaukee,42.8869,-87.8422
+Manitowoc,4125,WI,Electric Utility,"IC, ST","NG, PC, WDS",Multiple,11571,Manitowoc Public Utilities,Manitowoc,701 Columbus Street,Manitowoc,WI,54221,Manitowoc,44.082,-87.6558
+Mansfield Mill,54091,LA,Industrial CHP,"GT, ST","BLQ, NG",Multiple,9312,IPC-Mansfield Mill,Mansfield Mill,1202 Hwy 509,Mansfield,LA,71052,DeSoto,32.1575,-93.5562
+Marlboro Mill,57470,SC,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,56788,Domtar Paper Company Bennettsville,Marlboro Mill,585 Willamette Road,Bennettsville,SC,29512,Marlboro,34.605,-79.785
+McMinnville,55928,TN,Electric Utility,IC,"DFO, OBL",Multiple,12186,McMinnville Electric System,McMinnville,200 West Morford St.,McMinnville,TN,37111,Warren,35.705,-85.7439
+Mead Coated Board,54802,AL,Industrial CHP,"GT, ST","BLQ, NG",Multiple,12222,Mead Coated Board Inc,Mead Coated Board,Hwy 165 S,Mahrt,AL,36851,Russell,32.1761,-85.0272
+Medford Operation,56193,OR,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,50082,Boise Cascade Wood Products LLC,Medford Operation,3285 North Pacific Highway,Medford,OR,97501,Jackson,42.355517,-122.904642
+Mesquite Lake Energy Park Plant 2,50363,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,55960,Mesquite Lake Energy Park,Mesquite Lake Energy Park Plant 2,3559 Highway 111,Imperial,CA,92251,Imperial,32.903826,-115.511949
+Mesquite Lake Water & Power Plant 1,57154,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,59186,Mesquite Lake Water & Power Plant 1,Mesquite Lake Water & Power Plant 1,3505 US Highway 111,Imperial,CA,92225,Imperial,32.906569,-115.513747
+Metro Wastewater Reclamation District,10180,CO,IPP CHP,"GT, IC",OBG,Other Waste Biomass,19068,"Colorado Energy Nations Company, LLC",Metro Wastewater Reclamation District,6450 York Street,Denver,CO,80229,Denver,39.8078,-104.9542
+Middlebury College,57804,VT,Commercial CHP,ST,WDS,Wood/Wood Waste Biomass,57123,Middlebury College Biomass,Middlebury College,84 South Service Road,Middlebury,VT,05753,Addison,44.0075,-73.176944
+MillerCoors Irwindale Brewery,58056,CA,Industrial Non-CHP,"GT, IC, PV","NG, OBG, SUN",Multiple,57435,MillerCoors Irwindale Brewery,MillerCoors Irwindale Brewery,15801 E First Street,Irwindale,CA,91706,Los Angeles,34.121667,-117.938333
+MillerCoors Shenandoah Brewery,58057,VA,Industrial Non-CHP,GT,OBG,Other Waste Biomass,57436,MillerCoors Shenandoah Brewery,MillerCoors Shenandoah Brewery,5135 South Eastside Highway,Elkton,VA,22812,Rockingham,38.356944,-78.676667
+Missouri River Wastewater Treatment,55033,NE,Commercial CHP,IC,OBG,Other Waste Biomass,13157,Omaha City of,Missouri River Wastewater Treatment,5600 South 10th Street,Omaha,NE,68107,Douglas,41.2033,-95.9292
+Mobile Energy Services LLC,50407,AL,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,34672,DTE Energy Services,Mobile Energy Services LLC,200 Bay Bridge Road,Moble,AL,36610,Mobile,30.736487,-88.051643
+Monterey Regional Water Cogen Facility,54951,CA,Commercial CHP,IC,OBG,Other Waste Biomass,12221,MRWPCA,Monterey Regional Water Cogen Facility,14811 Del Monte Blvd,Marina,CA,93933,Monterey,36.7056,-121.7714
+Mt Lassen Power,54468,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,59479,"Covanta Energy Americas, Inc.",Mt Lassen Power,"1/2 mi W of Town,County Rd A21",Westwood,CA,96013,Lassen,40.2969,-121.0178
+Mt Poso Cogeneration,54626,CA,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,13060,Mt Poso Cogeneration Co,Mt Poso Cogeneration,36157 Famoso Woody Road,Bakersfield,CA,93308,Kern,35.576323,-119.006245
+"Multitrade Rabun Gap, LLC",50201,GA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,56216,Multitrade Rabun Gap LLC,"Multitrade Rabun Gap, LLC",1585 York House Road,Rabun Gap,GA,30568,RABUN,34.9536,-83.3786
+Multitrade of Pittsylvania LP,52118,VA,Electric Utility,ST,WDS,Wood/Wood Waste Biomass,19876,Virginia Electric & Power Co,Multitrade of Pittsylvania LP,821 Grit Road,Hurt,VA,24563,Pittsylvania,37.104141,-79.276958
+NPI USA Cogeneration Plant,58352,WA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,58341,Nippon Paper Industries USA,NPI USA Cogeneration Plant,1815 Marine Drive,Port Angeles,WA,98363,Clallam,48.134722,-123.465556
+Nacogdoches Power,55708,TX,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,17650,Southern Power Co,Nacogdoches Power,499 County Road 988,Cushing,TX,75760,Nacogdoches,31.832132,-94.90064
+Napoleon Biogas,58921,OH,IPP Non-CHP,IC,OBG,Other Waste Biomass,58383,CH4 Biogas LLC,Napoleon Biogas,12329 County Road P-3,Napoleon,OH,43545,Henry,41.355556,-84.1025
+Nippon Dynawave Packaging Longview WA,50187,WA,Industrial CHP,ST,"BLQ, WDS",Wood/Wood Waste Biomass,60561,Nippon Dynawave Packaging Co.,Nippon Dynawave Packaging Longview WA,3401 Industrial Way,Longview,WA,98632,Cowlitz,46.1236,-122.9728
+Novo BioPower Plant,56616,AZ,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,55925,Novo Biopower LLC,Novo BioPower Plant,Highway Spur 277 N,Snowflake,AZ,85937,Navajo,34.503158,-110.334953
+Okeelanta Cogeneration,54627,FL,IPP CHP,ST,AB,Other Waste Biomass,13492,New Hope Power Company,Okeelanta Cogeneration,8001 Highway 27 South,South Bay,FL,33493,Palm Beach,26.5769,-80.7469
+Orbit Energy Charlotte,58638,NC,IPP Non-CHP,IC,OBG,Other Waste Biomass,58589,Orbit Energy Charlotte,Orbit Energy Charlotte,600 Johnson Rd,Charlotte,NC,28206,Mecklenburg,35.2625,-80.811667
+Oshkosh Foundation Rosedale Biodigester LLC,58555,WI,IPP Non-CHP,IC,OBG,Other Waste Biomass,58521,University of Wisconsin Oshkosh Foundation,Oshkosh Foundation Rosedale Biodigester LLC,N8997 County Tk M,Pickett,WI,54964,Winnebago,43.867778,-88.718056
+Oxnard Wastewater Treatment Plant,50224,CA,Commercial CHP,IC,OBG,Other Waste Biomass,22045,Oxnard City of,Oxnard Wastewater Treatment Plant,6001 S. Perkins Rd.,Oxnard,CA,93033,Ventura,34.140501,-119.184529
+P H Glatfelter,50397,PA,Industrial CHP,ST,"BIT, BLQ",Multiple,14310,P H Glatfelter Co,P H Glatfelter,228 S. Main Street,Spring Grove,PA,17362,York,39.870935,-76.868117
+P H Glatfelter Co -Chillicothe Facility,10244,OH,Industrial CHP,ST,"BIT, BLQ",Multiple,54880,P H Glatfelter Company,P H Glatfelter Co -Chillicothe Facility,232 East 8th Street,Chillicothe,OH,45601,Ross,39.324611,-82.974039
+PCA-Valdosta Mill,60084,GA,Industrial CHP,ST,"BLQ, WDS",Wood/Wood Waste Biomass,59833,PCA-Valdosta Mill,PCA-Valdosta Mill,5495 Clyattville-Lake Park Roa,Valdosta,GA,31601,Lowndes,30.694444,-83.303056
+PInova Inc,10120,GA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,8486,PInova Inc,PInova Inc,2801 Cook St,Brunswick,GA,31520,Glynn,31.164772,-81.478724
+POTB Digester,58591,OR,Electric Utility,IC,OBG,Other Waste Biomass,58547,Port of Tillamook Bay,POTB Digester,6080 Hangar A Rd,Tillamook,OR,97141,Tillamook,45.414444,-123.804167
+PWD Northeast WPCP Biogas Cogen Plant,58326,PA,Commercial Non-CHP,IC,OBG,Other Waste Biomass,56205,Philadelphia Water Department,PWD Northeast WPCP Biogas Cogen Plant,3899 Richmond St,Philadelphia,PA,19137,Philadelphia,39.988611,-75.083333
+Pacific Oroville Power Inc,54469,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,59479,"Covanta Energy Americas, Inc.",Pacific Oroville Power Inc,3050 South Fifth Avenue,Oroville,CA,95965,Butte,39.480419,-121.565663
+Pacific Rim Dairy Digester,59447,CA,IPP Non-CHP,IC,OBG,Other Waste Biomass,59213,Maas Energy Works,Pacific Rim Dairy Digester,13406 Road 24,Corcoran,CA,93212,Tulare,36.033056,-119.51
+Pacific-Ultrapower Chinese Station,50560,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,58650,IHI Power Services Corp,Pacific-Ultrapower Chinese Station,8755 Enterprise Drive,Jamestown,CA,95327,Tuolumne,37.874056,-120.477556
+Packaging Corp of America,50296,TN,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,14362,Packaging Corp of America,Packaging Corp of America,HWY. 57,Counce,TN,38326,Hardin,35.0471,-88.2661
+Papillion Creek Wastewater,55027,NE,Commercial CHP,IC,OBG,Other Waste Biomass,13157,Omaha City of,Papillion Creek Wastewater,15705 Harlan Lewis Road,Bellevue,NE,68123,Sarpy,41.0772,-95.87
+Piedmont Green Power,57909,GA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,57282,Piedmont Green Power LLC,Piedmont Green Power,100 Legacy Park Drive,Barnesville,GA,30204,Lamar,33.045278,-84.125556
+Pine Bluff Mill,10627,AR,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,55863,Evergreen Packaging Inc,Pine Bluff Mill,5201 Fair Field Road,Pine Bluff,AR,71601,Jefferson,34.221213,-91.907365
+Pinetree Power,50208,NH,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,15064,Pinetree Power Inc,Pinetree Power,1241 Whitefield Road,Bethlehem,NH,03574,Grafton,44.3274,-71.68
+Pinetree Power Fitchburg,54620,MA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,14995,"Pinetree Power Fitchburg, LLC",Pinetree Power Fitchburg,2 Rowtier Drive,Westminster,MA,01473,Worcester,42.5428,-71.8528
+Pinetree Power Tamworth,50739,NH,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,15085,Pinetree Power- Tamworth LLC.,Pinetree Power Tamworth,469 Plains Rd,Tamworth,NH,03886,Carroll,43.835833,-71.1967
+Plainfield Renewable Energy LLC,56847,CT,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,56067,"Plainfield Renewable Energy, LLC",Plainfield Renewable Energy LLC,Millbrook Road,Plainfield,CT,06374,Windham,41.664376,-71.92418
+Plant 31 Paper Mill,50028,LA,Industrial CHP,"GT, ST","BLQ, NG",Multiple,16064,Graphic Packaging International,Plant 31 Paper Mill,1000 Jonesboro Road,West Monroe,LA,71291,Ouachita,32.486787,-92.149597
+Plant No 1 Orange County,50696,CA,Commercial CHP,IC,OBG,Other Waste Biomass,14155,Orange County Sanitation Dist,Plant No 1 Orange County,10844 Ellis Avenue,Fountain Valley,CA,92708,Orange,33.6942,-117.9381
+Plant No 2 Orange County,52099,CA,Commercial CHP,"IC, ST",OBG,Other Waste Biomass,14155,Orange County Sanitation Dist,Plant No 2 Orange County,22212 Brookhurst Street,Huntington Beach,CA,92646,Orange,33.6433,-117.9556
+Plummer Cogen,55090,ID,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,54900,Stimson Lumber Company,Plummer Cogen,732 10th Street,Plummer,ID,83851,Benewah,47.331006,-116.890352
+Port Townsend Paper,50544,WA,Industrial CHP,"HY, ST","BLQ, WAT",Multiple,26840,Port Townsend Paper Co,Port Townsend Paper,100 Papermill Hill Rd,Port Townsend,WA,98368,Jefferson,48.0931,-122.7958
+Port Wentworth Mill,50804,GA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,20505,International Paper Port Wentworth Mill,Port Wentworth Mill,1 Bonnybridge Road,Port Wentworth,GA,31407,Chatham,32.1561,-81.1586
+Power Generation Station (PGS) 2,57696,CA,Commercial CHP,GT,OBG,Other Waste Biomass,5571,East Bay Municipal Util Dist,Power Generation Station (PGS) 2,2020 Wake Ave.,Oakland,CA,94607,Alameda,37.825833,-122.296111
+Pulp Mill Power House,10074,CA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,59191,Humboldt Bay Harbor Rec & Con Dist,Pulp Mill Power House,364 Vance Avenue,Samoa,CA,95564,Humboldt,40.8054,-124.1949
+Rapids Energy Center,10686,MN,Electric Utility,"HY, ST","WAT, WDS",Multiple,12647,"ALLETE, Inc.",Rapids Energy Center,502 Northwest Third Street,Grand Rapids,MN,55744,Itasca,47.234825,-93.537169
+Rayonier Advanced Materials - Jesup Plant,10560,GA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,15726,Rayonier Advanced Materials,Rayonier Advanced Materials - Jesup Plant,4470 Savannah Highway,Jesup,GA,31545,Wayne,31.659300000000002,-81.8439
+ReEnergy Ashland,10356,ME,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,1981,ReEnergy Ashland LLC,ReEnergy Ashland,63 Realty Road,Ashland,ME,04732,Aroostook,46.6334,-68.4361
+ReEnergy Black River,10464,NY,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,1746,Black River Generation LLC,ReEnergy Black River,Euphrates RV Rd. & Oneida Ave.,Fort Drum,NY,13602,Jefferson,44.03647,-75.77204
+ReEnergy Fort Fairfield,7513,ME,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,1984,ReEnergy Fort Fairfield LLC,ReEnergy Fort Fairfield,Cheney Grove Road,Fort Fairfield,ME,04742,Aroostook,46.77285,-67.84849
+ReEnergy Livermore Falls,10354,ME,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,57432,ReEnergy Livermore Falls,ReEnergy Livermore Falls,267 Diamond Road,Livemore Falls,ME,04254,Androscoggin,44.431667,-70.1619
+ReEnergy Lyonsdale Biomass,54526,NY,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,57431,ReEnergy Biomass LLC,ReEnergy Lyonsdale Biomass,3823 Marmon Road,Lyons Falls,NY,13368,Lewis,43.617965,-75.305443
+ReEnergy Stratton LLC,50650,ME,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,1950,ReEnergy Stratton LLC,ReEnergy Stratton LLC,Rt. 27,Stratton,ME,04982,Franklin,45.140614,-70.425577
+Red Shield Envir Old Town Facility,10700,ME,Industrial CHP,ST,"BLQ, WDS",Wood/Wood Waste Biomass,56448,MFGR LLC,Red Shield Envir Old Town Facility,24 Portland Street,Old Town,ME,04468,Penobscot,44.918063,-68.63554
+Riceland Foods Cogeneration Plant,56079,AR,IPP CHP,ST,OBS,Other Waste Biomass,15597,Riceland Foods Inc.,Riceland Foods Cogeneration Plant,1200 North Park Avenue,Stuttgart,AR,72160,Arkansas,34.5136,-91.5331
+Richland Center Renewable Energy LLC,58834,WI,IPP CHP,IC,OBG,Other Waste Biomass,58709,Richland Center Renewable Energy LLC,Richland Center Renewable Energy LLC,24520 County Highway RC,Richland Center,WI,53581,Richland,43.314444,-90.373056
+Rio Bravo Fresno,10767,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,15986,Rio Bravo Fresno,Rio Bravo Fresno,3350 So. Willow,Fresno,CA,93725,Fresno,36.688915,-119.723218
+Rio Bravo Rocklin,10772,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,16077,Rio Bravo Rocklin,Rio Bravo Rocklin,3100 Thunder Valley Court,Lincoln,CA,95648,Placer,38.8319,-121.313652
+Rio Grande Valley Sugar Growers,54338,TX,Industrial CHP,"IC, ST","AB, DFO",Multiple,16098,"Rio Grande Valley Sugar Growers, Inc.",Rio Grande Valley Sugar Growers,2 1/2mi.W. Hwy 107,Santa Rosa,TX,78593,Hidalgo,26.269683,-97.867012
+Riverside RWQCP Fuel Cell,59877,CA,Commercial CHP,FC,OBG,Other Waste Biomass,59662,"Riverside Fuel Cell, LLC",Riverside RWQCP Fuel Cell,5950 Acorn Street,Riverside,CA,92504,Riverside,33.9617,-117.455897
+Riverwood International Macon Mill,54464,GA,Industrial CHP,ST,"BLQ, WDS",Wood/Wood Waste Biomass,16024,Riverwood Intl USA Inc,Riverwood International Macon Mill,100 Graphic Packaging Intl Way,Macon,GA,31206,Bibb,32.7714,-83.6281
+Robbins Lumber,50230,ME,Industrial CHP,"IC, ST","DFO, WDS",Multiple,16191,Robbins Lumber Inc,Robbins Lumber,"53 Ghent Road, P. O. Box 9",Searsmont,ME,04973,Waldo,44.3331,-69.2019
+Rock Creek Dairy,58142,ID,IPP Non-CHP,IC,OBG,Other Waste Biomass,58098,New Energy One LLC,Rock Creek Dairy,2150 E 3500 N,Filer,ID,83328,Twin Falls,42.500278,-114.615
+Rock-Tenn Mill,54763,AL,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,59976,"WestRock Mill Company, LLC",Rock-Tenn Mill,28270 US Hwy 80,Demopolis,AL,36732,Marengo,32.4541,-87.9759
+Roseburg Forest Products Biomass,56469,CA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,54894,Roseburg Forest Products,Roseburg Forest Products Biomass,98 Mill Street,Weed,CA,96094,Siskiyou,41.435556,-122.376944
+Rothschild Biomass Cogen Facility,58124,WI,Electric Utility,ST,WDS,Wood/Wood Waste Biomass,20847,Wisconsin Electric Power Co,Rothschild Biomass Cogen Facility,210 N Grand Avenue,Rothschild,WI,54474,Marathon,44.887778,-89.629722
+Rumford Cogeneration,10495,ME,IPP CHP,ST,BLQ,Wood/Wood Waste Biomass,60999,"Catalyst Paper Operations, Inc",Rumford Cogeneration,35 Hartford St,Rumford,ME,04276,Oxford,44.5513,-70.5414
+Ryegate Power Station,51026,VT,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,54824,SUEZ Energy Generation NA Inc,Ryegate Power Station,247 Weesner Drive,East Ryegate,VT,05042,Caledonia,44.2131,-72.0572
+S D Warren Westbrook,50447,ME,Industrial CHP,"HY, ST","WAT, WDS",Multiple,16721,S D Warren Co.- Westbrook,S D Warren Westbrook,89 Cumberland St,Westbrook,ME,04098,Cumberland,43.684857,-70.353152
+SDS Lumber Gorge Energy Division,50231,WA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,22803,SDS Lumber Co,SDS Lumber Gorge Energy Division,123 Industrial Rd,Bingen,WA,98605,Klickitat,45.713079,-121.469178
+SF Southeast Cogen Plant,57971,CA,Commercial Non-CHP,IC,OBG,Other Waste Biomass,16612,City & County of San Francisco,SF Southeast Cogen Plant,1701 Jerrold Street,San Francisco,CA,94124,San Francisco,37.739722,-122.3925
+SJ/SC WPCP,56080,CA,Commercial CHP,IC,"NG, OBG",Multiple,16657,San Jose/Santa Clara Water P C,SJ/SC WPCP,700 Los Esteros Road,San Jose,CA,95134,Santa Clara,37.4344,-121.9464
+SPI Anderson 2,59658,CA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,17164,Sierra Pacific Industries Inc,SPI Anderson 2,19758 Riverside Ave,Anderson,CA,96007,Shasta,40.472283,-122.324205
+Sappi Cloquet Mill,50639,MN,Industrial CHP,"HY, ST","BLQ, WAT, WDS",Multiple,16653,Sappi Cloquet LLC,Sappi Cloquet Mill,2201 Avenue B,Cloquet,MN,55720,Carlton,46.7243,-92.4298
+Sauder Power Plant,54974,OH,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,16694,Sauder Woodworking Co,Sauder Power Plant,820 West Barre Road,Archbold,OH,43502,Fulton,41.515211,-84.293549
+Savannah River Site Biomass Cogen,57138,SC,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,56476,Ameresco,Savannah River Site Biomass Cogen,Burma Rd.,Aiken,SC,29808,Aiken,33.283333,-81.666666
+Schiller,2367,NH,Electric Utility,"GT, ST","BIT, JF, WDS",Multiple,15472,Public Service Co of NH,Schiller,400 Gosling Rd.,Portsmouth,NH,03801,Rockingham,43.0978,-70.7842
+Scotia Co-gen Humboldt Redwood Company LLC,50049,CA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,60153,Mendocino Forest Products,Scotia Co-gen Humboldt Redwood Company LLC,153 Main St.,Scotia,CA,95565,Humboldt,40.4728,-124.1014
+Seneca Sustainable Energy LLC,57457,OR,Industrial Non-CHP,ST,WDS,Wood/Wood Waste Biomass,56776,Seneca Sustainable Energy LLC,Seneca Sustainable Energy LLC,29650 E Enid Road,Eugene,OR,97440,Lane,44.116306,-123.179007
+Shasta Renewable Resources Plant,57857,CA,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,57183,Shasta Renewable Resources LLC,Shasta Renewable Resources Plant,6309 Highway 273,Anderson,CA,96007,Shasta,40.470833,-122.331111
+Sierra Pacific Aberdeen,55882,WA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,17164,Sierra Pacific Industries Inc,Sierra Pacific Aberdeen,301 Hagara Street,Aberdeen,WA,98520,Grays Harbor,46.9728,-123.7739
+Sierra Pacific Burlington Facility,56406,WA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,17164,Sierra Pacific Industries Inc,Sierra Pacific Burlington Facility,14654 Ovenell Rd,Mt Vernon,WA,98273,Skagit,48.4481,-122.4331
+Sierra Pacific Burney Facility,50110,CA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,17164,Sierra Pacific Industries Inc,Sierra Pacific Burney Facility,36336 Highway 299 East,Burney,CA,96013,Shasta,40.8767,-121.7016
+Sierra Pacific Lincoln Facility,10144,CA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,17164,Sierra Pacific Industries Inc,Sierra Pacific Lincoln Facility,1445 Highway 65,Lincoln,CA,95648,Placer,38.9032,-121.3097
+Sierra Pacific Loyalton Facility,50111,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,17164,Sierra Pacific Industries Inc,Sierra Pacific Loyalton Facility,100 Railroad Ave,Loyalton,CA,96118,Sierra,39.6699,-120.2394
+Sierra Pacific Quincy Facility,50112,CA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,17164,Sierra Pacific Industries Inc,Sierra Pacific Quincy Facility,1538 Lee Road,Quincy,CA,95971,Plumas,39.941165,-120.909211
+Sierra Pacific Sonora,54517,CA,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,17164,Sierra Pacific Industries Inc,Sierra Pacific Sonora,14980 Camage Road,Standard,CA,95370,Tuolumne,37.966389,-120.317777
+Silicon Valley Clean Water,60249,CA,IPP CHP,IC,OBG,Other Waste Biomass,60038,Silicon Valley Clean Water,Silicon Valley Clean Water,1400 Radio Road,Redwood City,CA,94065,San Mateo,37.542619,-122.231119
+Snider Industries,50141,TX,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,27211,Snider Industries Inc,Snider Industries,3311 Sue Belle Lake Road,Marshall,TX,75671,Harrison,32.574722,-94.373889
+Somerset Plant,50406,ME,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,16190,Sappi Fine Paper North America-Somerset,Somerset Plant,1329 Waterville Rd,Skowhegan,ME,04976,Somerset,44.703467,-69.647441
+Sonoco Products Co,57919,SC,Industrial CHP,ST,"BIT, NG, WDS",Multiple,57302,Sonoco Products Co,Sonoco Products Co,1 North 2nd Street,Hartsville,SC,29550,Darlington,34.385278,-80.067778
+South Bay Fuel Cell Plant,57770,CA,IPP Non-CHP,FC,OBG,Other Waste Biomass,57047,BioFuels Point Loma LLC,South Bay Fuel Cell Plant,2411 Dairy Mart Road,San Diego,CA,92154,San Diego,32.543333,-117.067778
+South Columbus Water Resource Facility,57076,GA,Commercial CHP,IC,OBG,Other Waste Biomass,56367,Columbus Water Works,South Columbus Water Resource Facility,3001 South Lumpkin Road,Columbus,GA,31904,Muscogee,32.4119,-84.9761
+South District Wastewater Treatment Plt,54624,FL,Commercial CHP,IC,OBG,Other Waste Biomass,12411,Miami Dade Water & Sewer Dept,South District Wastewater Treatment Plt,8950 SW 232 St,Miami,FL,33190,Miami Dade,25.549834,-80.336253
+Southampton Power Station,10774,VA,Electric Utility,ST,WDS,Wood/Wood Waste Biomass,19876,Virginia Electric & Power Co,Southampton Power Station,30134 General Thomas Highway,Franklin,VA,23851,Southampton,36.6525,-76.9953
+Southside Water Reclamation Plant,10339,NM,IPP CHP,IC,"NG, OBG",Multiple,194,Albuquerque City of,Southside Water Reclamation Plant,4210 2nd st SW,Albuquerque,NM,87105,Bernalillo,35.016111,-106.669722
+Springfield Power LLC,10838,NH,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,56084,Springfield Power LLC,Springfield Power LLC,54 Fisher Corner Road,Springfield,NH,03751,Sullivan,43.442871,-72.056
+St Francisville Mill,10697,LA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,59867,"Hood Container of Louisiana, LLC",St Francisville Mill,2105 HY 964,Francisville,LA,70775,West Feliciana,30.7108,-91.3236
+St Paul Cogeneration,56643,MN,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,55893,St Paul Cogeneration LLC,St Paul Cogeneration,125 Shepard Road W,St. Paul,MN,55102,Ramsey,44.942889,-93.096559
+Stockton Biomass,54238,CA,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,56652,DTE Stockton LLC,Stockton Biomass,2526 Washington St,Stockton,CA,95203,San Joaquin,37.943633,-121.330433
+Stoltze CoGen1,58523,MT,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,58498,F H Stoltze Land & Lumber Co,Stoltze CoGen1,600 Halfmoon Rd,Columbia Falls,MT,59912,Flathead,48.3877,-114.2409
+Subregional Water Reclamation Facility,58960,CA,Commercial CHP,IC,OBG,Other Waste Biomass,58824,City of Santa Rosa,Subregional Water Reclamation Facility,4300 Llano Road,Santa Rosa,CA,95407,Sonoma,38.368889,-122.765833
+Synergy Biogas,58399,NY,Commercial Non-CHP,IC,OBG,Other Waste Biomass,58383,CH4 Biogas LLC,Synergy Biogas,6466 Lemley Road,Wyoming,NY,14591,Wyoming,42.828889,-78.055
+Tamarack Energy Partnership,50099,ID,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,18461,Tamarack Energy Partners,Tamarack Energy Partnership,3555 Hwy. 95 South,New Meadows,ID,83654,Adams,44.954853,-116.387134
+Telogia Power,50774,FL,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,54827,Telogia Power LLC,Telogia Power,20082 Telogia Power Road,Telogia,FL,32334,Liberty,30.3349,-84.8182
+Thermal Energy Development Part LP,10502,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,55850,Thermal Energy Development Part LP,Thermal Energy Development Part LP,14800 W Schulte Rd,Tracy,CA,95377,San Joaquin,37.719939,-121.48867
+Threemile Digester,58382,OR,IPP CHP,IC,OBG,Other Waste Biomass,58370,"TMF Biofuels, LLC",Threemile Digester,75906 Threemile Road,Boardman,OR,97818,Morrow,45.71,-119.901111
+Ticonderoga Mill,54099,NY,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,9350,IPC-Ticonderoga,Ticonderoga Mill,568 Shore Airport Rd.,Ticonderoga,NY,12883,Essex,43.891437,-73.396998
+Total Energy Facilities,10091,CA,Commercial CHP,"CA, CT",OBG,Other Waste Biomass,11217,Los Angeles County Sanitation,Total Energy Facilities,24501 S Figueroa Street,Carson,CA,90745,Los Angeles,33.7683,-118.2836
+U S Alliance Coosa Pines,54216,AL,Industrial CHP,ST,"BLQ, NG",Multiple,2053,Bowater Newport Coosa Pines Op,U S Alliance Coosa Pines,17589 Plant Rd,Coosa Pines,AL,35044,Talladega,33.328107,-86.356825
+UCSD Fuel Cell Plant,57735,CA,IPP Non-CHP,FC,OBG,Other Waste Biomass,57047,BioFuels Point Loma LLC,UCSD Fuel Cell Plant,9400 Gilman Drive,San Diego,CA,92093,San Diego,32.877222,-117.234722
+Verso Paper Quinnesec Mich Mill,50251,MI,Industrial CHP,ST,"BLQ, WDS",Wood/Wood Waste Biomass,56187,Verso Paper - Quinnesec,Verso Paper Quinnesec Mich Mill,US Hwy 2,Norway,MI,49870,Dickinson,45.7956,-87.9556
+Verwey-Hanford Dairy Digester #1,60918,CA,IPP Non-CHP,IC,OBG,Other Waste Biomass,60572,AlsoEnergy,Verwey-Hanford Dairy Digester #1,19765 13th Ave,Hanford,CA,93230,Kings,36.18519,-119.681495
+Viking Energy of Lincoln,50772,MI,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,19781,Viking Energy Corp,Viking Energy of Lincoln,509 West State Rd,Lincoln,MI,48742,Alcona,44.68,-83.4167
+Viking Energy of McBain,50770,MI,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,19781,Viking Energy Corp,Viking Energy of McBain,6751 W. Gerwoude Dr,McBain,MI,49657,Missaukee,44.204,-85.2206
+Viking Energy of Northumberland,50771,PA,IPP CHP,ST,WDS,Wood/Wood Waste Biomass,19900,Viking Energy Corp,Viking Energy of Northumberland,909 Cannery Road,Northumberland,PA,17857,Northumberland,40.9172,-76.8146
+Village Creek Water Reclamation Facility,54520,TX,Commercial CHP,"GT, IC","NG, OBG",Multiple,6831,Ft Worth City of,Village Creek Water Reclamation Facility,4500 Wilma Lane,Arlington,TX,76012,Tarrant,32.775093,-97.14209
+Virginia,2018,MN,Electric Utility,ST,WDS,Wood/Wood Waste Biomass,19883,City of Virginia - (MN),Virginia,618 2nd St South,Virginia,MN,55792,St Louis,47.522428,-92.540951
+WWTP Power Generation Station,56036,CA,Commercial CHP,IC,OBG,Other Waste Biomass,5571,East Bay Municipal Util Dist,WWTP Power Generation Station,2020 Wake Avenue,Oakland,CA,94607,Alameda,37.8258,-122.2961
+Wadham Energy LP,50293,CA,IPP Non-CHP,ST,AB,Other Waste Biomass,19946,Wadham Energy Ltd Partners,Wadham Energy LP,6247 Meyers Road,Williams,CA,95987,Colusa,39.1062,-122.1096
+Warren Lumber Mill,50640,AR,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,15262,Potlatch Land and Lumber LLC,Warren Lumber Mill,810 West Pine St,Warren,AR,71671,Bradley,33.6206,-92.078889
+Water Reclamation Plant,58617,MN,Commercial CHP,IC,OBG,Other Waste Biomass,58569,City of Rochester,Water Reclamation Plant,301 37th St NW,Rochester,MN,55901,Olmsted,44.064722,-92.469167
+West Point Treatment Plant,50329,WA,Commercial CHP,IC,OBG,Other Waste Biomass,10004,King County Dept-Natural Res,West Point Treatment Plant,1400 Discovery Park Blvd,Seattle,WA,98199,King,47.661111,-122.446389
+WestRock (TX),50101,TX,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,12307,WestRock (TX),WestRock (TX),1913 FM 105,Evadale,TX,77615,Jasper,30.3419,-94.0656
+WestRock (WA),57099,WA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,59348,WestRock (WA),WestRock (WA),801 East Portland Ave,Tacoma,WA,98421,Pierce,47.266069,-122.428288
+WestRock Panama City Mill,50807,FL,Industrial CHP,ST,"BLQ, WDS",Wood/Wood Waste Biomass,18157,WestRock Corp-Panama City,WestRock Panama City Mill,One Everitt Ave,Panama City,FL,32401,Bay,30.141984,-85.621103
+WestRock-West Point Mill,10017,VA,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,17465,WestRock-West Point Mill,WestRock-West Point Mill,19th and Main Street,West Point,VA,23181,King William,37.5392,-76.8053
+Western Renewable Energy,56358,AZ,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,54690,Western Renewable Energy LLC,Western Renewable Energy,975 S. Water Canyon Rd.,Eagar,AZ,85925,Apache,34.093006,-109.289979
+Westervelt Moundville Cogen,57467,AL,Industrial CHP,ST,WDS,Wood/Wood Waste Biomass,56785,The Westervelt Co,Westervelt Moundville Cogen,2500 Gulf States Pkwy,Moundville,AL,35474,Hale,32.960714,-87.655419
+Weyerhaeuser Pine Hill Operations,54752,AL,Industrial CHP,ST,"BLQ, WDS",Wood/Wood Waste Biomass,56291,International Paper Co.,Weyerhaeuser Pine Hill Operations,7616 Hwy 10 West,Pine Hill,AL,36769,Wilcox,31.9698,-87.4806
+Wheelabrator Ridge Energy,54529,FL,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,20541,Wheelabrator Environmental Systems,Wheelabrator Ridge Energy,3131 K-Ville Avenue,Auburndale,FL,33823,Polk,28.0274,-81.8475
+Wheelabrator Shasta,50881,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,20541,Wheelabrator Environmental Systems,Wheelabrator Shasta,20811 Industry Rd,Anderson,CA,96007,Shasta,40.428329,-122.279248
+Windy Ridge Generating Facility,58055,IN,Industrial Non-CHP,IC,OBG,Other Waste Biomass,57434,T&M Limited Partnership,Windy Ridge Generating Facility,1652 North 1100 West,Fair Oaks,IN,47943,Jasper,41.034722,-87.260278
+Wisconsin Rapids Pulp Mill,10477,WI,Industrial CHP,ST,BLQ,Wood/Wood Waste Biomass,55965,Verso Corporation,Wisconsin Rapids Pulp Mill,950 Fourth Avenue North,Wisconsin Rapids,WI,54495,Wood,44.3953,-89.826
+Woodland Biomass Power Ltd,10836,CA,IPP Non-CHP,ST,WDS,Wood/Wood Waste Biomass,54806,DTE Energy Services-Woodland,Woodland Biomass Power Ltd,1786 East Kentucky Ave,Woodland,CA,95776,Yolo,38.6905,-121.7371
+Woodville Renewable Power Project,58944,TX,Electric Utility,ST,WDS,Wood/Wood Waste Biomass,39347,"East Texas Electric Coop, Inc",Woodville Renewable Power Project,1580 CR 1020,Woodville,TX,75979,Tyler,30.748333,-94.4375
+Wooster Renewable Energy,59072,OH,Industrial Non-CHP,IC,OBG,Other Waste Biomass,58892,Wooster Renewable Energy LLC,Wooster Renewable Energy,1123 Old Columbus Road,Wooster,OH,44691,Wayne,40.785,-81.951389
+Zeeland Farm Services,58704,MI,IPP Non-CHP,IC,OBG,Other Waste Biomass,58643,Zeeland Farm Services,Zeeland Farm Services,2468 84th Avenue,Zeeland,MI,49464,Ottawa,42.813056,-85.986111
+Zero Waste Energy Development Co LLC,60220,CA,IPP CHP,IC,OBG,"Other Waste Biomass""",60003,Zero Waste Energy Development Company LLC,Zero Waste Energy Development Co LLC,685 Lose Esteros Road,San Jose,CA,95134,Santa Clara,37.4325,-121.95285
