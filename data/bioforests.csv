@@ -1,0 +1,3220 @@
+FID,state_name,county,bdt
+bioforests.1,Alabama,Autauga,48.143
+bioforests.2,Alabama,Baldwin,33.875
+bioforests.3,Alabama,Barbour,60.711
+bioforests.7,Alabama,Butler,45.321
+bioforests.8,Alabama,Calhoun,6.5247
+bioforests.9,Alabama,Chambers,23.026
+bioforests.10,Alabama,Cherokee,24.012
+bioforests.11,Alabama,Chilton,32.781
+bioforests.12,Alabama,Choctaw,110.99
+bioforests.13,Alabama,Clarke,168.7
+bioforests.247,Colorado,Baca,0
+bioforests.248,Colorado,Bent,0
+bioforests.249,Colorado,Boulder,0
+bioforests.250,Colorado,Broomfield,0
+bioforests.251,Colorado,Chaffee,0.045994
+bioforests.299,Colorado,San Juan,0
+bioforests.300,Colorado,San Miguel,0
+bioforests.235,California,Sutter,0
+bioforests.236,California,Tehama,22.508
+bioforests.292,Colorado,Pitkin,0
+bioforests.308,Connecticut,Hartford,8.6447
+bioforests.309,Connecticut,Litchfield,2.2183
+bioforests.310,Connecticut,Middlesex,0.31429
+bioforests.311,Connecticut,New Haven,11.848
+bioforests.312,Connecticut,New London,9.8972
+bioforests.313,Connecticut,Tolland,0.68225
+bioforests.314,Connecticut,Windham,1.2188
+bioforests.127,Arkansas,Crittenden,0.4735
+bioforests.277,Colorado,La Plata,0.28363
+bioforests.278,Colorado,Larimer,0.10732
+bioforests.302,Colorado,Summit,0.27597
+bioforests.376,Florida,Sarasota,0.14034
+bioforests.377,Florida,Seminole,2.0957
+bioforests.378,Florida,Sumter,9.3934
+bioforests.379,Florida,Suwannee,28.257
+bioforests.380,Florida,Taylor,72.96
+bioforests.381,Florida,Union,17.053
+bioforests.382,Florida,Volusia,16.648
+bioforests.383,Florida,Wakulla,5.1313
+bioforests.384,Florida,Walton,24.898
+bioforests.385,Florida,Washington,32.822
+bioforests.280,Colorado,Lincoln,0
+bioforests.281,Colorado,Logan,0
+bioforests.282,Colorado,Mesa,2.6523
+bioforests.304,Colorado,Washington,0
+bioforests.305,Colorado,Weld,0
+bioforests.395,Georgia,Berrien,20.367
+bioforests.396,Georgia,Bibb,5.797
+bioforests.51,Alabama,Montgomery,13.291
+bioforests.332,Florida,Dixie,45.699
+bioforests.333,Florida,Duval,22.986
+bioforests.334,Florida,Escambia,11.882
+bioforests.335,Florida,Flagler,17.412
+bioforests.336,Florida,Franklin,4.3122
+bioforests.337,Florida,Gadsden,56.781
+bioforests.338,Florida,Gilchrist,20.519
+bioforests.339,Florida,Glades,1.3586
+bioforests.340,Florida,Gulf,24.255
+bioforests.341,Florida,Hamilton,46.845
+bioforests.420,Georgia,Colquitt,17.898
+bioforests.421,Georgia,Columbia,20.348
+bioforests.422,Georgia,Cook,10.938
+bioforests.423,Georgia,Coweta,13.922
+bioforests.186,California,Alpine,0
+bioforests.187,California,Amador,11.575
+bioforests.188,California,Butte,46.401
+bioforests.189,California,Calaveras,16.617
+bioforests.457,Georgia,Harris,20.169
+bioforests.458,Georgia,Hart,4.2468
+bioforests.576,Idaho,Jerome,0
+bioforests.577,Idaho,Kootenai,41.554
+bioforests.578,Idaho,Latah,56.166
+bioforests.579,Idaho,Lemhi,0.41395
+bioforests.580,Idaho,Lewis,5.8719
+bioforests.103,Arizona,Mohave,0
+bioforests.104,Arizona,Navajo,4.7604
+bioforests.105,Arizona,Pima,0
+bioforests.106,Arizona,Pinal,0
+bioforests.190,California,Colusa,0
+bioforests.191,California,Contra Costa,0
+bioforests.192,California,Del Norte,1.0349
+bioforests.193,California,El Dorado,45.363
+bioforests.460,Georgia,Henry,8.9011
+bioforests.461,Georgia,Houston,12.536
+bioforests.462,Georgia,Irwin,11.617
+bioforests.463,Georgia,Jackson,4.8187
+bioforests.464,Georgia,Jasper,22.341
+bioforests.465,Georgia,Jeff Davis,24.676
+bioforests.466,Georgia,Jefferson,28.481
+bioforests.593,Idaho,Washington,0.084323
+bioforests.594,Illinois,Adams,4.2391
+bioforests.595,Illinois,Alexander,1.7095
+bioforests.199,California,Kern,0
+bioforests.200,California,Kings,0
+bioforests.201,California,Lake,0.74357
+bioforests.471,Georgia,Lanier,5.2292
+bioforests.472,Georgia,Laurens,71.308
+bioforests.473,Georgia,Lee,6.918
+bioforests.474,Georgia,Liberty,30.724
+bioforests.475,Georgia,Lincoln,11.835
+bioforests.476,Georgia,Long,38.96
+bioforests.477,Georgia,Lowndes,16.493
+bioforests.478,Georgia,Lumpkin,2.5208
+bioforests.479,Georgia,McDuffie,14.406
+bioforests.480,Georgia,McIntosh,21.475
+bioforests.481,Georgia,Macon,19.647
+bioforests.482,Georgia,Madison,5.4026
+bioforests.483,Georgia,Marion,18.179
+bioforests.484,Georgia,Meriwether,18.598
+bioforests.658,Illinois,Menard,0.45994
+bioforests.205,California,Marin,0
+bioforests.206,California,Mariposa,1.6175
+bioforests.486,Georgia,Mitchell,13.409
+bioforests.487,Georgia,Monroe,23.86
+bioforests.488,Georgia,Montgomery,18.162
+bioforests.489,Georgia,Morgan,13.252
+bioforests.490,Georgia,Murray,16.842
+bioforests.491,Georgia,Muscogee,18.038
+bioforests.492,Georgia,Newton,6.4474
+bioforests.493,Georgia,Oconee,3.4125
+bioforests.494,Georgia,Oglethorpe,18.587
+bioforests.695,Illinois,Woodford,3.5179
+bioforests.140,Arkansas,Howard,55.177
+bioforests.141,Arkansas,Independence,22.884
+bioforests.142,Arkansas,Izard,8.5372
+bioforests.498,Georgia,Pierce,38.003
+bioforests.499,Georgia,Pike,11.546
+bioforests.968,Kansas,Rooks,0
+bioforests.220,California,San Bernardino,4.1088
+bioforests.221,California,San Diego,0
+bioforests.222,California,San Francisco,0
+bioforests.223,California,San Joaquin,0
+bioforests.501,Georgia,Pulaski,18.338
+bioforests.502,Georgia,Putnam,14.17
+bioforests.503,Georgia,Quitman,6.221
+bioforests.504,Georgia,Rabun,2.5781
+bioforests.228,California,Santa Cruz,4.2775
+bioforests.229,California,Shasta,134.33
+bioforests.230,California,Sierra,8.0962
+bioforests.509,Georgia,Screven,47.624
+bioforests.510,Georgia,Seminole,4.6295
+bioforests.511,Georgia,Spalding,5.8254
+bioforests.512,Georgia,Stephens,4.3234
+bioforests.513,Georgia,Stewart,31.838
+bioforests.233,California,Sonoma,4.2851
+bioforests.234,California,Stanislaus,0
+bioforests.598,Illinois,Brown,3.6642
+bioforests.599,Illinois,Bureau,0.30663
+bioforests.600,Illinois,Calhoun,1.9241
+bioforests.1086,Kentucky,Owsley,8.2341
+bioforests.1087,Kentucky,Pendleton,0.11675
+bioforests.1088,Kentucky,Perry,22.961
+bioforests.1089,Kentucky,Pike,32.485
+bioforests.1090,Kentucky,Powell,8.467
+bioforests.1091,Kentucky,Pulaski,46.721
+bioforests.1092,Kentucky,Robertson,4.7545
+bioforests.1093,Kentucky,Rockcastle,8.5054
+bioforests.1094,Kentucky,Rowan,10.875
+bioforests.183,Arkansas,Woodruff,4.8324
+bioforests.184,Arkansas,Yell,40.138
+bioforests.185,California,Alameda,0
+bioforests.1158,Louisiana,St. James,5.0086
+bioforests.272,Colorado,Jackson,0.31429
+bioforests.273,Colorado,Jefferson,0
+bioforests.274,Colorado,Kiowa,0
+bioforests.275,Colorado,Kit Carson,0
+bioforests.276,Colorado,Lake,0
+bioforests.630,Illinois,Henry,2.361
+bioforests.289,Colorado,Ouray,0
+bioforests.290,Colorado,Park,0.13798
+bioforests.632,Illinois,Jackson,2.0774
+bioforests.298,Colorado,Saguache,0.15331
+bioforests.1254,Michigan,Genesee,5.8572
+bioforests.369,Florida,Pasco,3.9248
+bioforests.370,Florida,Pinellas,0
+bioforests.371,Florida,Polk,2.5603
+bioforests.372,Florida,Putnam,32.397
+bioforests.373,Florida,St. Johns,89.2
+bioforests.374,Florida,St. Lucie,0
+bioforests.375,Florida,Santa Rosa,17.201
+bioforests.649,Illinois,McHenry,3.0126
+bioforests.650,Illinois,McLean,11.429
+bioforests.651,Illinois,Macon,0.022997
+bioforests.652,Illinois,Macoupin,2.4837
+bioforests.653,Illinois,Madison,0.67458
+bioforests.415,Georgia,Clay,4.7486
+bioforests.416,Georgia,Clayton,0.48412
+bioforests.417,Georgia,Clinch,74.959
+bioforests.418,Georgia,Cobb,0.56019
+bioforests.419,Georgia,Coffee,27.052
+bioforests.656,Illinois,Mason,1.9931
+bioforests.567,Idaho,Clearwater,73.709
+bioforests.568,Idaho,Custer,0.34496
+bioforests.569,Idaho,Elmore,0.068991
+bioforests.570,Idaho,Franklin,0
+bioforests.571,Idaho,Fremont,0.45994
+bioforests.572,Idaho,Gem,0
+bioforests.573,Idaho,Gooding,0
+bioforests.574,Idaho,Idaho,32.025
+bioforests.575,Idaho,Jefferson,0
+bioforests.664,Illinois,Ogle,4.0929
+bioforests.665,Illinois,Peoria,0.90455
+bioforests.666,Illinois,Perry,2.7443
+bioforests.1447,Mississippi,Monroe,39.898
+bioforests.1448,Mississippi,Montgomery,18.713
+bioforests.536,Georgia,Wayne,37.255
+bioforests.1065,Kentucky,McCreary,14.159
+bioforests.668,Illinois,Pike,18.97
+bioforests.669,Illinois,Pope,0.45228
+bioforests.670,Illinois,Pulaski,1.6328
+bioforests.1488,Missouri,Bates,0.8674
+bioforests.559,Idaho,Bonneville,0.42161
+bioforests.1066,Kentucky,McLean,10.197
+bioforests.1067,Kentucky,Madison,0.50417
+bioforests.1068,Kentucky,Magoffin,9.9826
+bioforests.1069,Kentucky,Marion,10.286
+bioforests.672,Illinois,Randolph,2.1004
+bioforests.673,Illinois,Richland,2.7597
+bioforests.674,Illinois,Rock Island,1.7861
+bioforests.675,Illinois,St. Clair,2.292
+bioforests.1517,Missouri,Franklin,3.5186
+bioforests.1518,Missouri,Gasconade,4.4998
+bioforests.564,Idaho,Caribou,1.3875
+bioforests.565,Idaho,Cassia,0
+bioforests.677,Illinois,Sangamon,0.40628
+bioforests.678,Illinois,Schuyler,6.3312
+bioforests.1564,Missouri,Platte,0.8845
+bioforests.590,Idaho,Teton,0.0076657
+bioforests.591,Idaho,Twin Falls,0
+bioforests.592,Idaho,Valley,27.231
+bioforests.680,Illinois,Shelby,3.1429
+bioforests.1085,Kentucky,Owen,1.5432
+bioforests.604,Illinois,Christian,0.0076657
+bioforests.683,Illinois,Tazewell,0.49827
+bioforests.1120,Louisiana,Caddo,45.103
+bioforests.1138,Louisiana,Jefferson Davis,4.3022
+bioforests.1139,Louisiana,Lafayette,0.050122
+bioforests.1140,Louisiana,Lafourche,6.4227
+bioforests.1141,Louisiana,La Salle,50.749
+bioforests.1142,Louisiana,Lincoln,24.854
+bioforests.688,Illinois,Washington,1.6865
+bioforests.1155,Louisiana,St. Bernard,0
+bioforests.1156,Louisiana,St. Charles,0
+bioforests.1157,Louisiana,St. Helena,47.125
+bioforests.697,Indiana,Allen,8.5679
+bioforests.698,Indiana,Bartholomew,2.2614
+bioforests.1193,Maryland,Anne Arundel,2.8056
+bioforests.1194,Maryland,Baltimore,6.4757
+bioforests.1195,Maryland,Calvert,4.3388
+bioforests.1196,Maryland,Caroline,2.5833
+bioforests.1197,Maryland,Carroll,1.8704
+bioforests.1217,Massachusetts,Berkshire,3.5952
+bioforests.1218,Massachusetts,Bristol,0.23764
+bioforests.1219,Massachusetts,Dukes,10.777
+bioforests.1220,Massachusetts,Essex,1.4465
+bioforests.1221,Massachusetts,Franklin,13.714
+bioforests.1222,Massachusetts,Hampden,16.724
+bioforests.1226,Massachusetts,Norfolk,0.099654
+bioforests.622,Illinois,Fulton,4.8324
+bioforests.1231,Michigan,Alger,26.494
+bioforests.705,Indiana,Clark,7.0524
+bioforests.642,Illinois,Lake,4.6973
+bioforests.643,Illinois,La Salle,0.05366
+bioforests.708,Indiana,Crawford,11.133
+bioforests.709,Indiana,Daviess,4.4231
+bioforests.710,Indiana,Dearborn,2.7957
+bioforests.1252,Michigan,Eaton,0.95821
+bioforests.1253,Michigan,Emmet,6.1562
+bioforests.693,Illinois,Williamson,0.87389
+bioforests.694,Illinois,Winnebago,0.45994
+bioforests.714,Indiana,Dubois,9.0455
+bioforests.717,Indiana,Floyd,2.729
+bioforests.718,Indiana,Fountain,1.5485
+bioforests.1649,Montana,Valley,0
+bioforests.1650,Montana,Wheatland,0.41395
+bioforests.1651,Montana,Wibaux,0
+bioforests.1652,Montana,Yellowstone,8.1846
+bioforests.1653,Nebraska,Adams,0.23764
+bioforests.720,Indiana,Fulton,0.7819
+bioforests.721,Indiana,Gibson,2.683
+bioforests.862,Iowa,Plymouth,0.20697
+bioforests.905,Kansas,Crawford,4.5588
+bioforests.724,Indiana,Hamilton,0.43695
+bioforests.725,Indiana,Hancock,0.36795
+bioforests.726,Indiana,Harrison,11.039
+bioforests.727,Indiana,Hendricks,0.36029
+bioforests.996,Kentucky,Barren,21.34
+bioforests.997,Kentucky,Bath,2.1175
+bioforests.1082,Kentucky,Nicholas,0
+bioforests.1117,Louisiana,Beauregard,84.898
+bioforests.1118,Louisiana,Bienville,73.639
+bioforests.1119,Louisiana,Bossier,64.94
+bioforests.731,Indiana,Jackson,18.415
+bioforests.1245,Michigan,Cheboygan,9.1812
+bioforests.1281,Michigan,Marquette,73.428
+bioforests.1282,Michigan,Mason,5.208
+bioforests.734,Indiana,Jefferson,4.998
+bioforests.735,Indiana,Jennings,9.075
+bioforests.736,Indiana,Johnson,1.3798
+bioforests.737,Indiana,Knox,2.3764
+bioforests.1288,Michigan,Montcalm,1.6788
+bioforests.1315,Minnesota,Becker,13.12
+bioforests.1316,Minnesota,Beltrami,62.424
+bioforests.740,Indiana,Lake,0.29896
+bioforests.741,Indiana,LaPorte,7.6538
+bioforests.1351,Minnesota,Lake of the Woods,25.794
+bioforests.1352,Minnesota,Le Sueur,0.33729
+bioforests.743,Indiana,Madison,0.37562
+bioforests.744,Indiana,Marion,0.42928
+bioforests.1702,Nebraska,Kearney,0.22997
+bioforests.1782,New Jersey,Hunterdon,0.44461
+bioforests.1783,New Jersey,Mercer,0.42928
+bioforests.1784,New Jersey,Middlesex,4.2014
+bioforests.1785,New Jersey,Monmouth,8.7943
+bioforests.1786,New Jersey,Morris,0.45228
+bioforests.1787,New Jersey,Ocean,0.44461
+bioforests.1788,New Jersey,Passaic,0
+bioforests.1789,New Jersey,Salem,0
+bioforests.1870,New York,Rockland,0.13032
+bioforests.1871,New York,St. Lawrence,22.291
+bioforests.1872,New York,Saratoga,52.994
+bioforests.1873,New York,Schenectady,1.0962
+bioforests.1874,New York,Schoharie,2.8056
+bioforests.1875,New York,Schuyler,2.2154
+bioforests.1876,New York,Seneca,0.59792
+bioforests.748,Indiana,Monroe,21.44
+bioforests.1890,North Carolina,Alexander,12.338
+bioforests.1891,North Carolina,Alleghany,12.897
+bioforests.1892,North Carolina,Anson,58.506
+bioforests.1893,North Carolina,Ashe,22.762
+bioforests.750,Indiana,Morgan,9.8416
+bioforests.1894,North Carolina,Avery,2.647
+bioforests.1897,North Carolina,Bladen,54.503
+bioforests.753,Indiana,Ohio,0.37562
+bioforests.1932,North Carolina,Haywood,23.697
+bioforests.1933,North Carolina,Henderson,12.713
+bioforests.755,Indiana,Owen,11.658
+bioforests.756,Indiana,Parke,10.632
+bioforests.757,Indiana,Perry,9.075
+bioforests.758,Indiana,Pike,4.1778
+bioforests.759,Indiana,Porter,1.2572
+bioforests.760,Indiana,Posey,1.6558
+bioforests.1947,North Carolina,Martin,78.356
+bioforests.1948,North Carolina,Mecklenburg,7.1167
+bioforests.1949,North Carolina,Mitchell,8.4559
+bioforests.1950,North Carolina,Montgomery,54.479
+bioforests.1951,North Carolina,Moore,63.95
+bioforests.762,Indiana,Putnam,9.0514
+bioforests.1956,North Carolina,Orange,15.001
+bioforests.765,Indiana,Rush,0.49827
+bioforests.766,Indiana,St. Joseph,5.8071
+bioforests.767,Indiana,Scott,3.1659
+bioforests.1978,North Carolina,Union,14.065
+bioforests.769,Indiana,Spencer,3.9325
+bioforests.770,Indiana,Starke,0.85856
+bioforests.2207,Oregon,Baker,7.99
+bioforests.772,Indiana,Sullivan,3.6719
+bioforests.773,Indiana,Switzerland,0.5136
+bioforests.774,Indiana,Tippecanoe,0.52127
+bioforests.2208,Oregon,Benton,50.34
+bioforests.2209,Oregon,Clackamas,58.106
+bioforests.2210,Oregon,Clatsop,222.07
+bioforests.2237,Oregon,Union,32.196
+bioforests.2238,Oregon,Wallowa,27.95
+bioforests.2239,Oregon,Wasco,21.57
+bioforests.2240,Oregon,Washington,69.227
+bioforests.777,Indiana,Vanderburgh,1.1115
+bioforests.778,Indiana,Vermillion,1.1882
+bioforests.779,Indiana,Vigo,3.7485
+bioforests.2335,South Carolina,Florence,105.67
+bioforests.2336,South Carolina,Georgetown,81.997
+bioforests.2337,South Carolina,Greenville,26.281
+bioforests.2338,South Carolina,Greenwood,42.877
+bioforests.781,Indiana,Warren,1.0809
+bioforests.782,Indiana,Warrick,4.5688
+bioforests.783,Indiana,Washington,21.635
+bioforests.2342,South Carolina,Kershaw,73.774
+bioforests.785,Indiana,Wells,16.989
+bioforests.786,Indiana,White,0.85856
+bioforests.2355,South Carolina,Saluda,42.363
+bioforests.2356,South Carolina,Spartanburg,39.277
+bioforests.2357,South Carolina,Sumter,73.796
+bioforests.2443,Tennessee,Crockett,0
+bioforests.2444,Tennessee,Cumberland,29.583
+bioforests.2445,Tennessee,Davidson,0.5419
+bioforests.2456,Tennessee,Greene,4.5134
+bioforests.2457,Tennessee,Grundy,32.191
+bioforests.2458,Tennessee,Hamblen,1.1764
+bioforests.1464,Mississippi,Smith,23.258
+bioforests.2788,Utah,Kane,0.0076657
+bioforests.2789,Utah,Millard,0
+bioforests.2790,Utah,Morgan,0.068991
+bioforests.2791,Utah,Piute,0
+bioforests.793,Iowa,Benton,1.9689
+bioforests.2832,Virginia,Buchanan,7.0813
+bioforests.2833,Virginia,Buckingham,122.22
+bioforests.2834,Virginia,Campbell,88.693
+bioforests.2835,Virginia,Caroline,32.342
+bioforests.2836,Virginia,Carroll,27.846
+bioforests.2854,Virginia,Gloucester,13.83
+bioforests.2855,Virginia,Goochland,2.9831
+bioforests.2856,Virginia,Grayson,12.708
+bioforests.2857,Virginia,Greene,1.8734
+bioforests.1487,Missouri,Barton,5.32
+bioforests.797,Iowa,Buchanan,0.022997
+bioforests.2863,Virginia,Highland,39.2
+bioforests.2864,Virginia,Isle of Wight,23.29
+bioforests.2876,Virginia,Mecklenburg,59.434
+bioforests.2877,Virginia,Middlesex,4.4373
+bioforests.2878,Virginia,Montgomery,13.956
+bioforests.2879,Virginia,Nelson,38.342
+bioforests.2898,Virginia,Russell,7.6817
+bioforests.2899,Virginia,Scott,16.778
+bioforests.2900,Virginia,Shenandoah,14.26
+bioforests.2901,Virginia,Smyth,12.159
+bioforests.2902,Virginia,Southampton,82.651
+bioforests.801,Iowa,Carroll,0
+bioforests.1516,Missouri,Dunklin,0.47527
+bioforests.1532,Missouri,Johnson,1.5249
+bioforests.1562,Missouri,Phelps,12.324
+bioforests.1563,Missouri,Pike,4.0322
+bioforests.1602,Montana,Carter,0
+bioforests.1603,Montana,Cascade,0.19931
+bioforests.1614,Montana,Glacier,0
+bioforests.1615,Montana,Golden Valley,0.97354
+bioforests.1631,Montana,Petroleum,0.084323
+bioforests.1632,Montana,Phillips,0
+bioforests.1633,Montana,Pondera,0
+bioforests.1680,Nebraska,Douglas,0.66692
+bioforests.809,Iowa,Clayton,9.3404
+bioforests.810,Iowa,Clinton,0.83556
+bioforests.811,Iowa,Crawford,0
+bioforests.812,Iowa,Dallas,0
+bioforests.1730,Nebraska,Saunders,2.0467
+bioforests.1747,Nevada,Clark,0
+bioforests.1756,Nevada,Mineral,0
+bioforests.1757,Nevada,Nye,0
+bioforests.816,Iowa,Des Moines,1.6098
+bioforests.1844,New York,Fulton,5.8666
+bioforests.1845,New York,Genesee,0.92755
+bioforests.818,Iowa,Dubuque,4.1318
+bioforests.1919,North Carolina,Duplin,38.877
+bioforests.1920,North Carolina,Durham,10.249
+bioforests.1921,North Carolina,Edgecombe,35.969
+bioforests.820,Iowa,Fayette,0.83556
+bioforests.2051,Ohio,Carroll,3.5722
+bioforests.2107,Ohio,Pike,12.041
+bioforests.823,Iowa,Fremont,0.030663
+bioforests.2194,Oklahoma,Roger Mills,0
+bioforests.2221,Oregon,Jackson,45.729
+bioforests.2222,Oregon,Jefferson,6.8343
+bioforests.2223,Oregon,Josephine,10.738
+bioforests.2292,Pennsylvania,Perry,17.637
+bioforests.2293,Pennsylvania,Philadelphia,0.13032
+bioforests.2303,Pennsylvania,Venango,21.063
+bioforests.2307,Pennsylvania,Westmoreland,11.799
+bioforests.830,Iowa,Harrison,1.3669
+bioforests.1604,Montana,Chouteau,0
+bioforests.1605,Montana,Custer,0
+bioforests.2318,South Carolina,Anderson,21.101
+bioforests.2319,South Carolina,Bamberg,49.104
+bioforests.2320,South Carolina,Barnwell,38.271
+bioforests.832,Iowa,Howard,0.2453
+bioforests.1616,Montana,Granite,1.6941
+bioforests.1617,Montana,Hill,0.42161
+bioforests.1618,Montana,Jefferson,1.7248
+bioforests.1619,Montana,Judith Basin,0.05366
+bioforests.1620,Montana,Lake,13.745
+bioforests.1621,Montana,Lewis and Clark,14.671
+bioforests.2373,South Dakota,Clay,0.030663
+bioforests.835,Iowa,Iowa,4.2881
+bioforests.836,Iowa,Jackson,2.3994
+bioforests.1654,Nebraska,Antelope,0.20697
+bioforests.2407,South Dakota,Mellette,0
+bioforests.2430,Tennessee,Bledsoe,21.23
+bioforests.2431,Tennessee,Blount,4.1395
+bioforests.2432,Tennessee,Bradley,10.698
+bioforests.2433,Tennessee,Campbell,22.851
+bioforests.839,Iowa,Johnson,0.13798
+bioforests.2480,Tennessee,McMinn,23.703
+bioforests.2481,Tennessee,McNairy,42.289
+bioforests.2502,Tennessee,Scott,23.11
+bioforests.2503,Tennessee,Sequatchie,12.416
+bioforests.2504,Tennessee,Sevier,2.068
+bioforests.2505,Tennessee,Shelby,11.759
+bioforests.2506,Tennessee,Smith,8.0685
+bioforests.842,Iowa,Kossuth,0.068991
+bioforests.843,Iowa,Lee,3.3116
+bioforests.844,Iowa,Linn,13.203
+bioforests.2520,Tennessee,Williamson,3.3192
+bioforests.2521,Tennessee,Wilson,2.3923
+bioforests.2642,Texas,Jasper,83.071
+bioforests.847,Iowa,Lyon,0
+bioforests.2811,Vermont,Grand Isle,0.015331
+bioforests.2812,Vermont,Lamoille,8.0726
+bioforests.849,Iowa,Mahaska,0.81256
+bioforests.3053,Wisconsin,Burnett,16.139
+bioforests.3054,Wisconsin,Calumet,0.22997
+bioforests.3060,Wisconsin,Dodge,1.5025
+bioforests.2972,Washington,Klickitat,42.952
+bioforests.2973,Washington,Lewis,178.67
+bioforests.2974,Washington,Lincoln,0.21464
+bioforests.2975,Washington,Mason,53.3
+bioforests.2976,Washington,Okanogan,15.868
+bioforests.2977,Washington,Pacific,101.89
+bioforests.3167,Puerto Rico,Dorado,0
+bioforests.3168,Puerto Rico,Fajardo,0
+bioforests.854,Iowa,Monona,13.657
+bioforests.855,Iowa,Monroe,1.2802
+bioforests.3020,West Virginia,Mineral,6.2977
+bioforests.3021,West Virginia,Mingo,6.1562
+bioforests.3022,West Virginia,Monongalia,21.075
+bioforests.857,Iowa,Muscatine,0.43695
+bioforests.3023,West Virginia,Monroe,11.145
+bioforests.3024,West Virginia,Morgan,4.5764
+bioforests.3025,West Virginia,Nicholas,22.514
+bioforests.3038,West Virginia,Tucker,26.73
+bioforests.3039,West Virginia,Tyler,2.8593
+bioforests.3040,West Virginia,Upshur,23.192
+bioforests.3050,Wisconsin,Bayfield,37.196
+bioforests.3210,Puerto Rico,Toa Alta,0
+bioforests.3211,Puerto Rico,Toa Baja,0
+bioforests.3212,Puerto Rico,Trujillo Alto,0
+bioforests.3213,Puerto Rico,Utuado,0
+bioforests.864,Iowa,Polk,0
+bioforests.865,Iowa,Pottawattamie,38.427
+bioforests.3219,Puerto Rico,Yauco,0
+bioforests.3131,Wyoming,Natrona,0.015331
+bioforests.3132,Wyoming,Niobrara,0
+bioforests.3133,Wyoming,Park,1.9241
+bioforests.868,Iowa,Sac,0
+bioforests.869,Iowa,Scott,0.12265
+bioforests.3134,Wyoming,Platte,0
+bioforests.871,Iowa,Sioux,0
+bioforests.3195,Puerto Rico,Naranjito,0
+bioforests.3196,Puerto Rico,Orocovis,0
+bioforests.3197,Puerto Rico,Patillas,0
+bioforests.3198,Puerto Rico,Penuelas,0
+bioforests.3199,Puerto Rico,Ponce,0
+bioforests.3200,Puerto Rico,Quebradillas,0
+bioforests.873,Iowa,Tama,1.1192
+bioforests.877,Iowa,Wapello,5.0558
+bioforests.878,Iowa,Warren,0.52775
+bioforests.879,Iowa,Washington,3.8871
+bioforests.884,Iowa,Woodbury,0.50594
+bioforests.889,Kansas,Atchison,0.13798
+bioforests.891,Kansas,Barton,0
+bioforests.892,Kansas,Bourbon,0.36795
+bioforests.900,Kansas,Clay,2.7184
+bioforests.901,Kansas,Cloud,0
+bioforests.902,Kansas,Coffey,0.0076657
+bioforests.912,Kansas,Ellis,0
+bioforests.913,Kansas,Ellsworth,0
+bioforests.914,Kansas,Finney,0
+bioforests.916,Kansas,Franklin,0.045994
+bioforests.917,Kansas,Geary,0
+bioforests.919,Kansas,Graham,0
+bioforests.923,Kansas,Greenwood,0.0076657
+bioforests.924,Kansas,Hamilton,0
+bioforests.926,Kansas,Harvey,0.0076657
+bioforests.929,Kansas,Jackson,2.6441
+bioforests.930,Kansas,Jefferson,0.022997
+bioforests.931,Kansas,Jewell,0.0076657
+bioforests.932,Kansas,Johnson,0.068991
+bioforests.936,Kansas,Labette,0.73945
+bioforests.938,Kansas,Leavenworth,1.6204
+bioforests.942,Kansas,Lyon,0.061326
+bioforests.944,Kansas,Marion,0
+bioforests.945,Kansas,Marshall,1.2554
+bioforests.947,Kansas,Miami,0.030663
+bioforests.948,Kansas,Mitchell,0
+bioforests.949,Kansas,Montgomery,0.69758
+bioforests.952,Kansas,Nemaha,0
+bioforests.953,Kansas,Neosho,2.203
+bioforests.954,Kansas,Ness,0
+bioforests.956,Kansas,Osage,0.038329
+bioforests.964,Kansas,Reno,0.0076657
+bioforests.965,Kansas,Republic,0
+bioforests.970,Kansas,Russell,0
+bioforests.971,Kansas,Saline,0
+bioforests.973,Kansas,Sedgwick,0.0076657
+bioforests.975,Kansas,Shawnee,0.13798
+bioforests.980,Kansas,Stanton,0
+bioforests.982,Kansas,Sumner,0
+bioforests.984,Kansas,Trego,0
+bioforests.985,Kansas,Wabaunsee,0.061326
+bioforests.986,Kansas,Wallace,0
+bioforests.987,Kansas,Washington,6.8719
+bioforests.989,Kansas,Wilson,0.43695
+bioforests.991,Kansas,Wyandotte,0
+bioforests.1010,Kentucky,Campbell,0.31607
+bioforests.1011,Kentucky,Carlisle,25.698
+bioforests.1012,Kentucky,Carroll,1.2749
+bioforests.1013,Kentucky,Carter,26.1
+bioforests.1014,Kentucky,Casey,56.113
+bioforests.1015,Kentucky,Christian,27.575
+bioforests.1016,Kentucky,Clark,0
+bioforests.1017,Kentucky,Clay,5.8879
+bioforests.1023,Kentucky,Elliott,7.2105
+bioforests.1024,Kentucky,Estill,16.824
+bioforests.1025,Kentucky,Fayette,0.5425
+bioforests.1026,Kentucky,Fleming,6.9528
+bioforests.1027,Kentucky,Floyd,13.188
+bioforests.1063,Kentucky,Lyon,8.5856
+bioforests.1071,Kentucky,Martin,12.59
+bioforests.1073,Kentucky,Meade,9.5321
+bioforests.1074,Kentucky,Menifee,8.5914
+bioforests.1075,Kentucky,Mercer,0.27243
+bioforests.1096,Kentucky,Scott,0
+bioforests.1097,Kentucky,Shelby,1.5331
+bioforests.1099,Kentucky,Spencer,2.5414
+bioforests.1100,Kentucky,Taylor,15.209
+bioforests.1256,Michigan,Gogebic,23.145
+bioforests.1257,Michigan,Grand Traverse,6.5689
+bioforests.1260,Michigan,Houghton,33.476
+bioforests.1261,Michigan,Huron,0.36029
+bioforests.1262,Michigan,Ingham,1.2112
+bioforests.1264,Michigan,Iosco,14.292
+bioforests.1265,Michigan,Iron,38.912
+bioforests.1266,Michigan,Isabella,2.9436
+bioforests.1267,Michigan,Jackson,2.0314
+bioforests.1269,Michigan,Kalkaska,12.124
+bioforests.1270,Michigan,Kent,3.6578
+bioforests.1271,Michigan,Keweenaw,15.455
+bioforests.1290,Michigan,Muskegon,4.6218
+bioforests.1291,Michigan,Newaygo,13.385
+bioforests.1292,Michigan,Oakland,14.854
+bioforests.1293,Michigan,Oceana,8.3969
+bioforests.1294,Michigan,Ogemaw,4.2391
+bioforests.1295,Michigan,Ontonagon,27.703
+bioforests.1298,Michigan,Otsego,18.022
+bioforests.1299,Michigan,Ottawa,3.0203
+bioforests.1300,Michigan,Presque Isle,5.4987
+bioforests.1301,Michigan,Roscommon,5.7286
+bioforests.1302,Michigan,Saginaw,1.0349
+bioforests.1303,Michigan,St. Clair,2.9619
+bioforests.1305,Michigan,Sanilac,0.59026
+bioforests.1322,Minnesota,Carver,0.32963
+bioforests.1323,Minnesota,Cass,63.979
+bioforests.1324,Minnesota,Chippewa,0.045994
+bioforests.1325,Minnesota,Chisago,1.1805
+bioforests.1330,Minnesota,Crow Wing,22.384
+bioforests.1331,Minnesota,Dakota,0.16098
+bioforests.1335,Minnesota,Fillmore,5.5447
+bioforests.1337,Minnesota,Goodhue,11.347
+bioforests.1339,Minnesota,Hennepin,0.67576
+bioforests.1357,Minnesota,Marshall,0.72058
+bioforests.1359,Minnesota,Meeker,0.076657
+bioforests.1360,Minnesota,Mille Lacs,4.3848
+bioforests.1361,Minnesota,Morrison,3.3027
+bioforests.1364,Minnesota,Nicollet,0.52893
+bioforests.1366,Minnesota,Norman,0.25297
+bioforests.1367,Minnesota,Olmsted,1.8398
+bioforests.1370,Minnesota,Pine,37.582
+bioforests.1372,Minnesota,Polk,7.2653
+bioforests.1374,Minnesota,Ramsey,0.10732
+bioforests.1376,Minnesota,Redwood,0.099654
+bioforests.1377,Minnesota,Renville,0.084323
+bioforests.1378,Minnesota,Rice,0.23764
+bioforests.1380,Minnesota,Roseau,7.3001
+bioforests.1381,Minnesota,St. Louis,156.91
+bioforests.1382,Minnesota,Scott,0.62859
+bioforests.1383,Minnesota,Sherburne,0.17631
+bioforests.1384,Minnesota,Sibley,0.068991
+bioforests.1385,Minnesota,Stearns,0.50594
+bioforests.1703,Nebraska,Keith,0
+bioforests.1704,Nebraska,Keya Paha,0.13032
+bioforests.1394,Minnesota,Washington,5.9015
+bioforests.1731,Nebraska,Scotts Bluff,0
+bioforests.1732,Nebraska,Seward,0.022997
+bioforests.1733,Nebraska,Sheridan,0
+bioforests.1402,Mississippi,Amite,63.703
+bioforests.1403,Mississippi,Attala,28.01
+bioforests.1790,New Jersey,Somerset,0.52893
+bioforests.1791,New Jersey,Sussex,0.015331
+bioforests.1792,New Jersey,Union,0
+bioforests.1405,Mississippi,Bolivar,18.852
+bioforests.1811,New Mexico,McKinley,0
+bioforests.1812,New Mexico,Mora,0.099654
+bioforests.1898,North Carolina,Brunswick,57.056
+bioforests.1899,North Carolina,Buncombe,15.302
+bioforests.1900,North Carolina,Burke,26.168
+bioforests.1901,North Carolina,Cabarrus,8.0142
+bioforests.1902,North Carolina,Caldwell,15.817
+bioforests.1903,North Carolina,Camden,18.173
+bioforests.1904,North Carolina,Carteret,14.438
+bioforests.1431,Mississippi,Jefferson,25.214
+bioforests.1432,Mississippi,Jefferson Davis,16.192
+bioforests.1957,North Carolina,Pamlico,30.929
+bioforests.1958,North Carolina,Pasquotank,11.56
+bioforests.1435,Mississippi,Lafayette,15.214
+bioforests.2079,Ohio,Holmes,18.84
+bioforests.2080,Ohio,Huron,0.65925
+bioforests.2108,Ohio,Portage,5.856
+bioforests.2160,Oklahoma,Haskell,0.75183
+bioforests.2161,Oklahoma,Hughes,0.39626
+bioforests.2162,Oklahoma,Jackson,0
+bioforests.2163,Oklahoma,Jefferson,0
+bioforests.1440,Mississippi,Lee,4.8736
+bioforests.1441,Mississippi,Leflore,4.5871
+bioforests.2166,Oklahoma,Kingfisher,0
+bioforests.2167,Oklahoma,Kiowa,0
+bioforests.2241,Oregon,Wheeler,2.499
+bioforests.2242,Oregon,Yamhill,40.699
+bioforests.2243,Pennsylvania,Adams,25.981
+bioforests.2244,Pennsylvania,Allegheny,2.7443
+bioforests.2245,Pennsylvania,Armstrong,12.619
+bioforests.2246,Pennsylvania,Beaver,0.55193
+bioforests.2247,Pennsylvania,Bedford,23.31
+bioforests.2248,Pennsylvania,Berks,7.8013
+bioforests.2249,Pennsylvania,Blair,6.7281
+bioforests.2250,Pennsylvania,Bradford,20.175
+bioforests.2251,Pennsylvania,Bucks,0.81256
+bioforests.2294,Pennsylvania,Pike,4.4538
+bioforests.2358,South Carolina,Union,56.067
+bioforests.2359,South Carolina,Williamsburg,62.155
+bioforests.2360,South Carolina,York,33.695
+bioforests.2376,South Dakota,Custer,9.7119
+bioforests.1466,Mississippi,Sunflower,0.57433
+bioforests.1467,Mississippi,Tallahatchie,4.5977
+bioforests.1468,Mississippi,Tate,6.1237
+bioforests.2459,Tennessee,Hamilton,13.415
+bioforests.2460,Tennessee,Hancock,3.9649
+bioforests.2461,Tennessee,Hardeman,33.958
+bioforests.2462,Tennessee,Hardin,53.235
+bioforests.2463,Tennessee,Hawkins,9.7649
+bioforests.2464,Tennessee,Haywood,3.0598
+bioforests.2465,Tennessee,Henderson,19.271
+bioforests.2466,Tennessee,Henry,14.29
+bioforests.2467,Tennessee,Hickman,32.021
+bioforests.1470,Mississippi,Tishomingo,31.587
+bioforests.1471,Mississippi,Tunica,1.2242
+bioforests.2522,Texas,Anderson,38.88
+bioforests.2643,Texas,Jeff Davis,0
+bioforests.2644,Texas,Jefferson,0.8621
+bioforests.1474,Mississippi,Warren,29.944
+bioforests.1475,Mississippi,Washington,10.573
+bioforests.2754,Texas,Val Verde,0
+bioforests.2755,Texas,Van Zandt,0.98239
+bioforests.2756,Texas,Victoria,0
+bioforests.2757,Texas,Walker,12.731
+bioforests.2758,Texas,Waller,0.13858
+bioforests.2792,Utah,Rich,0
+bioforests.2793,Utah,Salt Lake,0.015331
+bioforests.2794,Utah,San Juan,1.3492
+bioforests.2795,Utah,Sanpete,0.084323
+bioforests.2796,Utah,Sevier,0.46761
+bioforests.2797,Utah,Summit,0.91988
+bioforests.2798,Utah,Tooele,0
+bioforests.2799,Utah,Uintah,0.2453
+bioforests.2800,Utah,Utah,0.31429
+bioforests.2801,Utah,Wasatch,1.2495
+bioforests.2802,Utah,Washington,0.42928
+bioforests.2803,Utah,Wayne,0
+bioforests.2804,Utah,Weber,0
+bioforests.1502,Missouri,Chariton,2.7213
+bioforests.1503,Missouri,Christian,4.9674
+bioforests.1504,Missouri,Clark,5.1054
+bioforests.1505,Missouri,Clay,0.084323
+bioforests.1506,Missouri,Clinton,0.10732
+bioforests.1507,Missouri,Cole,4.0044
+bioforests.1520,Missouri,Greene,3.3281
+bioforests.2916,Virginia,Bristol,0
+bioforests.1523,Missouri,Henry,15.097
+bioforests.1525,Missouri,Holt,2.8021
+bioforests.1527,Missouri,Howell,21.24
+bioforests.1534,Missouri,Laclede,1.7861
+bioforests.1535,Missouri,Lafayette,0.38329
+bioforests.1536,Missouri,Lawrence,3.9785
+bioforests.1538,Missouri,Lincoln,3.2809
+bioforests.1539,Missouri,Linn,0.70524
+bioforests.1540,Missouri,Livingston,1.4182
+bioforests.1544,Missouri,Maries,3.6719
+bioforests.1545,Missouri,Marion,0.68225
+bioforests.1547,Missouri,Miller,7.0466
+bioforests.1548,Missouri,Mississippi,0.015331
+bioforests.1551,Missouri,Montgomery,2.6293
+bioforests.1552,Missouri,Morgan,10.168
+bioforests.1553,Missouri,New Madrid,0.57493
+bioforests.1567,Missouri,Putnam,4.6154
+bioforests.1568,Missouri,Ralls,2.844
+bioforests.1570,Missouri,Ray,0.5136
+bioforests.1573,Missouri,St. Charles,0.77424
+bioforests.1574,Missouri,St. Clair,1.0502
+bioforests.1575,Missouri,Ste. Genevieve,3.7945
+bioforests.1587,Missouri,Taney,6.0217
+bioforests.1588,Missouri,Texas,26.818
+bioforests.1589,Missouri,Vernon,8.4037
+bioforests.1590,Missouri,Warren,11.916
+bioforests.1591,Missouri,Washington,16.87
+bioforests.1593,Missouri,Webster,4.3977
+bioforests.1658,Nebraska,Boone,0.084323
+bioforests.1659,Nebraska,Box Butte,0
+bioforests.1660,Nebraska,Boyd,0
+bioforests.1661,Nebraska,Brown,0.045994
+bioforests.1662,Nebraska,Buffalo,0.2453
+bioforests.1663,Nebraska,Burt,0.022997
+bioforests.1664,Nebraska,Butler,0.015331
+bioforests.1665,Nebraska,Cass,0
+bioforests.1666,Nebraska,Cedar,0.49061
+bioforests.1667,Nebraska,Chase,0
+bioforests.1668,Nebraska,Cherry,0.038329
+bioforests.1669,Nebraska,Cheyenne,0
+bioforests.1670,Nebraska,Clay,0
+bioforests.1671,Nebraska,Colfax,0.28363
+bioforests.1672,Nebraska,Cuming,0.061326
+bioforests.1675,Nebraska,Dawes,0.0076657
+bioforests.1676,Nebraska,Dawson,0
+bioforests.1682,Nebraska,Fillmore,0
+bioforests.1683,Nebraska,Franklin,0.23764
+bioforests.1684,Nebraska,Frontier,0
+bioforests.1685,Nebraska,Furnas,0
+bioforests.1686,Nebraska,Gage,0.045994
+bioforests.1687,Nebraska,Garden,0
+bioforests.1689,Nebraska,Gosper,0
+bioforests.1693,Nebraska,Hamilton,0
+bioforests.1694,Nebraska,Harlan,0
+bioforests.1697,Nebraska,Holt,3.3434
+bioforests.1706,Nebraska,Knox,0.084323
+bioforests.1707,Nebraska,Lancaster,0.33729
+bioforests.1708,Nebraska,Lincoln,0.022997
+bioforests.1712,Nebraska,Madison,0.30663
+bioforests.1713,Nebraska,Merrick,0.13798
+bioforests.1714,Nebraska,Morrill,0
+bioforests.1715,Nebraska,Nance,0.091988
+bioforests.1716,Nebraska,Nemaha,0.022997
+bioforests.1717,Nebraska,Nuckolls,0
+bioforests.1718,Nebraska,Otoe,0.015331
+bioforests.1719,Nebraska,Pawnee,0.0076657
+bioforests.1720,Nebraska,Perkins,0
+bioforests.1721,Nebraska,Phelps,0
+bioforests.1722,Nebraska,Pierce,0.2453
+bioforests.1723,Nebraska,Platte,0.14565
+bioforests.1724,Nebraska,Polk,0.13798
+bioforests.1735,Nebraska,Sioux,0
+bioforests.1736,Nebraska,Stanton,0.10732
+bioforests.1737,Nebraska,Thayer,0
+bioforests.1739,Nebraska,Thurston,0.015331
+bioforests.2929,Virginia,Hampton,0
+bioforests.1741,Nebraska,Washington,0.0076657
+bioforests.1742,Nebraska,Wayne,0.42928
+bioforests.1743,Nebraska,Webster,0.23764
+bioforests.1962,North Carolina,Pitt,51.631
+bioforests.1963,North Carolina,Polk,28.736
+bioforests.1964,North Carolina,Randolph,61.54
+bioforests.1965,North Carolina,Richmond,33.208
+bioforests.1966,North Carolina,Robeson,42.097
+bioforests.1968,North Carolina,Rowan,33.675
+bioforests.1969,North Carolina,Rutherford,71.091
+bioforests.1970,North Carolina,Sampson,41.594
+bioforests.1971,North Carolina,Scotland,12.442
+bioforests.1996,North Dakota,Burleigh,0.015331
+bioforests.1997,North Dakota,Cass,0
+bioforests.2001,North Dakota,Dunn,0
+bioforests.2003,North Dakota,Emmons,0
+bioforests.2006,North Dakota,Grand Forks,0
+bioforests.2007,North Dakota,Grant,0
+bioforests.2010,North Dakota,Kidder,0
+bioforests.2011,North Dakota,LaMoure,0
+bioforests.2015,North Dakota,McKenzie,0
+bioforests.2016,North Dakota,McLean,0
+bioforests.2021,North Dakota,Oliver,0
+bioforests.2022,North Dakota,Pembina,5.0502
+bioforests.2024,North Dakota,Ramsey,0
+bioforests.2027,North Dakota,Richland,0.099654
+bioforests.2031,North Dakota,Sioux,0
+bioforests.2033,North Dakota,Stark,0
+bioforests.2035,North Dakota,Stutsman,0
+bioforests.2037,North Dakota,Traill,0.22997
+bioforests.2038,North Dakota,Walsh,0
+bioforests.2039,North Dakota,Ward,0
+bioforests.2041,North Dakota,Williams,0
+bioforests.2042,Ohio,Adams,5.0364
+bioforests.2043,Ohio,Allen,1.0272
+bioforests.2044,Ohio,Ashland,4.1366
+bioforests.2045,Ohio,Ashtabula,5.882
+bioforests.2056,Ohio,Columbiana,0.73591
+bioforests.2057,Ohio,Coshocton,22.071
+bioforests.2058,Ohio,Crawford,0.68991
+bioforests.2059,Ohio,Cuyahoga,15.41
+bioforests.2061,Ohio,Defiance,0.40628
+bioforests.2066,Ohio,Franklin,0.022997
+bioforests.2068,Ohio,Gallia,10.761
+bioforests.2069,Ohio,Geauga,7.6126
+bioforests.2070,Ohio,Greene,4.1395
+bioforests.2071,Ohio,Guernsey,12.389
+bioforests.2072,Ohio,Hamilton,0.099654
+bioforests.2073,Ohio,Hancock,0.2683
+bioforests.2074,Ohio,Hardin,0.091988
+bioforests.2075,Ohio,Harrison,7.6237
+bioforests.2077,Ohio,Highland,2.6788
+bioforests.2082,Ohio,Jefferson,11.171
+bioforests.2083,Ohio,Knox,1.4772
+bioforests.2084,Ohio,Lake,2.1157
+bioforests.2085,Ohio,Lawrence,2.4454
+bioforests.2086,Ohio,Licking,4.4786
+bioforests.2088,Ohio,Lorain,0.19164
+bioforests.2089,Ohio,Lucas,0.27597
+bioforests.2090,Ohio,Madison,0.038329
+bioforests.2091,Ohio,Mahoning,3.2196
+bioforests.2093,Ohio,Medina,6.4333
+bioforests.2094,Ohio,Meigs,8.0667
+bioforests.2097,Ohio,Monroe,0.91222
+bioforests.2098,Ohio,Montgomery,0
+bioforests.2099,Ohio,Morgan,4.8141
+bioforests.2101,Ohio,Muskingum,6.9935
+bioforests.2102,Ohio,Noble,10.189
+bioforests.2103,Ohio,Ottawa,0.030663
+bioforests.2110,Ohio,Putnam,0
+bioforests.2111,Ohio,Richland,2.4047
+bioforests.2112,Ohio,Ross,42.94
+bioforests.2113,Ohio,Sandusky,1.7401
+bioforests.2114,Ohio,Scioto,26.8
+bioforests.2117,Ohio,Stark,5.9391
+bioforests.2118,Ohio,Summit,6.4339
+bioforests.2119,Ohio,Trumbull,10.172
+bioforests.2120,Ohio,Tuscarawas,22.054
+bioforests.2124,Ohio,Warren,5.8961
+bioforests.2125,Ohio,Washington,12.731
+bioforests.2126,Ohio,Wayne,8.1728
+bioforests.2128,Ohio,Wood,0.30663
+bioforests.2129,Ohio,Wyandot,0.068991
+bioforests.2132,Oklahoma,Atoka,7.2382
+bioforests.2133,Oklahoma,Beaver,0
+bioforests.2135,Oklahoma,Blaine,0
+bioforests.2136,Oklahoma,Bryan,5.3017
+bioforests.2137,Oklahoma,Caddo,0
+bioforests.2143,Oklahoma,Cleveland,0
+bioforests.2145,Oklahoma,Comanche,0
+bioforests.2146,Oklahoma,Cotton,0
+bioforests.2148,Oklahoma,Creek,0
+bioforests.2152,Oklahoma,Ellis,0
+bioforests.2153,Oklahoma,Garfield,0.013562
+bioforests.2154,Oklahoma,Garvin,0
+bioforests.2155,Oklahoma,Grady,0
+bioforests.2157,Oklahoma,Greer,0
+bioforests.2169,Oklahoma,Le Flore,21.588
+bioforests.2170,Oklahoma,Lincoln,0
+bioforests.2177,Oklahoma,Marshall,0
+bioforests.2179,Oklahoma,Murray,0
+bioforests.2180,Oklahoma,Muskogee,0
+bioforests.2181,Oklahoma,Noble,0
+bioforests.2183,Oklahoma,Okfuskee,0
+bioforests.2184,Oklahoma,Oklahoma,0
+bioforests.2185,Oklahoma,Okmulgee,0
+bioforests.2186,Oklahoma,Osage,0
+bioforests.2255,Pennsylvania,Carbon,1.5025
+bioforests.2256,Pennsylvania,Centre,19.901
+bioforests.2257,Pennsylvania,Chester,6.2564
+bioforests.2258,Pennsylvania,Clarion,13.922
+bioforests.2259,Pennsylvania,Clearfield,45.011
+bioforests.2260,Pennsylvania,Clinton,13.132
+bioforests.2261,Pennsylvania,Columbia,13.238
+bioforests.2262,Pennsylvania,Crawford,12.831
+bioforests.2263,Pennsylvania,Cumberland,5.422
+bioforests.2264,Pennsylvania,Dauphin,7.0466
+bioforests.2265,Pennsylvania,Delaware,2.6064
+bioforests.2266,Pennsylvania,Elk,30.256
+bioforests.2267,Pennsylvania,Erie,4.2161
+bioforests.2281,Pennsylvania,Lehigh,4.5611
+bioforests.2282,Pennsylvania,Luzerne,13.055
+bioforests.2283,Pennsylvania,Lycoming,26.547
+bioforests.2296,Pennsylvania,Schuylkill,17.153
+bioforests.2297,Pennsylvania,Snyder,10.101
+bioforests.2298,Pennsylvania,Somerset,26.27
+bioforests.2362,South Dakota,Beadle,0
+bioforests.2363,South Dakota,Bennett,0
+bioforests.2364,South Dakota,Bon Homme,0
+bioforests.2365,South Dakota,Brookings,0.0076657
+bioforests.2366,South Dakota,Brown,0
+bioforests.2367,South Dakota,Brule,0
+bioforests.2369,South Dakota,Butte,0.32196
+bioforests.2371,South Dakota,Charles Mix,0
+bioforests.2378,South Dakota,Day,0
+bioforests.2379,South Dakota,Deuel,0
+bioforests.2380,South Dakota,Dewey,0
+bioforests.2382,South Dakota,Edmunds,0
+bioforests.2383,South Dakota,Fall River,0.05366
+bioforests.2385,South Dakota,Grant,0
+bioforests.2386,South Dakota,Gregory,0.0076657
+bioforests.2389,South Dakota,Hand,0
+bioforests.2390,South Dakota,Hanson,0
+bioforests.2391,South Dakota,Harding,0
+bioforests.2392,South Dakota,Hughes,0
+bioforests.2395,South Dakota,Jackson,0
+bioforests.2397,South Dakota,Jones,0
+bioforests.2398,South Dakota,Kingsbury,0
+bioforests.2400,South Dakota,Lawrence,32.113
+bioforests.2401,South Dakota,Lincoln,0.05366
+bioforests.2402,South Dakota,Lyman,0
+bioforests.2403,South Dakota,McCook,0
+bioforests.2404,South Dakota,McPherson,0
+bioforests.2409,South Dakota,Minnehaha,0.022997
+bioforests.2411,South Dakota,Pennington,39.172
+bioforests.2412,South Dakota,Perkins,0
+bioforests.2413,South Dakota,Potter,0
+bioforests.2469,Tennessee,Humphreys,25.423
+bioforests.2470,Tennessee,Jackson,12.749
+bioforests.2471,Tennessee,Jefferson,1.7455
+bioforests.2472,Tennessee,Johnson,4.7021
+bioforests.2473,Tennessee,Knox,3.4614
+bioforests.2508,Tennessee,Sullivan,3.2868
+bioforests.2509,Tennessee,Sumner,9.7
+bioforests.2510,Tennessee,Tipton,3.0521
+bioforests.2524,Texas,Angelina,54.12
+bioforests.2525,Texas,Aransas,0
+bioforests.2528,Texas,Atascosa,0
+bioforests.2529,Texas,Austin,0
+bioforests.2531,Texas,Bandera,0
+bioforests.2532,Texas,Bastrop,0
+bioforests.2534,Texas,Bee,0
+bioforests.2535,Texas,Bell,0
+bioforests.2536,Texas,Bexar,0
+bioforests.2539,Texas,Bosque,0
+bioforests.2540,Texas,Bowie,24.171
+bioforests.2541,Texas,Brazoria,0
+bioforests.2542,Texas,Brazos,0
+bioforests.2543,Texas,Brewster,0
+bioforests.2546,Texas,Brown,0
+bioforests.2547,Texas,Burleson,0
+bioforests.2548,Texas,Burnet,0
+bioforests.2549,Texas,Caldwell,0
+bioforests.2550,Texas,Calhoun,0
+bioforests.2552,Texas,Cameron,0
+bioforests.2553,Texas,Camp,1.473
+bioforests.2555,Texas,Cass,74.055
+bioforests.2557,Texas,Chambers,8.0377
+bioforests.2558,Texas,Cherokee,115.93
+bioforests.2560,Texas,Clay,0
+bioforests.2563,Texas,Coleman,0
+bioforests.2564,Texas,Collin,0
+bioforests.2566,Texas,Colorado,0
+bioforests.2567,Texas,Comal,0
+bioforests.2569,Texas,Concho,0
+bioforests.2570,Texas,Cooke,0
+bioforests.2573,Texas,Crane,0
+bioforests.2574,Texas,Crockett,0
+bioforests.2576,Texas,Culberson,0
+bioforests.2578,Texas,Dallas,0
+bioforests.2581,Texas,Delta,0
+bioforests.2582,Texas,Denton,0
+bioforests.2583,Texas,DeWitt,0
+bioforests.2587,Texas,Duval,0
+bioforests.2590,Texas,Edwards,0
+bioforests.2591,Texas,Ellis,0
+bioforests.2592,Texas,El Paso,0
+bioforests.2593,Texas,Erath,0
+bioforests.2595,Texas,Fannin,0
+bioforests.2599,Texas,Foard,0
+bioforests.2600,Texas,Fort Bend,0
+bioforests.2601,Texas,Franklin,3.0279
+bioforests.2602,Texas,Freestone,0
+bioforests.2605,Texas,Galveston,0
+bioforests.2609,Texas,Goliad,0
+bioforests.2610,Texas,Gonzales,0
+bioforests.2612,Texas,Grayson,0
+bioforests.2613,Texas,Gregg,19.307
+bioforests.2620,Texas,Hardeman,0
+bioforests.2621,Texas,Hardin,53.408
+bioforests.2622,Texas,Harris,5.9598
+bioforests.2623,Texas,Harrison,33.187
+bioforests.2626,Texas,Hays,0
+bioforests.2628,Texas,Henderson,8.0342
+bioforests.2629,Texas,Hidalgo,0
+bioforests.2630,Texas,Hill,0
+bioforests.2633,Texas,Hopkins,0
+bioforests.2634,Texas,Houston,25.745
+bioforests.2636,Texas,Hudspeth,0
+bioforests.2637,Texas,Hunt,0
+bioforests.2646,Texas,Jim Wells,0
+bioforests.2647,Texas,Johnson,0
+bioforests.2649,Texas,Karnes,0
+bioforests.2650,Texas,Kaufman,0
+bioforests.2651,Texas,Kendall,0
+bioforests.2652,Texas,Kenedy,0
+bioforests.2657,Texas,Kinney,0
+bioforests.2658,Texas,Kleberg,0
+bioforests.2659,Texas,Knox,0
+bioforests.2660,Texas,Lamar,0
+bioforests.2662,Texas,Lampasas,0
+bioforests.2664,Texas,Lavaca,0
+bioforests.2665,Texas,Lee,0
+bioforests.2666,Texas,Leon,3.8541
+bioforests.2667,Texas,Liberty,55.619
+bioforests.2670,Texas,Live Oak,0
+bioforests.2671,Texas,Llano,0
+bioforests.2672,Texas,Loving,0
+bioforests.2675,Texas,McCulloch,0
+bioforests.2676,Texas,McLennan,0
+bioforests.2678,Texas,Madison,0.0076657
+bioforests.2679,Texas,Marion,32.88
+bioforests.2682,Texas,Matagorda,0
+bioforests.2683,Texas,Maverick,0
+bioforests.2684,Texas,Medina,0
+bioforests.2687,Texas,Milam,0
+bioforests.2688,Texas,Mills,0
+bioforests.2690,Texas,Montague,0
+bioforests.2691,Texas,Montgomery,11.835
+bioforests.2693,Texas,Morris,11.347
+bioforests.2695,Texas,Nacogdoches,50.442
+bioforests.2696,Texas,Navarro,0
+bioforests.2697,Texas,Newton,65.221
+bioforests.2699,Texas,Nueces,0
+bioforests.2702,Texas,Orange,2.8386
+bioforests.2703,Texas,Palo Pinto,0
+bioforests.2704,Texas,Panola,63.631
+bioforests.2705,Texas,Parker,0
+bioforests.2707,Texas,Pecos,0
+bioforests.2708,Texas,Polk,56.451
+bioforests.2710,Texas,Presidio,0
+bioforests.2714,Texas,Real,0
+bioforests.2715,Texas,Red River,31.837
+bioforests.2716,Texas,Reeves,0
+bioforests.2717,Texas,Refugio,0
+bioforests.2719,Texas,Robertson,0
+bioforests.2722,Texas,Rusk,54.756
+bioforests.2723,Texas,Sabine,32.675
+bioforests.2724,Texas,San Augustine,69.281
+bioforests.2725,Texas,San Jacinto,23.462
+bioforests.2726,Texas,San Patricio,0
+bioforests.2727,Texas,San Saba,0
+bioforests.2731,Texas,Shelby,36.967
+bioforests.2733,Texas,Smith,28.236
+bioforests.2735,Texas,Starr,0
+bioforests.2741,Texas,Tarrant,0
+bioforests.2743,Texas,Terrell,0
+bioforests.2746,Texas,Titus,6.5948
+bioforests.2747,Texas,Tom Green,0
+bioforests.2748,Texas,Travis,0
+bioforests.2749,Texas,Trinity,25.28
+bioforests.2750,Texas,Tyler,83.439
+bioforests.2751,Texas,Upshur,19.419
+bioforests.2764,Texas,Wichita,0
+bioforests.2765,Texas,Wilbarger,0
+bioforests.2766,Texas,Willacy,0
+bioforests.2767,Texas,Williamson,0
+bioforests.2768,Texas,Wilson,0
+bioforests.2770,Texas,Wise,0
+bioforests.2771,Texas,Wood,10.251
+bioforests.2774,Texas,Zapata,0
+bioforests.2927,Virginia,Fredericksburg,0
+bioforests.2931,Virginia,Hopewell,0
+bioforests.2933,Virginia,Lynchburg,0
+bioforests.2948,Virginia,Suffolk,29.978
+bioforests.2949,Virginia,Virginia Beach,1.1534
+bioforests.2937,Virginia,Newport News,0
+bioforests.2938,Virginia,Norfolk,0
+bioforests.2978,Washington,Pend Oreille,29.537
+bioforests.2979,Washington,Pierce,74.77
+bioforests.2980,Washington,San Juan,0.29896
+bioforests.2981,Washington,Skagit,59.792
+bioforests.2982,Washington,Skamania,29.879
+bioforests.2983,Washington,Snohomish,63.684
+bioforests.2984,Washington,Spokane,8.503
+bioforests.2985,Washington,Stevens,60.854
+bioforests.2986,Washington,Thurston,54.733
+bioforests.3041,West Virginia,Wayne,12.896
+bioforests.3042,West Virginia,Webster,31.447
+bioforests.3043,West Virginia,Wetzel,11.08
+bioforests.3044,West Virginia,Wirt,7.9428
+bioforests.3045,West Virginia,Wood,10.944
+bioforests.3046,West Virginia,Wyoming,16.523
+bioforests.3047,Wisconsin,Adams,9.8534
+bioforests.3048,Wisconsin,Ashland,27.089
+bioforests.2944,Virginia,Richmond City,0
+bioforests.2945,Virginia,Roanoke City,0
+bioforests.2946,Virginia,Salem,0
+bioforests.3061,Wisconsin,Door,0.96588
+bioforests.3062,Wisconsin,Douglas,38.016
+bioforests.3063,Wisconsin,Dunn,11.504
+bioforests.2951,Virginia,Williamsburg,0
+bioforests.3135,Wyoming,Sheridan,0.038329
+bioforests.3136,Wyoming,Sublette,0.045994
+bioforests.3137,Wyoming,Sweetwater,0
+bioforests.3138,Wyoming,Teton,0
+bioforests.2988,Washington,Walla Walla,0.022997
+bioforests.2989,Washington,Whatcom,34.03
+bioforests.2990,Washington,Whitman,0.091988
+bioforests.3071,Wisconsin,Iowa,5.659
+bioforests.3072,Wisconsin,Iron,25.167
+bioforests.3073,Wisconsin,Jackson,19.553
+bioforests.3074,Wisconsin,Jefferson,0.36795
+bioforests.3075,Wisconsin,Juneau,11.693
+bioforests.3076,Wisconsin,Kenosha,0.038329
+bioforests.3077,Wisconsin,Kewaunee,1.8014
+bioforests.3082,Wisconsin,Manitowoc,3.2656
+bioforests.3083,Wisconsin,Marathon,26.953
+bioforests.3084,Wisconsin,Marinette,50.358
+bioforests.3087,Wisconsin,Milwaukee,0.0076657
+bioforests.3088,Wisconsin,Monroe,7.365
+bioforests.3089,Wisconsin,Oconto,25.456
+bioforests.3090,Wisconsin,Oneida,28.623
+bioforests.3091,Wisconsin,Outagamie,3.1506
+bioforests.3092,Wisconsin,Ozaukee,0.14565
+bioforests.3094,Wisconsin,Pierce,3.2733
+bioforests.3095,Wisconsin,Polk,9.016
+bioforests.3098,Wisconsin,Racine,0.22997
+bioforests.3099,Wisconsin,Richland,3.8558
+bioforests.3100,Wisconsin,Rock,0.55193
+bioforests.3102,Wisconsin,St. Croix,4.1088
+bioforests.3103,Wisconsin,Sauk,6.5041
+bioforests.3105,Wisconsin,Shawano,18.115
+bioforests.3106,Wisconsin,Sheboygan,0.88156
+bioforests.3108,Wisconsin,Trempealeau,4.7834
+bioforests.3109,Wisconsin,Vernon,5.642
+bioforests.3110,Wisconsin,Vilas,35.816
+bioforests.3111,Wisconsin,Walworth,0.67458
+bioforests.3113,Wisconsin,Washington,1.5638
+bioforests.38,Alabama,Lamar,27.395
+bioforests.16,Alabama,Coffee,27.95
+bioforests.17,Alabama,Colbert,16.737
+bioforests.18,Alabama,Conecuh,62.518
+bioforests.19,Alabama,Coosa,35.054
+bioforests.20,Alabama,Covington,46.786
+bioforests.21,Alabama,Crenshaw,50.857
+bioforests.22,Alabama,Cullman,17.19
+bioforests.39,Alabama,Lauderdale,15.774
+bioforests.40,Alabama,Lawrence,7.7359
+bioforests.41,Alabama,Lee,30.758
+bioforests.42,Alabama,Limestone,6.688
+bioforests.43,Alabama,Lowndes,27.36
+bioforests.44,Alabama,Macon,29.014
+bioforests.45,Alabama,Madison,11.033
+bioforests.4,Alabama,Bibb,37.305
+bioforests.5,Alabama,Blount,24.548
+bioforests.6,Alabama,Bullock,31.585
+bioforests.14,Alabama,Clay,30.184
+bioforests.15,Alabama,Cleburne,20.337
+bioforests.23,Alabama,Dale,15.414
+bioforests.24,Alabama,Dallas,49.529
+bioforests.25,Alabama,DeKalb,23.769
+bioforests.26,Alabama,Elmore,18.96
+bioforests.27,Alabama,Escambia,36.413
+bioforests.28,Alabama,Etowah,12.743
+bioforests.29,Alabama,Fayette,27.831
+bioforests.52,Alabama,Morgan,8.957
+bioforests.53,Alabama,Perry,42.671
+bioforests.54,Alabama,Pickens,45.079
+bioforests.55,Alabama,Pike,29.915
+bioforests.237,California,Trinity,45.375
+bioforests.238,California,Tulare,3.3039
+bioforests.239,California,Tuolumne,20.414
+bioforests.240,California,Ventura,0
+bioforests.241,California,Yolo,0
+bioforests.242,California,Yuba,3.5339
+bioforests.243,Colorado,Adams,0
+bioforests.244,Colorado,Alamosa,0
+bioforests.245,Colorado,Arapahoe,0
+bioforests.30,Alabama,Franklin,19.294
+bioforests.31,Alabama,Geneva,19.653
+bioforests.32,Alabama,Greene,44.021
+bioforests.33,Alabama,Hale,49.143
+bioforests.34,Alabama,Henry,26.811
+bioforests.35,Alabama,Houston,13.635
+bioforests.36,Alabama,Jackson,50.901
+bioforests.37,Alabama,Jefferson,19.843
+bioforests.125,Arkansas,Craighead,0.4676
+bioforests.126,Arkansas,Crawford,4.2155
+bioforests.46,Alabama,Marengo,71.885
+bioforests.143,Arkansas,Jackson,1.2401
+bioforests.144,Arkansas,Jefferson,27.007
+bioforests.145,Arkansas,Johnson,17.313
+bioforests.146,Arkansas,Lafayette,24.597
+bioforests.147,Arkansas,Lawrence,6.0919
+bioforests.148,Arkansas,Lee,2.5557
+bioforests.149,Arkansas,Lincoln,35.989
+bioforests.150,Arkansas,Little River,39.701
+bioforests.151,Arkansas,Logan,18.887
+bioforests.152,Arkansas,Lonoke,7.6144
+bioforests.153,Arkansas,Madison,18.09
+bioforests.154,Arkansas,Marion,4.4715
+bioforests.155,Arkansas,Miller,21.018
+bioforests.156,Arkansas,Mississippi,0.64038
+bioforests.157,Arkansas,Monroe,5.2428
+bioforests.279,Colorado,Las Animas,0.62092
+bioforests.72,Alaska,Bristol Bay,0
+bioforests.73,Alaska,Denali,0
+bioforests.74,Alaska,Dillingham,0
+bioforests.75,Alaska,Fairbanks North Star,29.619
+bioforests.76,Alaska,Haines,0
+bioforests.77,Alaska,Juneau,0
+bioforests.78,Alaska,Kenai Peninsula,0
+bioforests.79,Alaska,Ketchikan Gateway,0
+bioforests.80,Alaska,Kodiak Island,0
+bioforests.81,Alaska,Lake and Peninsula,0
+bioforests.82,Alaska,Matanuska-Susitna,0
+bioforests.83,Alaska,Nome,0
+bioforests.84,Alaska,North Slope,0
+bioforests.85,Alaska,Northwest Arctic,0
+bioforests.47,Alabama,Marion,42.507
+bioforests.48,Alabama,Marshall,9.4936
+bioforests.49,Alabama,Mobile,34.602
+bioforests.50,Alabama,Monroe,81.061
+bioforests.56,Alabama,Randolph,25.257
+bioforests.57,Alabama,Russell,29.974
+bioforests.58,Alabama,St. Clair,32.48
+bioforests.59,Alabama,Shelby,31.26
+bioforests.60,Alabama,Sumter,79.994
+bioforests.61,Alabama,Talladega,18.104
+bioforests.62,Alabama,Tallapoosa,43.939
+bioforests.63,Alabama,Tuscaloosa,66.28
+bioforests.64,Alabama,Walker,21.448
+bioforests.65,Alabama,Washington,81.964
+bioforests.66,Alabama,Wilcox,67.365
+bioforests.67,Alabama,Winston,22.459
+bioforests.68,Alaska,Aleutians East,0
+bioforests.69,Alaska,Aleutians West,0
+bioforests.70,Alaska,Anchorage,0
+bioforests.71,Alaska,Bethel,0
+bioforests.86,Alaska,Prince of Wales-Outer Ketchikan,172.89
+bioforests.87,Alaska,Sitka,0
+bioforests.88,Alaska,Skagway-Hoonah-Angoon,0
+bioforests.89,Alaska,Southeast Fairbanks,0
+bioforests.90,Alaska,Valdez-Cordova,0
+bioforests.91,Alaska,Wade Hampton,0
+bioforests.92,Alaska,Wrangell-Petersburg,0
+bioforests.93,Alaska,Yakutat,0
+bioforests.94,Alaska,Yukon-Koyukuk,0
+bioforests.95,Arizona,Apache,15.791
+bioforests.96,Arizona,Cochise,0
+bioforests.97,Arizona,Coconino,6.4215
+bioforests.98,Arizona,Gila,0.99654
+bioforests.99,Arizona,Graham,0.58259
+bioforests.100,Arizona,Greenlee,0
+bioforests.101,Arizona,La Paz,0
+bioforests.102,Arizona,Maricopa,0
+bioforests.246,Colorado,Archuleta,1.4258
+bioforests.107,Arizona,Santa Cruz,0.015331
+bioforests.108,Arizona,Yavapai,0.5596
+bioforests.109,Arizona,Yuma,0
+bioforests.110,Arkansas,Arkansas,10.885
+bioforests.111,Arkansas,Ashley,133.17
+bioforests.112,Arkansas,Baxter,3.5946
+bioforests.113,Arkansas,Benton,6.0612
+bioforests.194,California,Fresno,2.5373
+bioforests.195,California,Glenn,2.3994
+bioforests.196,California,Humboldt,104.31
+bioforests.197,California,Imperial,0
+bioforests.198,California,Inyo,0
+bioforests.114,Arkansas,Boone,3.3676
+bioforests.115,Arkansas,Bradley,116.91
+bioforests.116,Arkansas,Calhoun,59.81
+bioforests.117,Arkansas,Carroll,4.7262
+bioforests.118,Arkansas,Chicot,6.0895
+bioforests.119,Arkansas,Clark,120.98
+bioforests.120,Arkansas,Clay,4.2639
+bioforests.202,California,Lassen,51.101
+bioforests.203,California,Los Angeles,0
+bioforests.204,California,Madera,0.038329
+bioforests.121,Arkansas,Cleburne,19.326
+bioforests.122,Arkansas,Cleveland,77.406
+bioforests.123,Arkansas,Columbia,44.196
+bioforests.124,Arkansas,Conway,16.031
+bioforests.128,Arkansas,Cross,0.83379
+bioforests.129,Arkansas,Dallas,91.993
+bioforests.130,Arkansas,Desha,14.166
+bioforests.131,Arkansas,Drew,78.097
+bioforests.132,Arkansas,Faulkner,6.3348
+bioforests.133,Arkansas,Franklin,4.1371
+bioforests.134,Arkansas,Fulton,16.665
+bioforests.135,Arkansas,Garland,31.139
+bioforests.136,Arkansas,Grant,59.506
+bioforests.137,Arkansas,Greene,0.3998
+bioforests.138,Arkansas,Hempstead,37.408
+bioforests.139,Arkansas,Hot Spring,43.658
+bioforests.158,Arkansas,Montgomery,20.851
+bioforests.159,Arkansas,Nevada,45.253
+bioforests.207,California,Mendocino,52.38
+bioforests.208,California,Merced,0
+bioforests.209,California,Modoc,12.719
+bioforests.210,California,Mono,0
+bioforests.211,California,Monterey,0
+bioforests.212,California,Napa,0.12265
+bioforests.213,California,Nevada,20.061
+bioforests.214,California,Orange,0
+bioforests.215,California,Placer,22.926
+bioforests.216,California,Plumas,85.915
+bioforests.217,California,Riverside,0
+bioforests.218,California,Sacramento,0
+bioforests.219,California,San Benito,0.030663
+bioforests.160,Arkansas,Newton,8.7536
+bioforests.161,Arkansas,Ouachita,64.907
+bioforests.162,Arkansas,Perry,37.227
+bioforests.163,Arkansas,Phillips,4.6967
+bioforests.164,Arkansas,Pike,89.761
+bioforests.165,Arkansas,Poinsett,0.25533
+bioforests.224,California,San Luis Obispo,0
+bioforests.225,California,San Mateo,1.9318
+bioforests.226,California,Santa Barbara,0
+bioforests.227,California,Santa Clara,1.9318
+bioforests.166,Arkansas,Polk,51.69
+bioforests.167,Arkansas,Pope,22.566
+bioforests.168,Arkansas,Prairie,6.7051
+bioforests.169,Arkansas,Pulaski,12.395
+bioforests.170,Arkansas,Randolph,8.3556
+bioforests.171,Arkansas,St. Francis,3.3717
+bioforests.172,Arkansas,Saline,35.985
+bioforests.173,Arkansas,Scott,30.068
+bioforests.231,California,Siskiyou,106.26
+bioforests.232,California,Solano,0
+bioforests.174,Arkansas,Searcy,12.153
+bioforests.175,Arkansas,Sebastian,1.2985
+bioforests.176,Arkansas,Sevier,39.115
+bioforests.177,Arkansas,Sharp,6.4822
+bioforests.178,Arkansas,Stone,14.37
+bioforests.179,Arkansas,Union,113.43
+bioforests.180,Arkansas,Van Buren,38.157
+bioforests.181,Arkansas,Washington,10.001
+bioforests.182,Arkansas,White,30.506
+bioforests.252,Colorado,Cheyenne,0
+bioforests.253,Colorado,Clear Creek,0
+bioforests.254,Colorado,Conejos,0.20697
+bioforests.255,Colorado,Costilla,1.2955
+bioforests.256,Colorado,Crowley,0
+bioforests.257,Colorado,Custer,0.091988
+bioforests.258,Colorado,Delta,5.3913
+bioforests.259,Colorado,Denver,0
+bioforests.260,Colorado,Dolores,1.8244
+bioforests.261,Colorado,Douglas,0.022997
+bioforests.262,Colorado,Eagle,0
+bioforests.263,Colorado,Elbert,0
+bioforests.264,Colorado,El Paso,0.045994
+bioforests.265,Colorado,Fremont,0.16098
+bioforests.266,Colorado,Garfield,0.14565
+bioforests.267,Colorado,Gilpin,0
+bioforests.268,Colorado,Grand,1.8781
+bioforests.269,Colorado,Gunnison,0.72058
+bioforests.270,Colorado,Hinsdale,0
+bioforests.271,Colorado,Huerfano,0.038329
+bioforests.283,Colorado,Mineral,0.099654
+bioforests.284,Colorado,Moffat,0
+bioforests.285,Colorado,Montezuma,0.81256
+bioforests.286,Colorado,Montrose,0.5596
+bioforests.287,Colorado,Morgan,0
+bioforests.288,Colorado,Otero,0
+bioforests.291,Colorado,Phillips,0
+bioforests.315,Delaware,Kent,3.4112
+bioforests.316,Delaware,New Castle,1.0962
+bioforests.317,Delaware,Sussex,8.7212
+bioforests.318,District of Columbia,District of Columbia,0
+bioforests.319,Florida,Alachua,27.019
+bioforests.320,Florida,Baker,17.655
+bioforests.321,Florida,Bay,50.49
+bioforests.322,Florida,Bradford,18.998
+bioforests.323,Florida,Brevard,1.3574
+bioforests.324,Florida,Broward,0
+bioforests.325,Florida,Calhoun,68.832
+bioforests.326,Florida,Charlotte,1.105
+bioforests.327,Florida,Citrus,0.8562
+bioforests.328,Florida,Clay,30.62
+bioforests.329,Florida,Collier,0
+bioforests.330,Florida,Columbia,21.658
+bioforests.293,Colorado,Prowers,0
+bioforests.294,Colorado,Pueblo,0.045994
+bioforests.295,Colorado,Rio Blanco,0
+bioforests.296,Colorado,Rio Grande,0.076657
+bioforests.297,Colorado,Routt,0.12265
+bioforests.301,Colorado,Sedgwick,0
+bioforests.386,Georgia,Appling,57.652
+bioforests.387,Georgia,Atkinson,19.007
+bioforests.388,Georgia,Bacon,27.164
+bioforests.389,Georgia,Baker,3.4655
+bioforests.390,Georgia,Baldwin,9.5821
+bioforests.391,Georgia,Banks,3.952
+bioforests.392,Georgia,Barrow,1.4117
+bioforests.303,Colorado,Teller,0
+bioforests.306,Colorado,Yuma,0
+bioforests.307,Connecticut,Fairfield,0.10732
+bioforests.331,Florida,DeSoto,1.0838
+bioforests.424,Georgia,Crawford,14.193
+bioforests.425,Georgia,Crisp,4.9732
+bioforests.342,Florida,Hardee,0
+bioforests.343,Florida,Hendry,0
+bioforests.344,Florida,Hernando,1.0968
+bioforests.345,Florida,Highlands,1.7678
+bioforests.346,Florida,Hillsborough,0.35557
+bioforests.347,Florida,Holmes,18.704
+bioforests.348,Florida,Indian River,0
+bioforests.349,Florida,Jackson,63.266
+bioforests.350,Florida,Jefferson,13.344
+bioforests.351,Florida,Lafayette,29.018
+bioforests.352,Florida,Lake,6.2252
+bioforests.353,Florida,Lee,0.059557
+bioforests.354,Florida,Leon,16.725
+bioforests.355,Florida,Levy,58.854
+bioforests.356,Florida,Liberty,23.65
+bioforests.357,Florida,Madison,45.282
+bioforests.358,Florida,Manatee,0
+bioforests.359,Florida,Marion,28.052
+bioforests.360,Florida,Martin,0
+bioforests.361,Florida,Miami-Dade,0
+bioforests.362,Florida,Monroe,0
+bioforests.363,Florida,Nassau,69.196
+bioforests.364,Florida,Okaloosa,22.604
+bioforests.365,Florida,Okeechobee,0
+bioforests.366,Florida,Orange,0.171
+bioforests.367,Florida,Osceola,0.54191
+bioforests.368,Florida,Palm Beach,0
+bioforests.393,Georgia,Bartow,13.598
+bioforests.394,Georgia,Ben Hill,9.3109
+bioforests.397,Georgia,Bleckley,14.818
+bioforests.398,Georgia,Brantley,27.652
+bioforests.399,Georgia,Brooks,12.059
+bioforests.400,Georgia,Bryan,20.651
+bioforests.401,Georgia,Bulloch,45.297
+bioforests.402,Georgia,Burke,66.254
+bioforests.403,Georgia,Butts,7.7512
+bioforests.404,Georgia,Calhoun,3.3894
+bioforests.405,Georgia,Camden,40.975
+bioforests.406,Georgia,Candler,14.884
+bioforests.407,Georgia,Carroll,33.135
+bioforests.408,Georgia,Catoosa,4.077
+bioforests.409,Georgia,Charlton,53.367
+bioforests.410,Georgia,Chatham,6.8431
+bioforests.411,Georgia,Chattahoochee,5.6478
+bioforests.412,Georgia,Chattooga,14.101
+bioforests.413,Georgia,Cherokee,8.9335
+bioforests.414,Georgia,Clarke,1.1823
+bioforests.426,Georgia,Dade,0.63449
+bioforests.427,Georgia,Dawson,3.9266
+bioforests.428,Georgia,Decatur,15.315
+bioforests.429,Georgia,DeKalb,0.4906
+bioforests.430,Georgia,Dodge,44.101
+bioforests.431,Georgia,Dooly,14.612
+bioforests.432,Georgia,Dougherty,3.7703
+bioforests.433,Georgia,Douglas,4.6407
+bioforests.434,Georgia,Early,12.242
+bioforests.435,Georgia,Echols,21.148
+bioforests.436,Georgia,Effingham,49.911
+bioforests.437,Georgia,Elbert,19.756
+bioforests.438,Georgia,Emanuel,45.419
+bioforests.439,Georgia,Evans,11.233
+bioforests.440,Georgia,Fannin,2.2791
+bioforests.441,Georgia,Fayette,0.47586
+bioforests.442,Georgia,Floyd,29.217
+bioforests.443,Georgia,Forsyth,3.7544
+bioforests.444,Georgia,Franklin,6.0742
+bioforests.445,Georgia,Fulton,9.647
+bioforests.446,Georgia,Gilmer,7.9735
+bioforests.447,Georgia,Glascock,14.254
+bioforests.448,Georgia,Glynn,26.405
+bioforests.449,Georgia,Gordon,11.216
+bioforests.450,Georgia,Grady,17.421
+bioforests.451,Georgia,Greene,30.976
+bioforests.452,Georgia,Gwinnett,5.7033
+bioforests.453,Georgia,Habersham,5.2769
+bioforests.454,Georgia,Hall,4.0139
+bioforests.455,Georgia,Hancock,36.094
+bioforests.566,Idaho,Clark,2.3764
+bioforests.456,Georgia,Haralson,17.46
+bioforests.459,Georgia,Heard,17.184
+bioforests.467,Georgia,Jenkins,30.185
+bioforests.468,Georgia,Johnson,28.954
+bioforests.469,Georgia,Jones,16.429
+bioforests.623,Illinois,Gallatin,0.82023
+bioforests.624,Illinois,Greene,0.5136
+bioforests.625,Illinois,Grundy,0.061326
+bioforests.626,Illinois,Hamilton,2.9755
+bioforests.627,Illinois,Hancock,2.6753
+bioforests.470,Georgia,Lamar,15.074
+bioforests.659,Illinois,Mercer,4.0074
+bioforests.660,Illinois,Monroe,2.5527
+bioforests.661,Illinois,Montgomery,2.9047
+bioforests.485,Georgia,Miller,4.1312
+bioforests.495,Georgia,Paulding,17.595
+bioforests.496,Georgia,Peach,2.7679
+bioforests.906,Kansas,Decatur,0
+bioforests.907,Kansas,Dickinson,0.0076657
+bioforests.908,Kansas,Doniphan,0.31429
+bioforests.909,Kansas,Douglas,0.030663
+bioforests.497,Georgia,Pickens,6.7193
+bioforests.500,Georgia,Polk,7.8904
+bioforests.505,Georgia,Randolph,15.768
+bioforests.506,Georgia,Richmond,18.611
+bioforests.507,Georgia,Rockdale,0.7878
+bioforests.998,Kentucky,Bell,15.215
+bioforests.999,Kentucky,Boone,4.8028
+bioforests.1000,Kentucky,Bourbon,0.62387
+bioforests.1001,Kentucky,Boyd,9.0426
+bioforests.1002,Kentucky,Boyle,1.5673
+bioforests.1003,Kentucky,Bracken,9.5769
+bioforests.1004,Kentucky,Breathitt,13.042
+bioforests.1005,Kentucky,Breckinridge,38.429
+bioforests.1006,Kentucky,Bullitt,3.8735
+bioforests.1007,Kentucky,Butler,13.759
+bioforests.1008,Kentucky,Caldwell,21.444
+bioforests.508,Georgia,Schley,13.303
+bioforests.514,Georgia,Sumter,16.092
+bioforests.515,Georgia,Talbot,22.601
+bioforests.516,Georgia,Taliaferro,13.091
+bioforests.517,Georgia,Tattnall,26.051
+bioforests.518,Georgia,Taylor,20.663
+bioforests.519,Georgia,Telfair,50.534
+bioforests.520,Georgia,Terrell,5.1773
+bioforests.521,Georgia,Thomas,20.302
+bioforests.522,Georgia,Tift,11.41
+bioforests.523,Georgia,Toombs,28.186
+bioforests.524,Georgia,Towns,0.48412
+bioforests.525,Georgia,Treutlen,11.292
+bioforests.1047,Kentucky,Jefferson,0.39566
+bioforests.1048,Kentucky,Jessamine,0.61031
+bioforests.1049,Kentucky,Johnson,9.252
+bioforests.1050,Kentucky,Kenton,3.2898
+bioforests.1051,Kentucky,Knott,2.1912
+bioforests.1052,Kentucky,Knox,44.033
+bioforests.1053,Kentucky,Larue,8.0542
+bioforests.1054,Kentucky,Laurel,58.556
+bioforests.1055,Kentucky,Lawrence,10.498
+bioforests.1056,Kentucky,Lee,26.581
+bioforests.1057,Kentucky,Leslie,25.267
+bioforests.1058,Kentucky,Letcher,28.917
+bioforests.1059,Kentucky,Lewis,44.783
+bioforests.1060,Kentucky,Lincoln,6.2216
+bioforests.1061,Kentucky,Livingston,18.097
+bioforests.526,Georgia,Troup,29.82
+bioforests.527,Georgia,Turner,5.4645
+bioforests.528,Georgia,Twiggs,33.085
+bioforests.529,Georgia,Union,1.5084
+bioforests.530,Georgia,Upson,18.952
+bioforests.531,Georgia,Walker,6.7417
+bioforests.532,Georgia,Walton,4.5387
+bioforests.533,Georgia,Ware,54.691
+bioforests.534,Georgia,Warren,15.95
+bioforests.535,Georgia,Washington,47.643
+bioforests.537,Georgia,Webster,15.126
+bioforests.538,Georgia,Wheeler,19.281
+bioforests.539,Georgia,White,2.3298
+bioforests.540,Georgia,Whitfield,7.3213
+bioforests.541,Georgia,Wilcox,42.104
+bioforests.542,Georgia,Wilkes,30.441
+bioforests.543,Georgia,Wilkinson,38.764
+bioforests.544,Georgia,Worth,11.929
+bioforests.545,Hawaii,Hawaii,0
+bioforests.546,Hawaii,Honolulu,0
+bioforests.547,Hawaii,Kalawao,0
+bioforests.548,Hawaii,Kauai,0
+bioforests.549,Hawaii,Maui,0
+bioforests.550,Idaho,Ada,0
+bioforests.551,Idaho,Adams,12.772
+bioforests.552,Idaho,Bannock,0
+bioforests.553,Idaho,Bear Lake,0.8279
+bioforests.554,Idaho,Benewah,62.151
+bioforests.555,Idaho,Bingham,0
+bioforests.556,Idaho,Blaine,1.8091
+bioforests.557,Idaho,Boise,10.16
+bioforests.558,Idaho,Bonner,37.91
+bioforests.560,Idaho,Boundary,22.95
+bioforests.561,Idaho,Butte,1.2572
+bioforests.562,Idaho,Camas,0
+bioforests.563,Idaho,Canyon,0
+bioforests.581,Idaho,Lincoln,0
+bioforests.582,Idaho,Madison,0
+bioforests.583,Idaho,Minidoka,0
+bioforests.584,Idaho,Nez Perce,4.1855
+bioforests.585,Idaho,Oneida,0
+bioforests.586,Idaho,Owyhee,0
+bioforests.587,Idaho,Payette,0
+bioforests.588,Idaho,Power,0.39095
+bioforests.589,Idaho,Shoshone,88.922
+bioforests.596,Illinois,Bond,5.8291
+bioforests.1083,Kentucky,Ohio,70.607
+bioforests.1084,Kentucky,Oldham,0.65099
+bioforests.597,Illinois,Boone,1.0732
+bioforests.601,Illinois,Carroll,0.5366
+bioforests.602,Illinois,Cass,2.6677
+bioforests.603,Illinois,Champaign,0.10732
+bioforests.605,Illinois,Clark,1.8321
+bioforests.606,Illinois,Clay,7.1468
+bioforests.607,Illinois,Clinton,4.6301
+bioforests.608,Illinois,Coles,1.8781
+bioforests.609,Illinois,Cook,0.13032
+bioforests.610,Illinois,Crawford,1.4641
+bioforests.1121,Louisiana,Calcasieu,14.576
+bioforests.1122,Louisiana,Caldwell,47.352
+bioforests.1123,Louisiana,Cameron,0.12914
+bioforests.1124,Louisiana,Catahoula,8.8451
+bioforests.1125,Louisiana,Claiborne,57.53
+bioforests.1126,Louisiana,Concordia,23.977
+bioforests.1127,Louisiana,De Soto,76.746
+bioforests.1128,Louisiana,East Baton Rouge,27.31
+bioforests.1129,Louisiana,East Carroll,0.8963
+bioforests.1130,Louisiana,East Feliciana,36.659
+bioforests.1131,Louisiana,Evangeline,18.841
+bioforests.1132,Louisiana,Franklin,7.5301
+bioforests.1133,Louisiana,Grant,38.464
+bioforests.1134,Louisiana,Iberia,0.20284
+bioforests.1135,Louisiana,Iberville,32.508
+bioforests.1136,Louisiana,Jackson,57.617
+bioforests.1137,Louisiana,Jefferson,0
+bioforests.611,Illinois,Cumberland,1.2265
+bioforests.612,Illinois,DeKalb,0.23764
+bioforests.1143,Louisiana,Livingston,45.783
+bioforests.1144,Louisiana,Madison,18.357
+bioforests.1145,Louisiana,Morehouse,19.619
+bioforests.1146,Louisiana,Natchitoches,62.262
+bioforests.1147,Louisiana,Orleans,0
+bioforests.1148,Louisiana,Ouachita,31.49
+bioforests.1149,Louisiana,Plaquemines,0
+bioforests.1150,Louisiana,Pointe Coupee,70.352
+bioforests.1151,Louisiana,Rapides,70.66
+bioforests.1152,Louisiana,Red River,17.046
+bioforests.1153,Louisiana,Richland,5.9598
+bioforests.1154,Louisiana,Sabine,68.69
+bioforests.613,Illinois,De Witt,0
+bioforests.1159,Louisiana,St. John the Baptist,0
+bioforests.1160,Louisiana,St. Landry,39.226
+bioforests.1161,Louisiana,St. Martin,8.3426
+bioforests.1162,Louisiana,St. Mary,1.3173
+bioforests.1163,Louisiana,St. Tammany,25
+bioforests.1164,Louisiana,Tangipahoa,31.331
+bioforests.1165,Louisiana,Tensas,7.3402
+bioforests.1166,Louisiana,Terrebonne,6.2546
+bioforests.1167,Louisiana,Union,132.31
+bioforests.1168,Louisiana,Vermilion,0
+bioforests.1169,Louisiana,Vernon,84.504
+bioforests.1170,Louisiana,Washington,20.574
+bioforests.1171,Louisiana,Webster,44.171
+bioforests.614,Illinois,Douglas,0.068991
+bioforests.615,Illinois,DuPage,2.7626
+bioforests.1173,Louisiana,West Carroll,0.66632
+bioforests.1174,Louisiana,West Feliciana,34.83
+bioforests.1175,Louisiana,Winn,111.64
+bioforests.1176,Maine,Androscoggin,13.073
+bioforests.1177,Maine,Aroostook,190.64
+bioforests.1178,Maine,Cumberland,21.941
+bioforests.1179,Maine,Franklin,54.886
+bioforests.1180,Maine,Hancock,49.485
+bioforests.1181,Maine,Kennebec,33.024
+bioforests.1182,Maine,Knox,5.0287
+bioforests.1183,Maine,Lincoln,12.678
+bioforests.1184,Maine,Oxford,84.736
+bioforests.1185,Maine,Penobscot,164.25
+bioforests.1186,Maine,Piscataquis,131.02
+bioforests.1187,Maine,Sagadahoc,2.8363
+bioforests.1188,Maine,Somerset,179.51
+bioforests.1189,Maine,Waldo,12.094
+bioforests.1190,Maine,Washington,52.782
+bioforests.1191,Maine,York,15.491
+bioforests.1192,Maryland,Allegany,3.7102
+bioforests.616,Illinois,Edgar,1.4624
+bioforests.617,Illinois,Edwards,0.28363
+bioforests.1198,Maryland,Cecil,4.6148
+bioforests.1199,Maryland,Charles,17.421
+bioforests.1200,Maryland,Dorchester,28.628
+bioforests.1201,Maryland,Frederick,2.0314
+bioforests.1202,Maryland,Garrett,8.792
+bioforests.1203,Maryland,Harford,6.0677
+bioforests.1204,Maryland,Howard,6.362
+bioforests.1205,Maryland,Kent,2.568
+bioforests.1206,Maryland,Montgomery,2.8399
+bioforests.1207,Maryland,Prince George's,4.8064
+bioforests.1208,Maryland,Queen Anne's,16.457
+bioforests.1209,Maryland,St. Mary's,9.1812
+bioforests.1210,Maryland,Somerset,5.8106
+bioforests.1211,Maryland,Talbot,4.1165
+bioforests.1212,Maryland,Washington,1.5025
+bioforests.1213,Maryland,Wicomico,36.024
+bioforests.1214,Maryland,Worcester,11.162
+bioforests.1215,Maryland,Baltimore City,0
+bioforests.1216,Massachusetts,Barnstable,8.9406
+bioforests.618,Illinois,Effingham,8.079
+bioforests.619,Illinois,Fayette,9.5055
+bioforests.1223,Massachusetts,Hampshire,6.6621
+bioforests.1224,Massachusetts,Middlesex,7.8511
+bioforests.1225,Massachusetts,Nantucket,0
+bioforests.620,Illinois,Ford,0
+bioforests.621,Illinois,Franklin,2.7597
+bioforests.628,Illinois,Hardin,1.2495
+bioforests.1227,Massachusetts,Plymouth,1.2236
+bioforests.1228,Massachusetts,Suffolk,0
+bioforests.1229,Massachusetts,Worcester,6.8466
+bioforests.1230,Michigan,Alcona,5.8719
+bioforests.629,Illinois,Henderson,1.3798
+bioforests.1232,Michigan,Allegan,8.3406
+bioforests.1233,Michigan,Alpena,5.6113
+bioforests.1234,Michigan,Antrim,5.8854
+bioforests.1235,Michigan,Arenac,3.6854
+bioforests.1236,Michigan,Baraga,36.188
+bioforests.1237,Michigan,Barry,3.4389
+bioforests.1238,Michigan,Bay,0.40628
+bioforests.1239,Michigan,Benzie,4.8984
+bioforests.1240,Michigan,Berrien,1.3108
+bioforests.1241,Michigan,Branch,1.1958
+bioforests.1242,Michigan,Calhoun,13.082
+bioforests.631,Illinois,Iroquois,0.038329
+bioforests.633,Illinois,Jasper,2.4454
+bioforests.1246,Michigan,Chippewa,29.613
+bioforests.634,Illinois,Jefferson,3.5569
+bioforests.635,Illinois,Jersey,2.1541
+bioforests.636,Illinois,Jo Daviess,39.502
+bioforests.637,Illinois,Johnson,0.5596
+bioforests.638,Illinois,Kane,0.70524
+bioforests.639,Illinois,Kankakee,0.030663
+bioforests.640,Illinois,Kendall,0
+bioforests.641,Illinois,Knox,0.68225
+bioforests.644,Illinois,Lawrence,3.4036
+bioforests.645,Illinois,Lee,0.2683
+bioforests.646,Illinois,Livingston,0.015331
+bioforests.1250,Michigan,Delta,26.317
+bioforests.1251,Michigan,Dickinson,26.629
+bioforests.647,Illinois,Logan,0.33729
+bioforests.648,Illinois,McDonough,0.85089
+bioforests.1285,Michigan,Midland,1.8168
+bioforests.654,Illinois,Marion,16.704
+bioforests.1317,Minnesota,Benton,0.34496
+bioforests.1318,Minnesota,Big Stone,0.10732
+bioforests.1319,Minnesota,Blue Earth,0.72824
+bioforests.1320,Minnesota,Brown,0.5596
+bioforests.655,Illinois,Marshall,0.038329
+bioforests.1342,Minnesota,Isanti,1.46
+bioforests.1343,Minnesota,Itasca,111.44
+bioforests.657,Illinois,Massac,0.52893
+bioforests.662,Illinois,Morgan,10.387
+bioforests.1410,Mississippi,Claiborne,47.21
+bioforests.663,Illinois,Moultrie,0
+bioforests.667,Illinois,Piatt,0
+bioforests.1489,Missouri,Benton,10.572
+bioforests.671,Illinois,Putnam,0
+bioforests.676,Illinois,Saline,2.4684
+bioforests.1565,Missouri,Polk,2.8976
+bioforests.679,Illinois,Scott,1.3032
+bioforests.681,Illinois,Stark,0
+bioforests.682,Illinois,Stephenson,0.65158
+bioforests.684,Illinois,Union,2.1387
+bioforests.685,Illinois,Vermilion,6.5891
+bioforests.686,Illinois,Wabash,0.38329
+bioforests.687,Illinois,Warren,0.32196
+bioforests.689,Illinois,Wayne,6.392
+bioforests.690,Illinois,White,0.85856
+bioforests.691,Illinois,Whiteside,0.85856
+bioforests.692,Illinois,Will,2.535
+bioforests.696,Indiana,Adams,0.65925
+bioforests.699,Indiana,Benton,0
+bioforests.700,Indiana,Blackford,0.091988
+bioforests.701,Indiana,Boone,0.5596
+bioforests.702,Indiana,Brown,24.543
+bioforests.703,Indiana,Carroll,1.4335
+bioforests.704,Indiana,Cass,1.4412
+bioforests.706,Indiana,Clay,6.4156
+bioforests.707,Indiana,Clinton,0.41395
+bioforests.711,Indiana,Decatur,2.3764
+bioforests.712,Indiana,DeKalb,2.2997
+bioforests.713,Indiana,Delaware,0.19164
+bioforests.715,Indiana,Elkhart,3.3959
+bioforests.716,Indiana,Fayette,1.3722
+bioforests.719,Indiana,Franklin,3.5032
+bioforests.722,Indiana,Grant,0.93522
+bioforests.723,Indiana,Greene,14.948
+bioforests.728,Indiana,Henry,0.23764
+bioforests.729,Indiana,Howard,0.39862
+bioforests.730,Indiana,Huntington,1.5791
+bioforests.732,Indiana,Jasper,0.63625
+bioforests.733,Indiana,Jay,1.3492
+bioforests.738,Indiana,Kosciusko,6.5866
+bioforests.739,Indiana,LaGrange,3.0126
+bioforests.742,Indiana,Lawrence,17.902
+bioforests.745,Indiana,Marshall,2.6063
+bioforests.746,Indiana,Martin,14.299
+bioforests.747,Indiana,Miami,1.6251
+bioforests.749,Indiana,Montgomery,1.2035
+bioforests.751,Indiana,Newton,2.2826
+bioforests.752,Indiana,Noble,4.1778
+bioforests.754,Indiana,Orange,17.348
+bioforests.761,Indiana,Pulaski,2.982
+bioforests.763,Indiana,Randolph,0.78957
+bioforests.764,Indiana,Ripley,5.0517
+bioforests.768,Indiana,Shelby,0.55193
+bioforests.771,Indiana,Steuben,4.4921
+bioforests.775,Indiana,Tipton,0.0076657
+bioforests.776,Indiana,Union,0.72589
+bioforests.780,Indiana,Wabash,5.1337
+bioforests.784,Indiana,Wayne,0.20697
+bioforests.787,Indiana,Whitley,2.8516
+bioforests.788,Iowa,Adair,2.9896
+bioforests.789,Iowa,Adams,0
+bioforests.790,Iowa,Allamakee,28.456
+bioforests.791,Iowa,Appanoose,1.4028
+bioforests.792,Iowa,Audubon,0
+bioforests.794,Iowa,Black Hawk,6.6786
+bioforests.795,Iowa,Boone,0.061326
+bioforests.796,Iowa,Bremer,0.045994
+bioforests.798,Iowa,Buena Vista,5.7017
+bioforests.799,Iowa,Butler,0.29896
+bioforests.800,Iowa,Calhoun,0
+bioforests.802,Iowa,Cass,0
+bioforests.803,Iowa,Cedar,0.21464
+bioforests.804,Iowa,Cerro Gordo,0
+bioforests.805,Iowa,Cherokee,0
+bioforests.806,Iowa,Chickasaw,0.015331
+bioforests.807,Iowa,Clarke,0.045994
+bioforests.808,Iowa,Clay,0
+bioforests.813,Iowa,Davis,1.2725
+bioforests.814,Iowa,Decatur,0.15331
+bioforests.815,Iowa,Delaware,1.2418
+bioforests.817,Iowa,Dickinson,0
+bioforests.819,Iowa,Emmet,0
+bioforests.821,Iowa,Floyd,0.045994
+bioforests.822,Iowa,Franklin,0.2453
+bioforests.824,Iowa,Greene,0
+bioforests.825,Iowa,Grundy,0
+bioforests.826,Iowa,Guthrie,0.81964
+bioforests.827,Iowa,Hamilton,0.86622
+bioforests.828,Iowa,Hancock,0
+bioforests.1594,Missouri,Worth,0.19931
+bioforests.829,Iowa,Hardin,0.31429
+bioforests.831,Iowa,Henry,0.75124
+bioforests.833,Iowa,Humboldt,0
+bioforests.1634,Montana,Powder River,0
+bioforests.1635,Montana,Powell,7.0289
+bioforests.1636,Montana,Prairie,0
+bioforests.1637,Montana,Ravalli,2.338
+bioforests.1638,Montana,Richland,0
+bioforests.1639,Montana,Roosevelt,0
+bioforests.1640,Montana,Rosebud,0
+bioforests.1641,Montana,Sanders,12.92
+bioforests.1642,Montana,Sheridan,0
+bioforests.1643,Montana,Silver Bow,0.79723
+bioforests.1644,Montana,Stillwater,0.36795
+bioforests.1645,Montana,Sweet Grass,0.12265
+bioforests.1646,Montana,Teton,0
+bioforests.1647,Montana,Toole,0
+bioforests.1648,Montana,Treasure,0
+bioforests.834,Iowa,Ida,0
+bioforests.837,Iowa,Jasper,0
+bioforests.838,Iowa,Jefferson,8.8858
+bioforests.840,Iowa,Jones,1.1805
+bioforests.841,Iowa,Keokuk,3.7255
+bioforests.845,Iowa,Louisa,0.42928
+bioforests.846,Iowa,Lucas,0.40628
+bioforests.848,Iowa,Madison,0
+bioforests.850,Iowa,Marion,2.6682
+bioforests.851,Iowa,Marshall,0
+bioforests.852,Iowa,Mills,0.44461
+bioforests.853,Iowa,Mitchell,0.099654
+bioforests.856,Iowa,Montgomery,0
+bioforests.858,Iowa,O'Brien,0
+bioforests.859,Iowa,Osceola,0
+bioforests.860,Iowa,Page,0.038329
+bioforests.861,Iowa,Palo Alto,0
+bioforests.863,Iowa,Pocahontas,0
+bioforests.866,Iowa,Poweshiek,0.52127
+bioforests.867,Iowa,Ringgold,0.076657
+bioforests.870,Iowa,Shelby,0
+bioforests.872,Iowa,Story,1.3875
+bioforests.874,Iowa,Taylor,0.0076657
+bioforests.875,Iowa,Union,0
+bioforests.876,Iowa,Van Buren,2.1541
+bioforests.880,Iowa,Wayne,0.061326
+bioforests.1655,Nebraska,Arthur,0
+bioforests.881,Iowa,Webster,0
+bioforests.882,Iowa,Winnebago,0.068991
+bioforests.883,Iowa,Winneshiek,5.6048
+bioforests.885,Iowa,Worth,0.015331
+bioforests.886,Iowa,Wright,0.37562
+bioforests.887,Kansas,Allen,0.13798
+bioforests.888,Kansas,Anderson,0.35616
+bioforests.890,Kansas,Barber,0
+bioforests.893,Kansas,Brown,0.045994
+bioforests.894,Kansas,Butler,0.0076657
+bioforests.895,Kansas,Chase,0
+bioforests.896,Kansas,Chautauqua,0.015331
+bioforests.897,Kansas,Cherokee,0.16865
+bioforests.898,Kansas,Cheyenne,0
+bioforests.899,Kansas,Clark,0
+bioforests.903,Kansas,Comanche,0
+bioforests.904,Kansas,Cowley,0
+bioforests.910,Kansas,Edwards,0
+bioforests.911,Kansas,Elk,0.0076657
+bioforests.915,Kansas,Ford,0
+bioforests.918,Kansas,Gove,0
+bioforests.920,Kansas,Grant,0
+bioforests.921,Kansas,Gray,0
+bioforests.922,Kansas,Greeley,0
+bioforests.925,Kansas,Harper,0
+bioforests.927,Kansas,Haskell,0
+bioforests.928,Kansas,Hodgeman,0
+bioforests.933,Kansas,Kearny,0
+bioforests.934,Kansas,Kingman,0
+bioforests.935,Kansas,Kiowa,0
+bioforests.937,Kansas,Lane,0
+bioforests.939,Kansas,Lincoln,0
+bioforests.940,Kansas,Linn,0.43695
+bioforests.941,Kansas,Logan,0
+bioforests.943,Kansas,McPherson,0.0076657
+bioforests.946,Kansas,Meade,0
+bioforests.950,Kansas,Morris,0.0076657
+bioforests.951,Kansas,Morton,0
+bioforests.955,Kansas,Norton,0
+bioforests.957,Kansas,Osborne,0
+bioforests.958,Kansas,Ottawa,2.275
+bioforests.959,Kansas,Pawnee,0
+bioforests.960,Kansas,Phillips,0.16511
+bioforests.961,Kansas,Pottawatomie,0.061326
+bioforests.962,Kansas,Pratt,0
+bioforests.963,Kansas,Rawlins,0
+bioforests.966,Kansas,Rice,0
+bioforests.967,Kansas,Riley,0.015331
+bioforests.969,Kansas,Rush,0
+bioforests.972,Kansas,Scott,0.0076657
+bioforests.974,Kansas,Seward,0
+bioforests.976,Kansas,Sheridan,0
+bioforests.977,Kansas,Sherman,0
+bioforests.978,Kansas,Smith,0
+bioforests.979,Kansas,Stafford,0
+bioforests.981,Kansas,Stevens,0
+bioforests.983,Kansas,Thomas,0
+bioforests.988,Kansas,Wichita,0
+bioforests.990,Kansas,Woodson,0.20697
+bioforests.992,Kentucky,Adair,27.067
+bioforests.993,Kentucky,Allen,24.034
+bioforests.994,Kentucky,Anderson,1.1186
+bioforests.995,Kentucky,Ballard,18.351
+bioforests.1009,Kentucky,Calloway,9.7641
+bioforests.1018,Kentucky,Clinton,13.185
+bioforests.1019,Kentucky,Crittenden,13.413
+bioforests.1020,Kentucky,Cumberland,58.405
+bioforests.1021,Kentucky,Daviess,14.205
+bioforests.1022,Kentucky,Edmonson,10.923
+bioforests.1028,Kentucky,Franklin,0.55075
+bioforests.1029,Kentucky,Fulton,2.8098
+bioforests.1030,Kentucky,Gallatin,3.8187
+bioforests.1031,Kentucky,Garrard,0
+bioforests.1032,Kentucky,Grant,2.9673
+bioforests.1033,Kentucky,Graves,11.631
+bioforests.1034,Kentucky,Grayson,26.428
+bioforests.1035,Kentucky,Green,10.394
+bioforests.1036,Kentucky,Greenup,70.581
+bioforests.1037,Kentucky,Hancock,7.5348
+bioforests.1038,Kentucky,Hardin,15.449
+bioforests.1039,Kentucky,Harlan,28.828
+bioforests.1040,Kentucky,Harrison,0
+bioforests.1041,Kentucky,Hart,23.858
+bioforests.1042,Kentucky,Henderson,0.56962
+bioforests.1043,Kentucky,Henry,1.1493
+bioforests.1044,Kentucky,Hickman,3.5899
+bioforests.1045,Kentucky,Hopkins,37.515
+bioforests.1046,Kentucky,Jackson,9.2967
+bioforests.1062,Kentucky,Logan,8.7165
+bioforests.1064,Kentucky,McCracken,2.1157
+bioforests.1070,Kentucky,Marshall,9.8228
+bioforests.1072,Kentucky,Mason,11.655
+bioforests.1076,Kentucky,Metcalfe,24.903
+bioforests.1077,Kentucky,Monroe,20.19
+bioforests.1078,Kentucky,Montgomery,0.78662
+bioforests.1079,Kentucky,Morgan,7.8355
+bioforests.1080,Kentucky,Muhlenberg,25.667
+bioforests.1081,Kentucky,Nelson,5.8577
+bioforests.1095,Kentucky,Russell,14.771
+bioforests.1098,Kentucky,Simpson,0.28481
+bioforests.1101,Kentucky,Todd,9.0208
+bioforests.1102,Kentucky,Trigg,21.509
+bioforests.1103,Kentucky,Trimble,0.58967
+bioforests.1104,Kentucky,Union,2.1234
+bioforests.1105,Kentucky,Warren,6.6598
+bioforests.1106,Kentucky,Washington,0.88156
+bioforests.1107,Kentucky,Wayne,15.082
+bioforests.1108,Kentucky,Webster,5.9975
+bioforests.1109,Kentucky,Whitley,29.305
+bioforests.1110,Kentucky,Wolfe,9.0851
+bioforests.1111,Kentucky,Woodford,0
+bioforests.1112,Louisiana,Acadia,3.6353
+bioforests.1113,Louisiana,Allen,55.69
+bioforests.1114,Louisiana,Ascension,5.4969
+bioforests.1115,Louisiana,Assumption,8.5402
+bioforests.1116,Louisiana,Avoyelles,18.604
+bioforests.1172,Louisiana,West Baton Rouge,19.166
+bioforests.1243,Michigan,Cass,2.5527
+bioforests.1244,Michigan,Charlevoix,3.7025
+bioforests.1247,Michigan,Clare,9.3286
+bioforests.1248,Michigan,Clinton,0.35262
+bioforests.1249,Michigan,Crawford,10.927
+bioforests.1255,Michigan,Gladwin,9.8003
+bioforests.1258,Michigan,Gratiot,0.83556
+bioforests.1259,Michigan,Hillsdale,1.1269
+bioforests.1263,Michigan,Ionia,1.2342
+bioforests.1268,Michigan,Kalamazoo,4.0546
+bioforests.1272,Michigan,Lake,8.3615
+bioforests.1273,Michigan,Lapeer,2.0084
+bioforests.1274,Michigan,Leelanau,2.959
+bioforests.1275,Michigan,Lenawee,0.77424
+bioforests.1276,Michigan,Livingston,0.79723
+bioforests.1277,Michigan,Luce,23.198
+bioforests.1278,Michigan,Mackinac,18.898
+bioforests.1279,Michigan,Macomb,5.2587
+bioforests.1280,Michigan,Manistee,4.9061
+bioforests.1283,Michigan,Mecosta,2.4607
+bioforests.1284,Michigan,Menominee,38.316
+bioforests.1286,Michigan,Missaukee,7.3532
+bioforests.1287,Michigan,Monroe,0.25297
+bioforests.1289,Michigan,Montmorency,8.2259
+bioforests.1296,Michigan,Osceola,5.9439
+bioforests.1297,Michigan,Oscoda,7.6952
+bioforests.1304,Michigan,St. Joseph,1.3185
+bioforests.1306,Michigan,Schoolcraft,23.198
+bioforests.1307,Michigan,Shiawassee,0.31429
+bioforests.1308,Michigan,Tuscola,1.4028
+bioforests.1309,Michigan,Van Buren,18.807
+bioforests.1310,Michigan,Washtenaw,2.3764
+bioforests.1311,Michigan,Wayne,9.6416
+bioforests.1312,Michigan,Wexford,11.811
+bioforests.1313,Minnesota,Aitkin,53.507
+bioforests.1314,Minnesota,Anoka,0.57905
+bioforests.1321,Minnesota,Carlton,26.883
+bioforests.1326,Minnesota,Clay,0.25297
+bioforests.1327,Minnesota,Clearwater,14.412
+bioforests.1328,Minnesota,Cook,12.112
+bioforests.1329,Minnesota,Cottonwood,0.022997
+bioforests.1332,Minnesota,Dodge,1.2507
+bioforests.1333,Minnesota,Douglas,1.7324
+bioforests.1334,Minnesota,Faribault,1.2035
+bioforests.1336,Minnesota,Freeborn,0.43695
+bioforests.1338,Minnesota,Grant,0.0076657
+bioforests.1340,Minnesota,Houston,8.4382
+bioforests.1341,Minnesota,Hubbard,33.21
+bioforests.1344,Minnesota,Jackson,0.0076657
+bioforests.1345,Minnesota,Kanabec,5.32
+bioforests.1346,Minnesota,Kandiyohi,0.076657
+bioforests.1347,Minnesota,Kittson,1.2342
+bioforests.1348,Minnesota,Koochiching,78.426
+bioforests.1349,Minnesota,Lac qui Parle,0.05366
+bioforests.1350,Minnesota,Lake,29.643
+bioforests.1353,Minnesota,Lincoln,0.030663
+bioforests.1354,Minnesota,Lyon,0.045994
+bioforests.1355,Minnesota,McLeod,0.015331
+bioforests.1356,Minnesota,Mahnomen,1.8321
+bioforests.1358,Minnesota,Martin,0
+bioforests.1362,Minnesota,Mower,0.22231
+bioforests.1363,Minnesota,Murray,0.0076657
+bioforests.1365,Minnesota,Nobles,0.0076657
+bioforests.1368,Minnesota,Otter Tail,2.2767
+bioforests.1369,Minnesota,Pennington,1.5638
+bioforests.1371,Minnesota,Pipestone,0.030663
+bioforests.1373,Minnesota,Pope,0.084323
+bioforests.1375,Minnesota,Red Lake,1.6481
+bioforests.1379,Minnesota,Rock,0.05366
+bioforests.1386,Minnesota,Steele,0.39862
+bioforests.1387,Minnesota,Stevens,0
+bioforests.1698,Nebraska,Hooker,0
+bioforests.1699,Nebraska,Howard,0.061326
+bioforests.1700,Nebraska,Jefferson,0.0076657
+bioforests.1388,Minnesota,Swift,0.030663
+bioforests.1389,Minnesota,Todd,6.7157
+bioforests.1390,Minnesota,Traverse,0
+bioforests.1391,Minnesota,Wabasha,4.0245
+bioforests.1701,Nebraska,Johnson,0
+bioforests.1392,Minnesota,Wadena,8.792
+bioforests.1393,Minnesota,Waseca,0.16098
+bioforests.1395,Minnesota,Watonwan,0.0076657
+bioforests.1396,Minnesota,Wilkin,0.0076657
+bioforests.1397,Minnesota,Winona,4.8371
+bioforests.1398,Minnesota,Wright,0.59026
+bioforests.1399,Minnesota,Yellow Medicine,0
+bioforests.1400,Mississippi,Adams,25.87
+bioforests.1758,Nevada,Pershing,0
+bioforests.1759,Nevada,Storey,0
+bioforests.1760,Nevada,Washoe,0
+bioforests.1761,Nevada,White Pine,0
+bioforests.1762,Nevada,Carson City,5.6726
+bioforests.1763,New Hampshire,Belknap,1.3262
+bioforests.1764,New Hampshire,Carroll,20.851
+bioforests.1765,New Hampshire,Cheshire,8.3146
+bioforests.1766,New Hampshire,Coos,45.346
+bioforests.1767,New Hampshire,Grafton,21.753
+bioforests.1768,New Hampshire,Hillsborough,2.0084
+bioforests.1769,New Hampshire,Merrimack,19.707
+bioforests.1770,New Hampshire,Rockingham,1.3533
+bioforests.1771,New Hampshire,Strafford,6.8225
+bioforests.1772,New Hampshire,Sullivan,13.161
+bioforests.1773,New Jersey,Atlantic,1.4146
+bioforests.1774,New Jersey,Bergen,0
+bioforests.1775,New Jersey,Burlington,0.94288
+bioforests.1776,New Jersey,Camden,5.9757
+bioforests.1777,New Jersey,Cape May,0
+bioforests.1778,New Jersey,Cumberland,0
+bioforests.1779,New Jersey,Essex,0
+bioforests.1780,New Jersey,Gloucester,0.54427
+bioforests.1781,New Jersey,Hudson,0
+bioforests.1401,Mississippi,Alcorn,10.809
+bioforests.1793,New Jersey,Warren,0.31429
+bioforests.1794,New Mexico,Bernalillo,0
+bioforests.1795,New Mexico,Catron,0.0076657
+bioforests.1796,New Mexico,Chaves,0
+bioforests.1797,New Mexico,Cibola,0
+bioforests.1798,New Mexico,Colfax,5.1614
+bioforests.1799,New Mexico,Curry,0
+bioforests.1800,New Mexico,De Baca,0
+bioforests.1801,New Mexico,Dona Ana,0
+bioforests.1802,New Mexico,Eddy,0
+bioforests.1803,New Mexico,Grant,0.22231
+bioforests.1804,New Mexico,Guadalupe,0
+bioforests.1805,New Mexico,Harding,0
+bioforests.1806,New Mexico,Hidalgo,0
+bioforests.1807,New Mexico,Lea,0
+bioforests.1808,New Mexico,Lincoln,4.4001
+bioforests.1809,New Mexico,Los Alamos,0
+bioforests.1404,Mississippi,Benton,6.5324
+bioforests.1813,New Mexico,Otero,7.4652
+bioforests.1814,New Mexico,Quay,0
+bioforests.1815,New Mexico,Rio Arriba,2.2844
+bioforests.1816,New Mexico,Roosevelt,0
+bioforests.1817,New Mexico,Sandoval,0.88156
+bioforests.1818,New Mexico,San Juan,0
+bioforests.1819,New Mexico,San Miguel,0.36029
+bioforests.1820,New Mexico,Santa Fe,0.36029
+bioforests.1821,New Mexico,Sierra,0
+bioforests.1822,New Mexico,Socorro,0
+bioforests.1823,New Mexico,Taos,0.72824
+bioforests.1824,New Mexico,Torrance,0
+bioforests.1825,New Mexico,Union,0
+bioforests.1826,New Mexico,Valencia,0
+bioforests.1827,New York,Albany,2.1387
+bioforests.1828,New York,Allegany,6.5925
+bioforests.1829,New York,Bronx,0.030663
+bioforests.1830,New York,Broome,3.9632
+bioforests.1831,New York,Cattaraugus,47.54
+bioforests.1832,New York,Cayuga,3.4496
+bioforests.1833,New York,Chautauqua,3.0356
+bioforests.1834,New York,Chemung,3.4036
+bioforests.1835,New York,Chenango,6.8225
+bioforests.1836,New York,Clinton,4.6378
+bioforests.1837,New York,Columbia,2.0828
+bioforests.1406,Mississippi,Calhoun,24.12
+bioforests.1407,Mississippi,Carroll,15.254
+bioforests.1846,New York,Greene,3.3959
+bioforests.1847,New York,Hamilton,15.101
+bioforests.1848,New York,Herkimer,5.6673
+bioforests.1849,New York,Jefferson,1.9318
+bioforests.1850,New York,Kings,0
+bioforests.1851,New York,Lewis,8.8627
+bioforests.1852,New York,Livingston,3.1459
+bioforests.1853,New York,Madison,2.9436
+bioforests.1854,New York,Monroe,5.7265
+bioforests.1855,New York,Montgomery,0.89689
+bioforests.1856,New York,Nassau,0
+bioforests.1857,New York,New York,0
+bioforests.1858,New York,Niagara,0.30663
+bioforests.1859,New York,Oneida,5.7646
+bioforests.1860,New York,Onondaga,16.814
+bioforests.1861,New York,Ontario,7.3025
+bioforests.1862,New York,Orange,0.69758
+bioforests.1863,New York,Orleans,1.0266
+bioforests.1864,New York,Oswego,5.9439
+bioforests.1865,New York,Otsego,7.7064
+bioforests.1866,New York,Putnam,0.091988
+bioforests.1867,New York,Queens,0
+bioforests.1868,New York,Rensselaer,14.234
+bioforests.1869,New York,Richmond,0
+bioforests.1408,Mississippi,Chickasaw,12.46
+bioforests.1409,Mississippi,Choctaw,18.026
+bioforests.1411,Mississippi,Clarke,35.536
+bioforests.1412,Mississippi,Clay,12.525
+bioforests.1413,Mississippi,Coahoma,17.013
+bioforests.1414,Mississippi,Copiah,54.827
+bioforests.1415,Mississippi,Covington,45.532
+bioforests.1416,Mississippi,DeSoto,1.9695
+bioforests.1877,New York,Steuben,7.9664
+bioforests.1878,New York,Suffolk,0.10732
+bioforests.1879,New York,Sullivan,2.5373
+bioforests.1880,New York,Tioga,2.8363
+bioforests.1881,New York,Tompkins,2.1924
+bioforests.1882,New York,Ulster,17.894
+bioforests.1883,New York,Warren,24.812
+bioforests.1884,New York,Washington,6.4982
+bioforests.1885,New York,Wayne,1.3492
+bioforests.1886,New York,Westchester,0.41395
+bioforests.1887,New York,Wyoming,1.4948
+bioforests.1888,New York,Yates,0.93522
+bioforests.1889,North Carolina,Alamance,18.081
+bioforests.1417,Mississippi,Forrest,10.313
+bioforests.1418,Mississippi,Franklin,23.037
+bioforests.1895,North Carolina,Beaufort,124.42
+bioforests.1896,North Carolina,Bertie,55.612
+bioforests.1419,Mississippi,George,7.3131
+bioforests.1420,Mississippi,Greene,32.668
+bioforests.1922,North Carolina,Forsyth,12.229
+bioforests.1923,North Carolina,Franklin,31.109
+bioforests.1924,North Carolina,Gaston,15.751
+bioforests.1925,North Carolina,Gates,59.698
+bioforests.1926,North Carolina,Graham,6.297
+bioforests.1927,North Carolina,Granville,40.706
+bioforests.1928,North Carolina,Greene,11.573
+bioforests.1929,North Carolina,Guilford,26.482
+bioforests.1930,North Carolina,Halifax,92.758
+bioforests.1931,North Carolina,Harnett,13.562
+bioforests.1421,Mississippi,Grenada,8.1374
+bioforests.1422,Mississippi,Hancock,9.1045
+bioforests.1423,Mississippi,Harrison,5.8837
+bioforests.1424,Mississippi,Hinds,29.082
+bioforests.1425,Mississippi,Holmes,33.087
+bioforests.1426,Mississippi,Humphreys,1.8575
+bioforests.1427,Mississippi,Issaquena,10.266
+bioforests.1934,North Carolina,Hertford,44.838
+bioforests.1935,North Carolina,Hoke,15.432
+bioforests.1936,North Carolina,Hyde,9.5645
+bioforests.1937,North Carolina,Iredell,26.742
+bioforests.1938,North Carolina,Jackson,41.008
+bioforests.1939,North Carolina,Johnston,16.627
+bioforests.1940,North Carolina,Jones,43.593
+bioforests.1941,North Carolina,Lee,12.599
+bioforests.1942,North Carolina,Lenoir,20.443
+bioforests.1943,North Carolina,Lincoln,19.694
+bioforests.1944,North Carolina,McDowell,30.402
+bioforests.1945,North Carolina,Macon,11.754
+bioforests.1946,North Carolina,Madison,11.935
+bioforests.1428,Mississippi,Itawamba,46.792
+bioforests.1429,Mississippi,Jackson,6.4339
+bioforests.1952,North Carolina,Nash,30.959
+bioforests.1953,North Carolina,New Hanover,2.5102
+bioforests.1954,North Carolina,Northampton,65.429
+bioforests.1955,North Carolina,Onslow,47.513
+bioforests.1430,Mississippi,Jasper,21.033
+bioforests.1959,North Carolina,Pender,50.706
+bioforests.1960,North Carolina,Perquimans,16.848
+bioforests.1433,Mississippi,Jones,30.022
+bioforests.1975,North Carolina,Swain,4.3099
+bioforests.1976,North Carolina,Transylvania,1.3739
+bioforests.1977,North Carolina,Tyrrell,11.565
+bioforests.1434,Mississippi,Kemper,45.062
+bioforests.1979,North Carolina,Vance,18.756
+bioforests.1980,North Carolina,Wake,24.783
+bioforests.1981,North Carolina,Warren,63.752
+bioforests.1982,North Carolina,Washington,32.625
+bioforests.1983,North Carolina,Watauga,7.8538
+bioforests.1984,North Carolina,Wayne,19.761
+bioforests.1985,North Carolina,Wilkes,58.218
+bioforests.1986,North Carolina,Wilson,16.352
+bioforests.1987,North Carolina,Yadkin,25.887
+bioforests.1988,North Carolina,Yancey,7.6085
+bioforests.1436,Mississippi,Lamar,20.597
+bioforests.1437,Mississippi,Lauderdale,70.128
+bioforests.1438,Mississippi,Lawrence,23.711
+bioforests.1439,Mississippi,Leake,20.031
+bioforests.1442,Mississippi,Lincoln,83.774
+bioforests.1443,Mississippi,Lowndes,10.166
+bioforests.1444,Mississippi,Madison,16.578
+bioforests.2195,Oklahoma,Rogers,0
+bioforests.2196,Oklahoma,Seminole,0
+bioforests.2197,Oklahoma,Sequoyah,3.2384
+bioforests.2198,Oklahoma,Stephens,0
+bioforests.2199,Oklahoma,Texas,0
+bioforests.2200,Oklahoma,Tillman,0
+bioforests.2201,Oklahoma,Tulsa,0
+bioforests.2202,Oklahoma,Wagoner,0
+bioforests.2203,Oklahoma,Washington,0
+bioforests.2204,Oklahoma,Washita,0
+bioforests.2205,Oklahoma,Woods,0
+bioforests.2206,Oklahoma,Woodward,0
+bioforests.1445,Mississippi,Marion,54.903
+bioforests.1446,Mississippi,Marshall,14.537
+bioforests.1449,Mississippi,Neshoba,18.146
+bioforests.2224,Oregon,Klamath,40.858
+bioforests.2225,Oregon,Lake,14.571
+bioforests.2226,Oregon,Lane,207.39
+bioforests.2227,Oregon,Lincoln,76.657
+bioforests.2228,Oregon,Linn,137.81
+bioforests.2229,Oregon,Malheur,0.56726
+bioforests.2230,Oregon,Marion,26.553
+bioforests.2231,Oregon,Morrow,0.57493
+bioforests.2232,Oregon,Multnomah,6.2092
+bioforests.2233,Oregon,Polk,59.792
+bioforests.2234,Oregon,Sherman,0
+bioforests.2235,Oregon,Tillamook,97.354
+bioforests.2236,Oregon,Umatilla,7.1999
+bioforests.1450,Mississippi,Newton,16.263
+bioforests.2252,Pennsylvania,Butler,7.7365
+bioforests.2253,Pennsylvania,Cambria,18.787
+bioforests.1451,Mississippi,Noxubee,23.158
+bioforests.1452,Mississippi,Oktibbeha,8.7861
+bioforests.2321,South Carolina,Beaufort,18.105
+bioforests.2322,South Carolina,Berkeley,65.913
+bioforests.2323,South Carolina,Calhoun,18.214
+bioforests.2324,South Carolina,Charleston,42.168
+bioforests.2325,South Carolina,Cherokee,21.669
+bioforests.2326,South Carolina,Chester,49.282
+bioforests.2327,South Carolina,Chesterfield,60.926
+bioforests.2328,South Carolina,Clarendon,44.851
+bioforests.2329,South Carolina,Colleton,136.09
+bioforests.2330,South Carolina,Darlington,18.775
+bioforests.2331,South Carolina,Dillon,39.474
+bioforests.2332,South Carolina,Dorchester,53.102
+bioforests.2333,South Carolina,Edgefield,52.982
+bioforests.2334,South Carolina,Fairfield,96.316
+bioforests.1453,Mississippi,Panola,22.69
+bioforests.1454,Mississippi,Pearl River,19.754
+bioforests.2339,South Carolina,Hampton,61.957
+bioforests.2340,South Carolina,Horry,75.421
+bioforests.2341,South Carolina,Jasper,55.174
+bioforests.1455,Mississippi,Perry,18.121
+bioforests.2343,South Carolina,Lancaster,53.093
+bioforests.2344,South Carolina,Laurens,53.04
+bioforests.2345,South Carolina,Lee,28.649
+bioforests.2346,South Carolina,Lexington,34.506
+bioforests.2347,South Carolina,McCormick,35.02
+bioforests.2348,South Carolina,Marion,29.915
+bioforests.2349,South Carolina,Marlboro,46.029
+bioforests.2350,South Carolina,Newberry,76.711
+bioforests.2351,South Carolina,Oconee,30.244
+bioforests.2352,South Carolina,Orangeburg,68.401
+bioforests.2353,South Carolina,Pickens,19.962
+bioforests.2354,South Carolina,Richland,52.609
+bioforests.1456,Mississippi,Pike,7.628
+bioforests.1457,Mississippi,Pontotoc,9.7826
+bioforests.1458,Mississippi,Prentiss,11.157
+bioforests.2434,Tennessee,Cannon,5.261
+bioforests.2435,Tennessee,Carroll,18.351
+bioforests.2436,Tennessee,Carter,3.252
+bioforests.2437,Tennessee,Cheatham,7.5442
+bioforests.2438,Tennessee,Chester,21.283
+bioforests.2439,Tennessee,Claiborne,14.512
+bioforests.2440,Tennessee,Clay,5.6815
+bioforests.2441,Tennessee,Cocke,7.0536
+bioforests.2442,Tennessee,Coffee,5.0847
+bioforests.1459,Mississippi,Quitman,1.0927
+bioforests.1460,Mississippi,Rankin,20.546
+bioforests.2446,Tennessee,Decatur,22.124
+bioforests.2447,Tennessee,DeKalb,5.9805
+bioforests.2448,Tennessee,Dickson,16.748
+bioforests.2449,Tennessee,Dyer,3.3494
+bioforests.2450,Tennessee,Fayette,6.4433
+bioforests.2451,Tennessee,Fentress,11.636
+bioforests.2452,Tennessee,Franklin,15.349
+bioforests.2453,Tennessee,Gibson,3.3281
+bioforests.2454,Tennessee,Giles,23.652
+bioforests.2455,Tennessee,Grainger,8.1552
+bioforests.1461,Mississippi,Scott,38.751
+bioforests.1462,Mississippi,Sharkey,3.4997
+bioforests.1463,Mississippi,Simpson,38.599
+bioforests.1465,Mississippi,Stone,3.6972
+bioforests.1469,Mississippi,Tippah,20.22
+bioforests.1472,Mississippi,Union,11.634
+bioforests.1473,Mississippi,Walthall,12.289
+bioforests.2759,Texas,Ward,0
+bioforests.2760,Texas,Washington,0
+bioforests.2761,Texas,Webb,0
+bioforests.2762,Texas,Wharton,0
+bioforests.1476,Mississippi,Wayne,45.074
+bioforests.1477,Mississippi,Webster,20.133
+bioforests.1478,Mississippi,Wilkinson,36.518
+bioforests.2777,Utah,Box Elder,0
+bioforests.2778,Utah,Cache,0.32963
+bioforests.2779,Utah,Carbon,0.084323
+bioforests.2780,Utah,Daggett,0
+bioforests.2781,Utah,Davis,0
+bioforests.2782,Utah,Duchesne,0.16865
+bioforests.2783,Utah,Emery,0.0076657
+bioforests.2784,Utah,Garfield,0.91988
+bioforests.2785,Utah,Grand,1.5638
+bioforests.2786,Utah,Iron,0.42928
+bioforests.2787,Utah,Juab,0
+bioforests.1479,Mississippi,Winston,52.706
+bioforests.2805,Vermont,Addison,4.1165
+bioforests.1480,Mississippi,Yalobusha,12.088
+bioforests.1481,Mississippi,Yazoo,17.042
+bioforests.2813,Vermont,Orange,11.392
+bioforests.2814,Vermont,Orleans,14.441
+bioforests.2815,Vermont,Rutland,14.352
+bioforests.2816,Vermont,Washington,6.0028
+bioforests.2817,Vermont,Windham,16.888
+bioforests.2818,Vermont,Windsor,17.472
+bioforests.2819,Virginia,Accomack,0
+bioforests.2820,Virginia,Albemarle,34.396
+bioforests.2821,Virginia,Alleghany,54.257
+bioforests.2822,Virginia,Amelia,32.623
+bioforests.2823,Virginia,Amherst,35.273
+bioforests.2824,Virginia,Appomattox,28.553
+bioforests.2825,Virginia,Arlington,0
+bioforests.2826,Virginia,Augusta,32.31
+bioforests.2827,Virginia,Bath,51.067
+bioforests.2828,Virginia,Bedford,50.561
+bioforests.2829,Virginia,Bland,28.775
+bioforests.2830,Virginia,Botetourt,31.552
+bioforests.2831,Virginia,Brunswick,112.7
+bioforests.1482,Missouri,Adair,1.6405
+bioforests.1483,Missouri,Andrew,0.30663
+bioforests.2837,Virginia,Charles City,15.961
+bioforests.2838,Virginia,Charlotte,82.449
+bioforests.2839,Virginia,Chesterfield,16.77
+bioforests.2840,Virginia,Clarke,4.1831
+bioforests.2841,Virginia,Craig,7.4381
+bioforests.2842,Virginia,Culpeper,9.9861
+bioforests.2843,Virginia,Cumberland,24.14
+bioforests.2844,Virginia,Dickenson,70.426
+bioforests.2845,Virginia,Dinwiddie,55.753
+bioforests.2846,Virginia,Essex,13.207
+bioforests.2847,Virginia,Fairfax,2.4973
+bioforests.2848,Virginia,Fauquier,7.9329
+bioforests.2849,Virginia,Floyd,19.365
+bioforests.2850,Virginia,Fluvanna,17.409
+bioforests.2851,Virginia,Franklin,52.968
+bioforests.2852,Virginia,Frederick,12.784
+bioforests.2853,Virginia,Giles,30.073
+bioforests.1484,Missouri,Atchison,0.05366
+bioforests.1485,Missouri,Audrain,3.4266
+bioforests.1486,Missouri,Barry,7.5065
+bioforests.1490,Missouri,Bollinger,20.175
+bioforests.1491,Missouri,Boone,2.7903
+bioforests.1492,Missouri,Buchanan,1.0119
+bioforests.1493,Missouri,Butler,11.274
+bioforests.2858,Virginia,Greensville,47.487
+bioforests.2859,Virginia,Halifax,110.74
+bioforests.2860,Virginia,Hanover,19.157
+bioforests.2861,Virginia,Henrico,1.1044
+bioforests.2862,Virginia,Henry,34.648
+bioforests.1494,Missouri,Caldwell,0.69758
+bioforests.1495,Missouri,Callaway,1.4948
+bioforests.1496,Missouri,Camden,4.6531
+bioforests.1497,Missouri,Cape Girardeau,4.7987
+bioforests.1498,Missouri,Carroll,2.292
+bioforests.2865,Virginia,James City,3.2013
+bioforests.2866,Virginia,King and Queen,20.709
+bioforests.2867,Virginia,King George,19.794
+bioforests.2868,Virginia,King William,17.906
+bioforests.2869,Virginia,Lancaster,6.7075
+bioforests.2870,Virginia,Lee,9.3369
+bioforests.2871,Virginia,Loudoun,5.1643
+bioforests.2872,Virginia,Louisa,42.487
+bioforests.2873,Virginia,Lunenburg,37.131
+bioforests.2874,Virginia,Madison,5.3442
+bioforests.2875,Virginia,Mathews,3.5079
+bioforests.1499,Missouri,Carter,21.771
+bioforests.1500,Missouri,Cass,1.8704
+bioforests.2880,Virginia,New Kent,8.6357
+bioforests.2881,Virginia,Northampton,0
+bioforests.2882,Virginia,Northumberland,15.341
+bioforests.2883,Virginia,Nottoway,34.167
+bioforests.2884,Virginia,Orange,14.431
+bioforests.2885,Virginia,Page,1.6929
+bioforests.2886,Virginia,Patrick,55.819
+bioforests.2887,Virginia,Pittsylvania,109.17
+bioforests.2888,Virginia,Powhatan,8.8368
+bioforests.2889,Virginia,Prince Edward,35.633
+bioforests.2890,Virginia,Prince George,12.544
+bioforests.2891,Virginia,Prince William,4.6331
+bioforests.2892,Virginia,Pulaski,1.5992
+bioforests.2893,Virginia,Rappahannock,4.9509
+bioforests.2894,Virginia,Richmond,16.229
+bioforests.2895,Virginia,Roanoke,6.7357
+bioforests.2896,Virginia,Rockbridge,27.909
+bioforests.2897,Virginia,Rockingham,23.616
+bioforests.1501,Missouri,Cedar,25.854
+bioforests.2903,Virginia,Spotsylvania,24.34
+bioforests.2904,Virginia,Stafford,22.289
+bioforests.2905,Virginia,Surry,46.305
+bioforests.2906,Virginia,Sussex,48.425
+bioforests.2907,Virginia,Tazewell,25.358
+bioforests.2908,Virginia,Warren,5.0382
+bioforests.2909,Virginia,Washington,3.6571
+bioforests.2910,Virginia,Westmoreland,12.109
+bioforests.2911,Virginia,Wise,12.273
+bioforests.2912,Virginia,Wythe,7.086
+bioforests.2913,Virginia,York,0
+bioforests.2914,Virginia,Alexandria,0
+bioforests.1508,Missouri,Cooper,1.1958
+bioforests.1509,Missouri,Crawford,10.779
+bioforests.1510,Missouri,Dade,0.59792
+bioforests.1511,Missouri,Dallas,4.2928
+bioforests.1512,Missouri,Daviess,4.5287
+bioforests.1513,Missouri,DeKalb,0.27597
+bioforests.1514,Missouri,Dent,11.174
+bioforests.1515,Missouri,Douglas,14.022
+bioforests.1519,Missouri,Gentry,2.6842
+bioforests.2915,Virginia,Bedford City,0
+bioforests.1521,Missouri,Grundy,5.7705
+bioforests.2917,Virginia,Buena Vista,0
+bioforests.2918,Virginia,Charlottesville,0
+bioforests.2919,Virginia,Chesapeake,5.5866
+bioforests.2920,Virginia,Colonial Heights,0
+bioforests.1522,Missouri,Harrison,1.7784
+bioforests.1524,Missouri,Hickory,3.8942
+bioforests.1526,Missouri,Howard,1.3415
+bioforests.1528,Missouri,Iron,14.182
+bioforests.1529,Missouri,Jackson,0
+bioforests.1530,Missouri,Jasper,0.85089
+bioforests.1531,Missouri,Jefferson,6.1326
+bioforests.1533,Missouri,Knox,7.0825
+bioforests.1537,Missouri,Lewis,2.9513
+bioforests.1541,Missouri,McDonald,6.5866
+bioforests.1542,Missouri,Macon,6.7402
+bioforests.1543,Missouri,Madison,28.77
+bioforests.1546,Missouri,Mercer,1.2802
+bioforests.1549,Missouri,Moniteau,2.0774
+bioforests.1550,Missouri,Monroe,2.407
+bioforests.1554,Missouri,Newton,3.7255
+bioforests.1555,Missouri,Nodaway,0.41395
+bioforests.1556,Missouri,Oregon,24.418
+bioforests.1557,Missouri,Osage,12.902
+bioforests.1558,Missouri,Ozark,6.3448
+bioforests.1559,Missouri,Pemiscot,0
+bioforests.1560,Missouri,Perry,14.535
+bioforests.1561,Missouri,Pettis,1.7171
+bioforests.1566,Missouri,Pulaski,1.6865
+bioforests.1569,Missouri,Randolph,8.6151
+bioforests.1571,Missouri,Reynolds,25.934
+bioforests.1572,Missouri,Ripley,20.178
+bioforests.1576,Missouri,St. Francois,4.6224
+bioforests.1577,Missouri,St. Louis,4.0699
+bioforests.1578,Missouri,Saline,0.69758
+bioforests.1579,Missouri,Schuyler,1.5408
+bioforests.1580,Missouri,Scotland,2.798
+bioforests.1581,Missouri,Scott,0.5596
+bioforests.1582,Missouri,Shannon,36.483
+bioforests.2921,Virginia,Covington,0
+bioforests.2922,Virginia,Danville,0
+bioforests.1583,Missouri,Shelby,7.327
+bioforests.1584,Missouri,Stoddard,2.5757
+bioforests.1585,Missouri,Stone,3.6565
+bioforests.2925,Virginia,Falls Church,0
+bioforests.1586,Missouri,Sullivan,0.42928
+bioforests.1592,Missouri,Wayne,13.262
+bioforests.1595,Missouri,Wright,4.6914
+bioforests.1596,Missouri,St. Louis City,0
+bioforests.1597,Montana,Beaverhead,4.1625
+bioforests.1598,Montana,Big Horn,1.6635
+bioforests.1599,Montana,Blaine,0
+bioforests.1600,Montana,Broadwater,2.9896
+bioforests.1601,Montana,Carbon,0
+bioforests.1606,Montana,Daniels,0
+bioforests.1607,Montana,Dawson,0
+bioforests.1608,Montana,Deer Lodge,2.959
+bioforests.1609,Montana,Fallon,0
+bioforests.1610,Montana,Fergus,2.5833
+bioforests.1611,Montana,Flathead,40.953
+bioforests.1612,Montana,Gallatin,1.4105
+bioforests.1613,Montana,Garfield,0
+bioforests.1622,Montana,Liberty,0
+bioforests.1623,Montana,Lincoln,23.864
+bioforests.1624,Montana,McCone,0
+bioforests.1625,Montana,Madison,0.72824
+bioforests.1626,Montana,Meagher,1.1652
+bioforests.1627,Montana,Mineral,8.3615
+bioforests.1628,Montana,Missoula,32.314
+bioforests.1629,Montana,Musselshell,0.56726
+bioforests.1630,Montana,Park,1.9241
+bioforests.1656,Nebraska,Banner,1.3385
+bioforests.1657,Nebraska,Blaine,0
+bioforests.1673,Nebraska,Custer,0
+bioforests.1674,Nebraska,Dakota,1.2342
+bioforests.1677,Nebraska,Deuel,0
+bioforests.1678,Nebraska,Dixon,0.62092
+bioforests.1679,Nebraska,Dodge,0.42161
+bioforests.1681,Nebraska,Dundy,0
+bioforests.1688,Nebraska,Garfield,0
+bioforests.1690,Nebraska,Grant,0
+bioforests.1691,Nebraska,Greeley,0.061326
+bioforests.1692,Nebraska,Hall,0.23764
+bioforests.1695,Nebraska,Hayes,0
+bioforests.1696,Nebraska,Hitchcock,0
+bioforests.1705,Nebraska,Kimball,0.0076657
+bioforests.1709,Nebraska,Logan,0
+bioforests.1710,Nebraska,Loup,0.0076657
+bioforests.1711,Nebraska,McPherson,0
+bioforests.1725,Nebraska,Red Willow,0
+bioforests.1726,Nebraska,Richardson,0.099654
+bioforests.1727,Nebraska,Rock,0.015331
+bioforests.1728,Nebraska,Saline,0.045994
+bioforests.1729,Nebraska,Sarpy,0.66692
+bioforests.1734,Nebraska,Sherman,0.015331
+bioforests.1738,Nebraska,Thomas,0
+bioforests.2928,Virginia,Galax,0
+bioforests.1740,Nebraska,Valley,0
+bioforests.1744,Nebraska,Wheeler,0
+bioforests.1745,Nebraska,York,0.045994
+bioforests.1746,Nevada,Churchill,0
+bioforests.1748,Nevada,Douglas,0
+bioforests.1749,Nevada,Elko,0
+bioforests.1750,Nevada,Esmeralda,0
+bioforests.1751,Nevada,Eureka,0
+bioforests.1752,Nevada,Humboldt,0
+bioforests.1753,Nevada,Lander,0
+bioforests.1754,Nevada,Lincoln,0
+bioforests.1755,Nevada,Lyon,0
+bioforests.1810,New Mexico,Luna,0
+bioforests.1838,New York,Cortland,4.6914
+bioforests.1839,New York,Delaware,16.303
+bioforests.1840,New York,Dutchess,0.88156
+bioforests.1841,New York,Erie,1.9394
+bioforests.1842,New York,Essex,25.981
+bioforests.1843,New York,Franklin,8.2495
+bioforests.1905,North Carolina,Caswell,40.001
+bioforests.1906,North Carolina,Catawba,25.451
+bioforests.1907,North Carolina,Chatham,53.407
+bioforests.1908,North Carolina,Cherokee,20.65
+bioforests.1909,North Carolina,Chowan,6.51
+bioforests.1910,North Carolina,Clay,7.349
+bioforests.1911,North Carolina,Cleveland,36.294
+bioforests.1912,North Carolina,Columbus,75.576
+bioforests.1913,North Carolina,Craven,62.262
+bioforests.1914,North Carolina,Cumberland,15.885
+bioforests.1915,North Carolina,Currituck,16.162
+bioforests.1916,North Carolina,Dare,0.58554
+bioforests.1917,North Carolina,Davidson,26.73
+bioforests.1918,North Carolina,Davie,12.997
+bioforests.1961,North Carolina,Person,44.155
+bioforests.1967,North Carolina,Rockingham,32.442
+bioforests.1972,North Carolina,Stanly,11.89
+bioforests.1973,North Carolina,Stokes,26.705
+bioforests.1974,North Carolina,Surry,30.571
+bioforests.1989,North Dakota,Adams,0
+bioforests.1990,North Dakota,Barnes,0.0076657
+bioforests.1991,North Dakota,Benson,0
+bioforests.1992,North Dakota,Billings,0
+bioforests.1993,North Dakota,Bottineau,1.9223
+bioforests.1994,North Dakota,Bowman,0
+bioforests.1995,North Dakota,Burke,0
+bioforests.1998,North Dakota,Cavalier,0
+bioforests.1999,North Dakota,Dickey,0
+bioforests.2000,North Dakota,Divide,0
+bioforests.2002,North Dakota,Eddy,0
+bioforests.2004,North Dakota,Foster,0
+bioforests.2005,North Dakota,Golden Valley,0
+bioforests.2008,North Dakota,Griggs,0
+bioforests.2009,North Dakota,Hettinger,0
+bioforests.2012,North Dakota,Logan,0
+bioforests.2013,North Dakota,McHenry,0
+bioforests.2014,North Dakota,McIntosh,0
+bioforests.2017,North Dakota,Mercer,0
+bioforests.2018,North Dakota,Morton,0.015331
+bioforests.2019,North Dakota,Mountrail,0
+bioforests.2020,North Dakota,Nelson,0
+bioforests.2023,North Dakota,Pierce,0
+bioforests.2025,North Dakota,Ransom,0.20697
+bioforests.2026,North Dakota,Renville,0
+bioforests.2028,North Dakota,Rolette,0
+bioforests.2029,North Dakota,Sargent,0
+bioforests.2030,North Dakota,Sheridan,0
+bioforests.2032,North Dakota,Slope,0.015331
+bioforests.2034,North Dakota,Steele,0
+bioforests.2036,North Dakota,Towner,0
+bioforests.2040,North Dakota,Wells,0
+bioforests.2046,Ohio,Athens,7.4121
+bioforests.2047,Ohio,Auglaize,2.5144
+bioforests.2048,Ohio,Belmont,5.9474
+bioforests.2049,Ohio,Brown,1.0502
+bioforests.2050,Ohio,Butler,2.0774
+bioforests.2052,Ohio,Champaign,0.0076657
+bioforests.2053,Ohio,Clark,1.6175
+bioforests.2054,Ohio,Clermont,10.564
+bioforests.2055,Ohio,Clinton,0.74357
+bioforests.2060,Ohio,Darke,0.39095
+bioforests.2062,Ohio,Delaware,0.65158
+bioforests.2063,Ohio,Erie,0.89689
+bioforests.2064,Ohio,Fairfield,0.85856
+bioforests.2065,Ohio,Fayette,0
+bioforests.2067,Ohio,Fulton,0
+bioforests.2076,Ohio,Henry,0.21464
+bioforests.2078,Ohio,Hocking,17.861
+bioforests.2081,Ohio,Jackson,12.772
+bioforests.2087,Ohio,Logan,3.1199
+bioforests.2092,Ohio,Marion,0.068991
+bioforests.2095,Ohio,Mercer,1.2035
+bioforests.2096,Ohio,Miami,0.076657
+bioforests.2100,Ohio,Morrow,0.19931
+bioforests.2104,Ohio,Paulding,0.0076657
+bioforests.2105,Ohio,Perry,8.0549
+bioforests.2106,Ohio,Pickaway,9.4583
+bioforests.2109,Ohio,Preble,0.37562
+bioforests.2115,Ohio,Seneca,0.25297
+bioforests.2116,Ohio,Shelby,0
+bioforests.2121,Ohio,Union,1.5331
+bioforests.2122,Ohio,Van Wert,0
+bioforests.2123,Ohio,Vinton,15.868
+bioforests.2127,Ohio,Williams,1.0885
+bioforests.2130,Oklahoma,Adair,11.2
+bioforests.2131,Oklahoma,Alfalfa,0
+bioforests.2134,Oklahoma,Beckham,0
+bioforests.2138,Oklahoma,Canadian,0
+bioforests.2139,Oklahoma,Carter,0
+bioforests.2140,Oklahoma,Cherokee,2.6848
+bioforests.2141,Oklahoma,Choctaw,5.5424
+bioforests.2142,Oklahoma,Cimarron,0
+bioforests.2144,Oklahoma,Coal,0.28953
+bioforests.2147,Oklahoma,Craig,0
+bioforests.2149,Oklahoma,Custer,0
+bioforests.2150,Oklahoma,Delaware,2.5975
+bioforests.2151,Oklahoma,Dewey,0
+bioforests.2156,Oklahoma,Grant,0
+bioforests.2158,Oklahoma,Harmon,0
+bioforests.2159,Oklahoma,Harper,0
+bioforests.2164,Oklahoma,Johnston,0
+bioforests.2165,Oklahoma,Kay,0
+bioforests.2168,Oklahoma,Latimer,4.3494
+bioforests.2171,Oklahoma,Logan,0
+bioforests.2172,Oklahoma,Love,0
+bioforests.2173,Oklahoma,McClain,0
+bioforests.2174,Oklahoma,McCurtain,68.627
+bioforests.2175,Oklahoma,McIntosh,0
+bioforests.2176,Oklahoma,Major,0
+bioforests.2178,Oklahoma,Mayes,0.50122
+bioforests.2182,Oklahoma,Nowata,0
+bioforests.2187,Oklahoma,Ottawa,0.95586
+bioforests.2188,Oklahoma,Pawnee,0
+bioforests.2189,Oklahoma,Payne,0
+bioforests.2190,Oklahoma,Pittsburg,0.07194
+bioforests.2191,Oklahoma,Pontotoc,0
+bioforests.2192,Oklahoma,Pottawatomie,0
+bioforests.2193,Oklahoma,Pushmataha,74.846
+bioforests.2211,Oregon,Columbia,73.414
+bioforests.2212,Oregon,Coos,145.12
+bioforests.2213,Oregon,Crook,0.99654
+bioforests.2214,Oregon,Curry,37.35
+bioforests.2215,Oregon,Deschutes,19.211
+bioforests.2216,Oregon,Douglas,201.43
+bioforests.2217,Oregon,Gilliam,0
+bioforests.2218,Oregon,Grant,8.6858
+bioforests.2219,Oregon,Harney,7.7188
+bioforests.2220,Oregon,Hood River,13.315
+bioforests.2254,Pennsylvania,Cameron,7.6008
+bioforests.2268,Pennsylvania,Fayette,14.636
+bioforests.2269,Pennsylvania,Forest,16.251
+bioforests.2270,Pennsylvania,Franklin,24.819
+bioforests.2271,Pennsylvania,Fulton,16.682
+bioforests.2272,Pennsylvania,Greene,6.3331
+bioforests.2273,Pennsylvania,Huntingdon,28.18
+bioforests.2274,Pennsylvania,Indiana,16.806
+bioforests.2275,Pennsylvania,Jefferson,22.637
+bioforests.2276,Pennsylvania,Juniata,19.217
+bioforests.2277,Pennsylvania,Lackawanna,3.6795
+bioforests.2278,Pennsylvania,Lancaster,12.786
+bioforests.2279,Pennsylvania,Lawrence,5.9792
+bioforests.2280,Pennsylvania,Lebanon,4.5688
+bioforests.2284,Pennsylvania,McKean,25.332
+bioforests.2285,Pennsylvania,Mercer,15.85
+bioforests.2286,Pennsylvania,Mifflin,12.424
+bioforests.2287,Pennsylvania,Monroe,3.0203
+bioforests.2288,Pennsylvania,Montgomery,1.5025
+bioforests.2289,Pennsylvania,Montour,0.27597
+bioforests.2290,Pennsylvania,Northampton,0.35262
+bioforests.2291,Pennsylvania,Northumberland,16.658
+bioforests.2295,Pennsylvania,Potter,51.614
+bioforests.2299,Pennsylvania,Sullivan,20.697
+bioforests.2300,Pennsylvania,Susquehanna,15.19
+bioforests.2301,Pennsylvania,Tioga,21.263
+bioforests.2302,Pennsylvania,Union,4.2085
+bioforests.2304,Pennsylvania,Warren,37.509
+bioforests.2305,Pennsylvania,Washington,10.818
+bioforests.2306,Pennsylvania,Wayne,9.0986
+bioforests.2308,Pennsylvania,Wyoming,8.9335
+bioforests.2309,Pennsylvania,York,10.313
+bioforests.2310,Rhode Island,Bristol,0.061326
+bioforests.2311,Rhode Island,Kent,2.5645
+bioforests.2312,Rhode Island,Newport,0.0076657
+bioforests.2313,Rhode Island,Providence,0.39862
+bioforests.2314,Rhode Island,Washington,12.107
+bioforests.2315,South Carolina,Abbeville,35.08
+bioforests.2316,South Carolina,Aiken,65.534
+bioforests.2317,South Carolina,Allendale,53.193
+bioforests.2361,South Dakota,Aurora,0
+bioforests.2368,South Dakota,Buffalo,0
+bioforests.2370,South Dakota,Campbell,0
+bioforests.2372,South Dakota,Clark,0
+bioforests.2374,South Dakota,Codington,0
+bioforests.2375,South Dakota,Corson,0
+bioforests.2377,South Dakota,Davison,0
+bioforests.2381,South Dakota,Douglas,0
+bioforests.2384,South Dakota,Faulk,0
+bioforests.2387,South Dakota,Haakon,0
+bioforests.2388,South Dakota,Hamlin,0
+bioforests.2393,South Dakota,Hutchinson,0
+bioforests.2394,South Dakota,Hyde,0
+bioforests.2396,South Dakota,Jerauld,0
+bioforests.2399,South Dakota,Lake,0
+bioforests.2405,South Dakota,Marshall,0
+bioforests.2406,South Dakota,Meade,1.6788
+bioforests.2408,South Dakota,Miner,0
+bioforests.2410,South Dakota,Moody,0.076657
+bioforests.2414,South Dakota,Roberts,0
+bioforests.2415,South Dakota,Sanborn,0
+bioforests.2416,South Dakota,Shannon,0
+bioforests.2417,South Dakota,Spink,0
+bioforests.2418,South Dakota,Stanley,0
+bioforests.2419,South Dakota,Sully,0
+bioforests.2420,South Dakota,Todd,0.10732
+bioforests.2421,South Dakota,Tripp,0
+bioforests.2422,South Dakota,Turner,0
+bioforests.2423,South Dakota,Union,0
+bioforests.2424,South Dakota,Walworth,0
+bioforests.2425,South Dakota,Yankton,0
+bioforests.2426,South Dakota,Ziebach,0
+bioforests.2427,Tennessee,Anderson,12.082
+bioforests.2428,Tennessee,Bedford,3.0344
+bioforests.2429,Tennessee,Benton,10.166
+bioforests.2468,Tennessee,Houston,28.47
+bioforests.2474,Tennessee,Lake,1.1286
+bioforests.2475,Tennessee,Lauderdale,0.2854
+bioforests.2476,Tennessee,Lawrence,27.021
+bioforests.2477,Tennessee,Lewis,55.053
+bioforests.2478,Tennessee,Lincoln,8.3203
+bioforests.2479,Tennessee,Loudon,2.0043
+bioforests.2482,Tennessee,Macon,19.364
+bioforests.2483,Tennessee,Madison,18.166
+bioforests.2484,Tennessee,Marion,20.139
+bioforests.2485,Tennessee,Marshall,1.9707
+bioforests.2486,Tennessee,Maury,6.7599
+bioforests.2487,Tennessee,Meigs,3.604
+bioforests.2488,Tennessee,Monroe,17.552
+bioforests.2489,Tennessee,Montgomery,7.9936
+bioforests.2490,Tennessee,Moore,2.8322
+bioforests.2491,Tennessee,Morgan,13.745
+bioforests.2492,Tennessee,Obion,9.0455
+bioforests.2493,Tennessee,Overton,17.418
+bioforests.2494,Tennessee,Perry,31.481
+bioforests.2495,Tennessee,Pickett,6.3619
+bioforests.2496,Tennessee,Polk,12.198
+bioforests.2497,Tennessee,Putnam,11.216
+bioforests.2498,Tennessee,Rhea,19.266
+bioforests.2499,Tennessee,Roane,6.1402
+bioforests.2500,Tennessee,Robertson,3.4366
+bioforests.2501,Tennessee,Rutherford,0.70583
+bioforests.2507,Tennessee,Stewart,35.839
+bioforests.2511,Tennessee,Trousdale,1.5408
+bioforests.2512,Tennessee,Unicoi,5.0335
+bioforests.2513,Tennessee,Union,2.6417
+bioforests.2514,Tennessee,Van Buren,25.171
+bioforests.2515,Tennessee,Warren,13.918
+bioforests.2516,Tennessee,Washington,15.964
+bioforests.2517,Tennessee,Wayne,77.49
+bioforests.2518,Tennessee,Weakley,14.17
+bioforests.2519,Tennessee,White,20.458
+bioforests.2523,Texas,Andrews,0
+bioforests.2526,Texas,Archer,0
+bioforests.2527,Texas,Armstrong,0
+bioforests.2530,Texas,Bailey,0
+bioforests.2533,Texas,Baylor,0
+bioforests.2537,Texas,Blanco,0
+bioforests.2538,Texas,Borden,0
+bioforests.2544,Texas,Briscoe,0
+bioforests.2545,Texas,Brooks,0
+bioforests.2551,Texas,Callahan,0
+bioforests.2554,Texas,Carson,0
+bioforests.2556,Texas,Castro,0
+bioforests.2559,Texas,Childress,0
+bioforests.2561,Texas,Cochran,0
+bioforests.2562,Texas,Coke,0
+bioforests.2565,Texas,Collingsworth,0
+bioforests.2568,Texas,Comanche,0
+bioforests.2571,Texas,Coryell,0
+bioforests.2572,Texas,Cottle,0
+bioforests.2575,Texas,Crosby,0
+bioforests.2577,Texas,Dallam,0
+bioforests.2579,Texas,Dawson,0
+bioforests.2580,Texas,Deaf Smith,0
+bioforests.2584,Texas,Dickens,0
+bioforests.2585,Texas,Dimmit,0
+bioforests.2586,Texas,Donley,0
+bioforests.2588,Texas,Eastland,0
+bioforests.2589,Texas,Ector,0
+bioforests.2594,Texas,Falls,0
+bioforests.2596,Texas,Fayette,0
+bioforests.2597,Texas,Fisher,0
+bioforests.2598,Texas,Floyd,0
+bioforests.2603,Texas,Frio,0
+bioforests.2604,Texas,Gaines,0
+bioforests.2606,Texas,Garza,0
+bioforests.2607,Texas,Gillespie,0
+bioforests.2608,Texas,Glasscock,0
+bioforests.2611,Texas,Gray,0
+bioforests.2614,Texas,Grimes,1.6128
+bioforests.2615,Texas,Guadalupe,0
+bioforests.2616,Texas,Hale,0
+bioforests.2617,Texas,Hall,0
+bioforests.2618,Texas,Hamilton,0
+bioforests.2619,Texas,Hansford,0
+bioforests.2624,Texas,Hartley,0
+bioforests.2625,Texas,Haskell,0
+bioforests.2627,Texas,Hemphill,0
+bioforests.2631,Texas,Hockley,0
+bioforests.2632,Texas,Hood,0
+bioforests.2635,Texas,Howard,0
+bioforests.2638,Texas,Hutchinson,0
+bioforests.2639,Texas,Irion,0
+bioforests.2640,Texas,Jack,0
+bioforests.2641,Texas,Jackson,0
+bioforests.2645,Texas,Jim Hogg,0
+bioforests.2648,Texas,Jones,0
+bioforests.2653,Texas,Kent,0
+bioforests.2654,Texas,Kerr,0
+bioforests.2655,Texas,Kimble,0
+bioforests.2656,Texas,King,0
+bioforests.2661,Texas,Lamb,0
+bioforests.2663,Texas,La Salle,0
+bioforests.2668,Texas,Limestone,0
+bioforests.2669,Texas,Lipscomb,0
+bioforests.2673,Texas,Lubbock,0
+bioforests.2674,Texas,Lynn,0
+bioforests.2677,Texas,McMullen,0
+bioforests.2680,Texas,Martin,0
+bioforests.2681,Texas,Mason,0
+bioforests.2685,Texas,Menard,0
+bioforests.2686,Texas,Midland,0
+bioforests.2689,Texas,Mitchell,0
+bioforests.2692,Texas,Moore,0
+bioforests.2694,Texas,Motley,0
+bioforests.2698,Texas,Nolan,0
+bioforests.2700,Texas,Ochiltree,0
+bioforests.2701,Texas,Oldham,0
+bioforests.2706,Texas,Parmer,0
+bioforests.2709,Texas,Potter,0
+bioforests.2711,Texas,Rains,0
+bioforests.2712,Texas,Randall,0
+bioforests.2713,Texas,Reagan,0
+bioforests.2718,Texas,Roberts,0
+bioforests.2720,Texas,Rockwall,0
+bioforests.2721,Texas,Runnels,0
+bioforests.2728,Texas,Schleicher,0
+bioforests.2729,Texas,Scurry,0
+bioforests.2730,Texas,Shackelford,0
+bioforests.2732,Texas,Sherman,0
+bioforests.2734,Texas,Somervell,0
+bioforests.2736,Texas,Stephens,0
+bioforests.2737,Texas,Sterling,0
+bioforests.2738,Texas,Stonewall,0
+bioforests.2739,Texas,Sutton,0
+bioforests.2740,Texas,Swisher,0
+bioforests.2742,Texas,Taylor,0
+bioforests.2744,Texas,Terry,0
+bioforests.2745,Texas,Throckmorton,0
+bioforests.2752,Texas,Upton,0
+bioforests.2753,Texas,Uvalde,0
+bioforests.2763,Texas,Wheeler,0
+bioforests.2769,Texas,Winkler,0
+bioforests.2772,Texas,Yoakum,0
+bioforests.2773,Texas,Young,0
+bioforests.2775,Texas,Zavala,0
+bioforests.2776,Utah,Beaver,0.22997
+bioforests.2806,Vermont,Bennington,18.542
+bioforests.2807,Vermont,Caledonia,13.857
+bioforests.2808,Vermont,Chittenden,3.3499
+bioforests.2809,Vermont,Essex,17.914
+bioforests.2810,Vermont,Franklin,8.1846
+bioforests.2923,Virginia,Emporia,0
+bioforests.2924,Virginia,Fairfax City,0
+bioforests.2926,Virginia,Franklin City,0
+bioforests.2930,Virginia,Harrisonburg,0
+bioforests.2932,Virginia,Lexington,0
+bioforests.2934,Virginia,Manassas,0
+bioforests.2935,Virginia,Manassas Park,0
+bioforests.2947,Virginia,Staunton,0
+bioforests.2936,Virginia,Martinsville,0
+bioforests.2939,Virginia,Norton,0
+bioforests.2940,Virginia,Petersburg,0
+bioforests.2941,Virginia,Poquoson,0
+bioforests.3051,Wisconsin,Brown,1.0655
+bioforests.3052,Wisconsin,Buffalo,4.9137
+bioforests.2942,Virginia,Portsmouth,0
+bioforests.3055,Wisconsin,Chippewa,20.656
+bioforests.3056,Wisconsin,Clark,17.395
+bioforests.3057,Wisconsin,Columbia,5.9144
+bioforests.3058,Wisconsin,Crawford,4.0858
+bioforests.3059,Wisconsin,Dane,3.7651
+bioforests.2943,Virginia,Radford,0
+bioforests.2950,Virginia,Waynesboro,0
+bioforests.2952,Virginia,Winchester,0
+bioforests.2953,Washington,Adams,0
+bioforests.2954,Washington,Asotin,0.2683
+bioforests.2955,Washington,Benton,0
+bioforests.2956,Washington,Chelan,5.9616
+bioforests.2957,Washington,Clallam,83.379
+bioforests.2958,Washington,Clark,47.109
+bioforests.2959,Washington,Columbia,0
+bioforests.2960,Washington,Cowlitz,105.26
+bioforests.2961,Washington,Douglas,0
+bioforests.2962,Washington,Ferry,19.931
+bioforests.2963,Washington,Franklin,0
+bioforests.2964,Washington,Garfield,4.1625
+bioforests.2965,Washington,Grant,0
+bioforests.2966,Washington,Grays Harbor,166.4
+bioforests.2967,Washington,Island,0.68991
+bioforests.2968,Washington,Jefferson,53.713
+bioforests.2969,Washington,King,45.693
+bioforests.2970,Washington,Kitsap,12.212
+bioforests.2971,Washington,Kittitas,4.6991
+bioforests.2987,Washington,Wahkiakum,32.597
+bioforests.2991,Washington,Yakima,7.2058
+bioforests.2992,West Virginia,Barbour,16.771
+bioforests.2993,West Virginia,Berkeley,35.512
+bioforests.2994,West Virginia,Boone,14.311
+bioforests.2995,West Virginia,Braxton,24.406
+bioforests.3140,Wyoming,Washakie,0.015331
+bioforests.3141,Wyoming,Weston,0
+bioforests.3142,Puerto Rico,Adjuntas,0
+bioforests.3143,Puerto Rico,Aguada,0
+bioforests.3144,Puerto Rico,Aguadilla,0
+bioforests.3145,Puerto Rico,Aguas Buenas,0
+bioforests.3146,Puerto Rico,Aibonito,0
+bioforests.3147,Puerto Rico,Anasco,0
+bioforests.3148,Puerto Rico,Arecibo,0
+bioforests.3149,Puerto Rico,Arroyo,0
+bioforests.3150,Puerto Rico,Barceloneta,0
+bioforests.3151,Puerto Rico,Barranquitas,0
+bioforests.3152,Puerto Rico,Bayamon,0
+bioforests.3153,Puerto Rico,Cabo Rojo,0
+bioforests.3154,Puerto Rico,Caguas,0
+bioforests.3155,Puerto Rico,Camuy,0
+bioforests.3156,Puerto Rico,Canovanas,0
+bioforests.3157,Puerto Rico,Carolina,0
+bioforests.3158,Puerto Rico,Catano,0
+bioforests.3159,Puerto Rico,Cayey,0
+bioforests.3160,Puerto Rico,Ceiba,0
+bioforests.3161,Puerto Rico,Ciales,0
+bioforests.3162,Puerto Rico,Cidra,0
+bioforests.3163,Puerto Rico,Coamo,0
+bioforests.3164,Puerto Rico,Comerio,0
+bioforests.3165,Puerto Rico,Corozal,0
+bioforests.3166,Puerto Rico,Culebra,0
+bioforests.2996,West Virginia,Brooke,0.74357
+bioforests.2997,West Virginia,Cabell,4.975
+bioforests.2998,West Virginia,Calhoun,11.292
+bioforests.2999,West Virginia,Clay,12.896
+bioforests.3000,West Virginia,Doddridge,10.974
+bioforests.3001,West Virginia,Fayette,38.14
+bioforests.3002,West Virginia,Gilmer,10.072
+bioforests.3003,West Virginia,Grant,15.019
+bioforests.3004,West Virginia,Greenbrier,29.035
+bioforests.3005,West Virginia,Hampshire,17.407
+bioforests.3006,West Virginia,Hancock,0.091988
+bioforests.3007,West Virginia,Hardy,13.792
+bioforests.3008,West Virginia,Harrison,9.3227
+bioforests.3009,West Virginia,Jackson,7.5655
+bioforests.3010,West Virginia,Jefferson,1.9088
+bioforests.3011,West Virginia,Kanawha,29.625
+bioforests.3012,West Virginia,Lewis,16.004
+bioforests.3013,West Virginia,Lincoln,7.9664
+bioforests.3014,West Virginia,Logan,4.5534
+bioforests.3015,West Virginia,McDowell,10.172
+bioforests.3016,West Virginia,Marion,14.417
+bioforests.3017,West Virginia,Marshall,1.9778
+bioforests.3018,West Virginia,Mason,5.4427
+bioforests.3019,West Virginia,Mercer,17.749
+bioforests.3026,West Virginia,Ohio,0.2913
+bioforests.3027,West Virginia,Pendleton,19.005
+bioforests.3028,West Virginia,Pleasants,2.9171
+bioforests.3029,West Virginia,Pocahontas,28.31
+bioforests.3030,West Virginia,Preston,35.899
+bioforests.3031,West Virginia,Putnam,6.4687
+bioforests.3032,West Virginia,Raleigh,26.506
+bioforests.3033,West Virginia,Randolph,38.045
+bioforests.3034,West Virginia,Ritchie,14.075
+bioforests.3035,West Virginia,Roane,12.2
+bioforests.3036,West Virginia,Summers,18.681
+bioforests.3037,West Virginia,Taylor,4.3235
+bioforests.3049,Wisconsin,Barron,11.145
+bioforests.3064,Wisconsin,Eau Claire,8.6151
+bioforests.3065,Wisconsin,Florence,22.596
+bioforests.3066,Wisconsin,Fond du Lac,0.40628
+bioforests.3067,Wisconsin,Forest,45.452
+bioforests.3068,Wisconsin,Grant,5.4427
+bioforests.3201,Puerto Rico,Rincon,0
+bioforests.3202,Puerto Rico,Rio Grande,0
+bioforests.3203,Puerto Rico,Sabana Grande,0
+bioforests.3204,Puerto Rico,Salinas,0
+bioforests.3205,Puerto Rico,San German,0
+bioforests.3206,Puerto Rico,San Juan,0
+bioforests.3207,Puerto Rico,San Lorenzo,0
+bioforests.3208,Puerto Rico,San Sebastian,0
+bioforests.3209,Puerto Rico,Santa Isabel,0
+bioforests.3069,Wisconsin,Green,0.5596
+bioforests.3214,Puerto Rico,Vega Alta,0
+bioforests.3215,Puerto Rico,Vega Baja,0
+bioforests.3216,Puerto Rico,Vieques,0
+bioforests.3217,Puerto Rico,Villalba,0
+bioforests.3218,Puerto Rico,Yabucoa,0
+bioforests.3070,Wisconsin,Green Lake,4.3406
+bioforests.3078,Wisconsin,La Crosse,2.6753
+bioforests.3079,Wisconsin,Lafayette,1.9028
+bioforests.3080,Wisconsin,Langlade,47.592
+bioforests.3081,Wisconsin,Lincoln,35.009
+bioforests.3085,Wisconsin,Marquette,2.568
+bioforests.3086,Wisconsin,Menominee,29.277
+bioforests.3093,Wisconsin,Pepin,16.993
+bioforests.3096,Wisconsin,Portage,11.634
+bioforests.3097,Wisconsin,Price,35.657
+bioforests.3101,Wisconsin,Rusk,22.325
+bioforests.3104,Wisconsin,Sawyer,54.026
+bioforests.3107,Wisconsin,Taylor,17.879
+bioforests.3112,Wisconsin,Washburn,28.616
+bioforests.3114,Wisconsin,Waukesha,0.52127
+bioforests.3115,Wisconsin,Waupaca,16.688
+bioforests.3116,Wisconsin,Waushara,6.787
+bioforests.3117,Wisconsin,Winnebago,0.52893
+bioforests.3118,Wisconsin,Wood,11.516
+bioforests.3119,Wyoming,Albany,1.2955
+bioforests.3120,Wyoming,Big Horn,1.6711
+bioforests.3121,Wyoming,Campbell,0
+bioforests.3122,Wyoming,Carbon,0
+bioforests.3123,Wyoming,Converse,0.015331
+bioforests.3124,Wyoming,Crook,5.2127
+bioforests.3125,Wyoming,Fremont,0.068991
+bioforests.3126,Wyoming,Goshen,0
+bioforests.3127,Wyoming,Hot Springs,0.0076657
+bioforests.3128,Wyoming,Johnson,0.038329
+bioforests.3129,Wyoming,Laramie,0
+bioforests.3130,Wyoming,Lincoln,0.2683
+bioforests.3139,Wyoming,Uinta,1.4105
+bioforests.3169,Puerto Rico,Florida,0
+bioforests.3170,Puerto Rico,Guanica,0
+bioforests.3171,Puerto Rico,Guayama,0
+bioforests.3172,Puerto Rico,Guayanilla,0
+bioforests.3173,Puerto Rico,Guaynabo,0
+bioforests.3174,Puerto Rico,Gurabo,0
+bioforests.3175,Puerto Rico,Hatillo,0
+bioforests.3176,Puerto Rico,Hormigueros,0
+bioforests.3177,Puerto Rico,Humacao,0
+bioforests.3178,Puerto Rico,Isabela,0
+bioforests.3179,Puerto Rico,Jayuya,0
+bioforests.3180,Puerto Rico,Juana Diaz,0
+bioforests.3181,Puerto Rico,Juncos,0
+bioforests.3182,Puerto Rico,Lajas,0
+bioforests.3183,Puerto Rico,Lares,0
+bioforests.3184,Puerto Rico,Las Marias,0
+bioforests.3185,Puerto Rico,Las Piedras,0
+bioforests.3186,Puerto Rico,Loiza,0
+bioforests.3187,Puerto Rico,Luquillo,0
+bioforests.3188,Puerto Rico,Manati,0
+bioforests.3189,Puerto Rico,Maricao,0
+bioforests.3190,Puerto Rico,Maunabo,0
+bioforests.3191,Puerto Rico,Mayaguez,0
+bioforests.3192,Puerto Rico,Moca,0
+bioforests.3193,Puerto Rico,Morovis,0
+bioforests.3194,Puerto Rico,Naguabo,0
