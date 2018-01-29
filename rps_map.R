@@ -49,6 +49,8 @@ us_aea <- rbind(us_aea, alaska, hawaii)
 
 us_aea$STATEFP <- as.character(us_aea$STATEFP) #fix factors
 
+map <- fortify(us_aea, region="GEOID")
+
 # plot which states have RPS
 rps_by_state <- read_csv('rps-by-state.csv')
 fips <- read_delim('data/fips_code.txt', delim = '|')
