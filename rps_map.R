@@ -51,6 +51,8 @@ us_aea$STATEFP <- as.character(us_aea$STATEFP) #fix factors
 
 map <- fortify(us_aea, region="GEOID")
 
+st_write(us_aea, 'geo_data/us_elided.geojson')
+
 # plot which states have RPS
 rps_by_state <- read_csv('rps-by-state.csv')
 fips <- read_delim('data/fips_code.txt', delim = '|')
