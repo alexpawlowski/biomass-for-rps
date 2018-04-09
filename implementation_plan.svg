@@ -15,9 +15,9 @@
    viewBox="0 0 190.5 32.229969"
    version="1.1"
    id="svg2550"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="implementation_plan.svg"
-   inkscape:export-filename="C:\Users\email\Documents\GitHub\biomass-for-rps\timeline.png"
+   inkscape:export-filename="C:\Users\hqp\Documents\GitHub\biomass-for-rps\timeline.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600">
   <defs
@@ -29,18 +29,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="320.20182"
-     inkscape:cy="156.23685"
+     inkscape:zoom="1.979899"
+     inkscape:cx="114.41991"
+     inkscape:cy="14.815493"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3335"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,7 +118,7 @@
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.11999989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          y="239.86746"
-         x="18.140858"
+         x="15.883082"
          height="10.553826"
          width="27.218287"
          id="rect1018-4-7-66"
@@ -238,7 +238,7 @@
          inkscape:connector-curvature="0"
          id="path1351-9"
          d="m 179.17965,251.21587 v 5.7463"
-         style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.50800002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#a7a9ac;stroke-width:0.50800002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path1351-4"
@@ -389,6 +389,55 @@
              xlink:href="#rect1018-4-7-66"
              y="0"
              x="0" /></flowRegion><flowPara
-           id="flowPara2474">Y0: Apply tax to land developers</flowPara></flowRoot>    </g>
+           id="flowPara2474">Y0: Apply tax to land developers</flowPara></flowRoot>      <path
+         transform="scale(1,-1)"
+         inkscape:transform-center-y="0.240975"
+         d="m 178.3449,-253.24045 0.83476,-1.44584 0.83475,1.44584 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="3.6651914"
+         sodipodi:arg1="2.6179939"
+         sodipodi:r2="0.48194477"
+         sodipodi:r1="0.96388966"
+         sodipodi:cy="-253.7224"
+         sodipodi:cx="179.17966"
+         sodipodi:sides="3"
+         id="path1250-3-1-6"
+         style="opacity:1;fill:#00746f;fill-opacity:1;fill-rule:evenodd;stroke:#00746f;stroke-width:0.50258005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <rect
+         y="258.03549"
+         x="171.06566"
+         height="7.1045227"
+         width="27.796925"
+         id="rect1018-4-7-6-5"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.11999989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5277778px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         id="flowRoot9321"><flowRegion
+           id="flowRegion9323"><use
+             x="0"
+             y="0"
+             xlink:href="#rect1018-4-7-6-5"
+             id="use9325" /></flowRegion><flowPara
+           id="flowPara9327">Y9: States receive funds from USDA</flowPara></flowRoot>      <rect
+         y="258.03549"
+         x="121.50468"
+         height="7.1045227"
+         width="27.796925"
+         id="rect1018-4-7-6-5-6"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.11999989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5277778px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         id="flowRoot9370"><flowRegion
+           id="flowRegion9372"><use
+             x="0"
+             y="0"
+             xlink:href="#rect1018-4-7-6-5-6"
+             id="use9374" /></flowRegion><flowPara
+           id="flowPara9378">Y6: States receive funds from USDA</flowPara></flowRoot>    </g>
   </g>
 </svg>
